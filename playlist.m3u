@@ -1,879 +1,113 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/alarabiya(1080p).png" group-title="ARABIC NEWS",Al Arabiya (1080p)
+#EXTINF:-1 group-title="ARABIC NEWS",AL ARABIYA (1080P)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/alarabiyabusiness(1080p).png" group-title="ARABIC NEWS",Al Arabiya Business (1080p)
+#EXTINF:-1 group-title="ARABIC NEWS",AL ARABIYA BUSINESS (1080P)
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/alarabiyaprograms(1280p).png" group-title="ARABIC NEWS",Al Arabiya Programs (1280p)
+#EXTINF:-1 group-title="ARABIC NEWS",AL ARABIYA PROGRAMS (1280P)
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/alhadath(1080p).png" group-title="ARABIC NEWS",Al Hadath (1080p)
+#EXTINF:-1 group-title="ARABIC NEWS",AL HADATH (1080P)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/aljazeera(1080p).png" group-title="ARABIC NEWS",Al Jazeera (1080p)
+#EXTINF:-1 group-title="ARABIC NEWS",AL JAZEERA (1080P)
 https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/aljazeera2(1080p).png" group-title="ARABIC NEWS",Al Jazeera 2 (1080p)
+#EXTINF:-1 group-title="ARABIC NEWS",AL JAZEERA 2 (1080P)
 https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/aljazeeradocumentary(1080p)[geo-blocked].png" group-title="ARABIC NEWS",Al Jazeera Documentary (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="ARABIC NEWS",AL JAZEERA DOCUMENTARY (1080P) [GEO-BLOCKED]
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/aljazeeramubasher(1080p).png" group-title="ARABIC NEWS",Al Jazeera Mubasher (1080p)
+#EXTINF:-1 group-title="ARABIC NEWS",AL JAZEERA MUBASHER (1080P)
 https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/aljazeeramubasher24(1080p).png" group-title="ARABIC NEWS",Al Jazeera Mubasher 24 (1080p)
+#EXTINF:-1 group-title="ARABIC NEWS",AL JAZEERA MUBASHER 24 (1080P)
 https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/aljazeeramubasherbroadcast2(1080p).png" group-title="ARABIC NEWS",Al Jazeera Mubasher Broadcast 2 (1080p)
+#EXTINF:-1 group-title="ARABIC NEWS",AL JAZEERA MUBASHER BROADCAST 2 (1080P)
 https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/almasartv(576p).png" group-title="MOVIES & SERIES",Al Masar TV (576p)
-https://starmenajo.com/hls/almasar/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/alkassfive(1080p).png" group-title="BEIN SPORTS (HD/4K)",Alkass Five (1080p)
-https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/alkassfour(1080p).png" group-title="BEIN SPORTS (HD/4K)",Alkass Four (1080p)
-https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/alkassone(1080p).png" group-title="BEIN SPORTS (HD/4K)",Alkass One (1080p)
-https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/alkassseven(1080p).png" group-title="BEIN SPORTS (HD/4K)",Alkass Seven (1080p)
-https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/alkassshoof(1080p).png" group-title="BEIN SPORTS (HD/4K)",Alkass SHOOF (1080p)
-https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/alkassshoof2(1080p).png" group-title="BEIN SPORTS (HD/4K)",Alkass SHOOF 2 (1080p)
-https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/alkasssix(1080p).png" group-title="BEIN SPORTS (HD/4K)",Alkass Six (1080p)
-https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/alkassthree(1080p).png" group-title="BEIN SPORTS (HD/4K)",Alkass Three (1080p)
-https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/alkasstwo(1080p).png" group-title="BEIN SPORTS (HD/4K)",Alkass Two (1080p)
-https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/channel8kurdish(720p).png" group-title="KURDISH LOCAL",Channel 8 Kurdish (720p)
-https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/cnbcarabiya(1080p).png" group-title="ARABIC NEWS",CNBC Arabiya (1080p)
+#EXTINF:-1 group-title="ARABIC NEWS",BBC ARABIC (720P)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 group-title="ARABIC NEWS",CNBC ARABIYA (1080P)
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/france24arabic(1080p).png" group-title="FRANCE",France 24 Arabic (1080p)
-https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/kurdistantv(720p)[not24/7].png" group-title="KURDISH LOCAL",Kurdistan TV (720p) [Not 24/7]
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/kurdsat(1080p).png" group-title="KURDISH LOCAL",Kurdsat (1080p)
-https://iko-live.akamaized.net/KurdsatTV/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/kurdsatnews(1080p).png" group-title="KURDISH LOCAL",Kurdsat News (1080p)
-https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/mbc1usa(1080p)[geo-blocked].png" group-title="USA",MBC 1 USA (1080p) [Geo-blocked]
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/mbc3usa(1080p)[geo-blocked].png" group-title="USA",MBC 3 USA (1080p) [Geo-blocked]
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/mbcdramausa(1080p).png" group-title="USA",MBC Drama USA (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/mbcmasrusa(1080p).png" group-title="USA",MBC Masr USA (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/musawachannel(1080p)[not24/7].png" group-title="USA",MusawaChannel (1080p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/shamstv(1080p).png" group-title="KURDISH LOCAL",Shams TV (1080p)
-https://stream.shams.tv/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/skynewsarabia(1080p).png" group-title="ARABIC NEWS",Sky News Arabia (1080p)
+#EXTINF:-1 group-title="ARABIC NEWS",RT ARABIC (1080P) [GEO-BLOCKED]
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC NEWS",SKY NEWS ARABIA (1080P)
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/skynewsarabia(1080p)[not24/7].png" group-title="ARABIC NEWS",Sky News Arabia (1080p) [Not 24/7]
+#EXTINF:-1 group-title="ARABIC NEWS",SKY NEWS ARABIA (1080P) [NOT 24/7]
 https://stream.skynewsarabia.com/ott/ott.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/skynewsarabia(portrait)(1280p)[not24/7].png" group-title="ARABIC NEWS",Sky News Arabia (Portrait) (1280p) [Not 24/7]
+#EXTINF:-1 group-title="ARABIC NEWS",SKY NEWS ARABIA (PORTRAIT) (1280P) [NOT 24/7]
 https://stream.skynewsarabia.com/vertical/vertical.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/skynewsarabiavertical(1080p).png" group-title="ARABIC NEWS",Sky News Arabia Vertical (1080p)
+#EXTINF:-1 group-title="ARABIC NEWS",SKY NEWS ARABIA VERTICAL (1080P)
 https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/trtarabi(1080p)[not24/7].png" group-title="TURKEY",TRT Arabi (1080p) [Not 24/7]
-https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/zagros(720p)[not24/7].png" group-title="KURDISH LOCAL",Zagros (720p) [Not 24/7]
-https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/4kurd.png" group-title="KURDISH LOCAL",4 Kurd
-https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/kurdchannel.png" group-title="KURDISH LOCAL",Kurd Channel
-https://kurdchhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/kurdistan24(720p).png" group-title="KURDISH LOCAL",Kurdistan 24 (720p)
-https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/kurdmaxmusic(720p).png" group-title="KURDISH LOCAL",KurdMax Music (720p)
-https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/kurdmaxshow(720p).png" group-title="KURDISH LOCAL",KurdMax Show (720p)
-https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/mixkurdy(1080p).png" group-title="KURDISH LOCAL",Mixkurdy (1080p)
-https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rudawtv(1080p).png" group-title="KURDISH LOCAL",Rudaw TV (1080p)
-https://live.rudaw.net/hls/rudaw-tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/trtkurdî(720p).png" group-title="KURDISH LOCAL",TRT Kurdî (720p)
-https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/waartv(1080p).png" group-title="KURDISH LOCAL",Waar TV (1080p)
-https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/zoomtvkurdish(720p).png" group-title="KURDISH LOCAL",Zoom TV Kurdish (720p)
-#EXTVLCOPT:http-referrer=https://zoomnews.info/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/kurdmaxsorani(1080p).png" group-title="KURDISH LOCAL",KurdMax Sorani (1080p)
-https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/marjaeyattvpersian(240p)[not24/7].png" group-title="IRAN",Marjaeyat TV Persian (240p) [Not 24/7]
-https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/50centaction(720p).png" group-title="KURDISH LOCAL",50 Cent Action (720p)
-https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/alarabiyaenglish(1080p).png" group-title="ARABIC NEWS",Al Arabiya English (1080p)
+#EXTINF:-1 group-title="ARABIC NEWS",AL ARABIYA ENGLISH (1080P)
 https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/aljazeeraenglish(1080p).png" group-title="ARABIC NEWS",Al Jazeera English (1080p)
+#EXTINF:-1 group-title="ARABIC NEWS",AL JAZEERA ENGLISH (1080P)
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/aniplusasia(720p).png" group-title="USA",Aniplus Asia (720p)
-https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/antennesteiermark(720p).png" group-title="KURDISH LOCAL",Antenne Steiermark (720p)
-https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/arktv(1080p)[not24/7].png" group-title="KURDISH LOCAL",Ark TV (1080p) [Not 24/7]
-https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/arkadagtv(406p)[not24/7].png" group-title="KURDISH LOCAL",Arkadag TV (406p) [Not 24/7]
-https://alpha.tv.online.tm/hls/ch000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/arkansaspbs[geo-blocked].png" group-title="KURDISH LOCAL",Arkansas PBS [Geo-blocked]
-https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/arkotv.png" group-title="KURDISH LOCAL",Arko TV
-https://arkhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/arydigitalusa(720p)[not24/7].png" group-title="USA",ARY Digital USA (720p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://live.arydigital.tv/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/avatar.png" group-title="GERMANY",Avatar
-https://jmp2.uk/plu-600adbdf8c554e00072125c9.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/babysharktv.png" group-title="KURDISH LOCAL",Baby Shark TV
-https://jmp2.uk/plu-63da6bcd60bc8f0008a5d364.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/babysharktv.png" group-title="KURDISH LOCAL",Baby Shark TV
-https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/babysharktv.png" group-title="KURDISH LOCAL",Baby Shark TV
-https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/babysharktv(1080p).png" group-title="KURDISH LOCAL",Baby Shark TV (1080p)
-https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/barktv(1080p).png" group-title="KURDISH LOCAL",BarkTV (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/bbcdrama(1080p).png" group-title="SPAIN",BBC Drama (1080p)
-https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/bbcdramaitaly(1080p).png" group-title="ITALY",BBC Drama Italy (1080p)
-https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/bbcpersian(720p).png" group-title="IRAN",BBC Persian (720p)
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/bbctopgearfrance(1080p).png" group-title="FRANCE",BBC Top Gear France (1080p)
-https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/bbctopgeargermany(1080p).png" group-title="GERMANY",BBC Top Gear Germany (1080p)
-https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/bbctopgearitaly(1080p).png" group-title="ITALY",BBC Top Gear Italy (1080p)
-https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/bbctravel.png" group-title="GERMANY",BBC Travel
-https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/beinsportsxtraenespanol(1080p).png" group-title="BEIN SPORTS (HD/4K)",beIN Sports XTRA en Espanol (1080p)
+#EXTINF:-1 group-title="ARABIC NEWS",SKY NEWS EXTRA 1 (540P)
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 group-title="ARABIC NEWS",SKY NEWS EXTRA 2 (540P) [NOT 24/7]
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 group-title="ARABIC NEWS",SKY NEWS EXTRA 3 (1080P)
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 group-title="SPORTS HD/4K",BEIN SPORTS XTRA EN ESPANOL (1080P)
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/betclassics.png" group-title="FRANCE",BET Classics
-https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/beverlyhills90210.png" group-title="GERMANY",Beverly Hills 90210
-https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/buenaparktelevision(360p).png" group-title="KURDISH LOCAL",Buena Park Television (360p)
-https://buenapark.cablecast.tv/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/buyingblinddenmark.png" group-title="KURDISH LOCAL",Buying Blind Denmark
-https://jmp2.uk/plu-63c6a7544faf1c0007b496d7.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/ccplutotv.png" group-title="GERMANY",CC Pluto TV
-https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/chaoscity.png" group-title="GERMANY",Chaos City
-https://jmp2.uk/plu-60afbad343e3840007164348.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/cheers.png" group-title="GERMANY",Cheers
-https://jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/cholusatsur36(214p)[not24/7].png" group-title="USA",Cholusat Sur 36 (214p) [Not 24/7]
-http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/cinecomedia.png" group-title="SPAIN",Cine comedia
-https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/cinemahausa(720p).png" group-title="USA",Cinema Hausa (720p)
-https://streamdot.broadpeak.io/cff02a74da64d1459eeb779df71f0511/afxpstr/CinemaHausa/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/classcnbc(1080p)[geo-blocked].png" group-title="BEIN SPORTS (HD/4K)",Class CNBC (1080p) [Geo-blocked]
-https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/clubbingtvfrance.png" group-title="FRANCE",Clubbing TV France
-https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/comediamadeinspain+.png" group-title="SPAIN",Comedia Made in Spain+
-https://jmp2.uk/plu-5f5a0a0109d930000711e610.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/comedycentralsouthpark.png" group-title="KURDISH LOCAL",Comedy Central South Park
-https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/comedycentralsouthpark.png" group-title="KURDISH LOCAL",Comedy Central South Park
-https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/comedycentralsouthpark.png" group-title="KURDISH LOCAL",Comedy Central South Park
-https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/cusanoitaliatv(720p).png" group-title="USA",Cusano Italia TV (720p)
-https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/cypresspublicaccesschannel36(cypressca)(360p).png" group-title="BEIN SPORTS (HD/4K)",Cypress Public Access Channel 36 (Cypress CA) (360p)
-https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/darkmattertv(720p).png" group-title="KURDISH LOCAL",Dark Matter TV (720p)
-https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/daserste(720p).png" group-title="KURDISH LOCAL",Das Erste (720p)
-https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/daserstehd(1080p).png" group-title="KURDISH LOCAL",Das Erste HD (1080p)
-https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/ddjharkhand(504p).png" group-title="KURDISH LOCAL",DD Jharkhand (504p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e8c3741f8c154d3185831f4e31777fb2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/designatedsurvivor(1080p)[geo-blocked].png" group-title="KURDISH LOCAL",Designated Survivor (1080p) [Geo-blocked]
-https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/divinamourtv(720p).png" group-title="USA",Divin Amour TV (720p)
-https://voozmedia.fun/divinamourtv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/dokusat(1080p).png" group-title="USA",Dokusat (1080p)
-https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/dunyanews(ukfeed)(720p)[not24/7].png" group-title="TURKEY",Dunya News (UK Feed) (720p) [Not 24/7]
-https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/englishclubtv(576i).png" group-title="KURDISH LOCAL",English Club TV (576i)
-https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/espíritusantoyfuegotv(480p).png" group-title="USA",Espíritu Santo Y Fuego TV (480p)
-https://inliveserver.com:1936/8392/8392/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/espn8theocho(1080p).png" group-title="KURDISH LOCAL",ESPN8 The Ocho (1080p)
-https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/etvteluguusa(720p).png" group-title="USA",ETV Telugu USA (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/ewtngermany(720p).png" group-title="GERMANY",EWTN Germany (720p)
-https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/ewtnspain&latinamerica(720p).png" group-title="SPAIN",EWTN Spain & Latin America (720p)
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/failarmy.png" group-title="ITALY",Failarmy
-https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/fifa+italy(720p).png" group-title="ITALY",FIFA+ Italy (720p)
-https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/fifa+spain(720p).png" group-title="SPAIN",FIFA+ Spain (720p)
-https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/filmgoldgermany(1080p).png" group-title="GERMANY",FilmGold Germany (1080p)
-https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/filmrisebingewatchfrance(720p).png" group-title="FRANCE",FilmRise Binge Watch France (720p)
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883021
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/filmrisesériesfrance(720p).png" group-title="FRANCE",FilmRise Séries France (720p)
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/filmriseznationfrance(720p).png" group-title="FRANCE",FilmRise Z Nation France (720p)
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883103
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/flohockey24/7(1080p).png" group-title="KURDISH LOCAL",FloHockey 24/7 (1080p)
-https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/floracing24/7(1080p).png" group-title="KURDISH LOCAL",FloRacing 24/7 (1080p)
-https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/flowerstvusa.png" group-title="USA",Flowers TV USA
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/fox13seattlewa(kcpq)(720p).png" group-title="KURDISH LOCAL",FOX 13 Seattle WA (KCPQ) (720p)
-https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/fox25boston(wfxt-tv)(1080p)[geo-blocked].png" group-title="KURDISH LOCAL",Fox 25 Boston (WFXT-TV) (1080p) [Geo-blocked]
-https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/france2(1080p).png" group-title="FRANCE",France 2 (1080p)
-http://69.64.57.208/france2/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/france2hd(720p)[geo-blocked].png" group-title="FRANCE",France 2 HD (720p) [Geo-Blocked]
-https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/france3hd(720p)[geo-blocked].png" group-title="FRANCE",France 3 HD (720p) [Geo-Blocked]
-https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/france4hd(720p)[geo-blocked].png" group-title="FRANCE",France 4 HD (720p) [Geo-Blocked]
-https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/france5(1080p).png" group-title="FRANCE",France 5 (1080p)
-http://69.64.57.208/france5/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/france5hd(720p)[geo-blocked].png" group-title="FRANCE",France 5 HD (720p) [Geo-Blocked]
-https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/france24english(1080p).png" group-title="FRANCE",France 24 English (1080p)
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/france24español(1080p).png" group-title="FRANCE",France 24 Español (1080p)
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/france24fastenglish(1080p).png" group-title="FRANCE",France 24 FAST English (1080p)
-https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/france24french(1080p).png" group-title="FRANCE",France 24 French (1080p)
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/franceinter(288p).png" group-title="FRANCE",France Inter (288p)
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinter.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/franceinfo(720p)[geo-blocked].png" group-title="FRANCE",Franceinfo (720p) [Geo-Blocked]
-https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/fromsouthparkwithlove.png" group-title="KURDISH LOCAL",From South Park with Love
-https://jmp2.uk/plu-65b3d7c033ea860008516824.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/fromsouthparkwithlove.png" group-title="KURDISH LOCAL",From South Park with Love
-https://jmp2.uk/plu-65b3d7c80cb1a10008822e85.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/fromsouthparkwithlove.png" group-title="KURDISH LOCAL",From South Park with Love
-https://jmp2.uk/plu-65b3d7b7c798e8000852ff0a.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/gemkids.png" group-title="KURDISH LOCAL",GEM Kids
-https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/geordieshore.png" group-title="ITALY",Geordie Shore
-https://jmp2.uk/plu-65c4960d11ced7000812c433.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/germanyshore.png" group-title="GERMANY",Germany Shore
-https://jmp2.uk/plu-6447dea7e94c380008dba94c.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/gousatv(720p).png" group-title="USA",Go USA TV (720p)
-https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/grahamnortongermany(1080p).png" group-title="GERMANY",Graham Norton Germany (1080p)
-https://amg00654-itv-amg00654c37-rakuten-de-7600.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/grjngoitaly(720p).png" group-title="ITALY",Grjngo Italy (720p)
-https://amogonetworx-grjngo-6-it.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/grjngospain(720p).png" group-title="SPAIN",Grjngo Spain (720p)
-https://amogo-networx-grjngopelculasdeloeste-1-es.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/hallmarkdrama(720p)[not24/7].png" group-title="KURDISH LOCAL",Hallmark Drama (720p) [Not 24/7]
-https://tvpass.org/live/HallmarkDrama/hd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/hallmarkenespanol[geo-blocked].png" group-title="KURDISH LOCAL",Hallmark en Espanol [Geo-blocked]
-https://amg00235-amg00235c3-xumo-us-3820.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/hallmarkmovies&more(1080p)[geo-blocked].png" group-title="KURDISH LOCAL",Hallmark Movies & More (1080p) [Geo-blocked]
-https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/hallmarkmovies&mysterieseast(1080p)[not24/7].png" group-title="KURDISH LOCAL",Hallmark Movies & Mysteries East (1080p) [Not 24/7]
-https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/handicaptvfrance.png" group-title="FRANCE",HANDICAP TV France
-https://srv.webtvmanager.fr:3697/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/harkhabar(576p).png" group-title="KURDISH LOCAL",Har Khabar (576p)
-https://mumt01.tangotv.in/HARKHABAR/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/harvestusa(576p).png" group-title="USA",Harvest USA (576p)
-https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/hell'skitchengermany(1080p).png" group-title="GERMANY",Hell's Kitchen Germany (1080p)
-https://hellskitchengermany-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/hell'skitchenitaly(1080p).png" group-title="ITALY",Hell's Kitchen Italy (1080p)
-https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/htrtv(720p).png" group-title="TURKEY",HTR TV (720p)
-https://ms7.mx-cd.net/tv/286-3043214/HTR_Media_TV.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/i24newsenglishusa(1080p).png" group-title="USA",i24NEWS English USA (1080p)
-https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/icarly.png" group-title="GERMANY",iCarly
-https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/icepilots.png" group-title="GERMANY",Ice Pilots
-https://jmp2.uk/plu-5ce40f42ba7f7f5ea9518fe1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/ifilmpersian.png" group-title="IRAN",iFilm Persian
-https://live.presstv.ir/hls/ifilmfa.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/inazumaelevengoitaly(720p).png" group-title="ITALY",Inazuma Eleven Go Italy (720p)
-https://minerva-pictures-inazumaelevengo-1-it.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/itvpersianmusic(1080p).png" group-title="IRAN",ITV Persian Music (1080p)
-https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/itvturkishmusic.png" group-title="TURKEY",iTV Turkish Music
-https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/jerseyshore.png" group-title="BEIN SPORTS (HD/4K)",Jersey Shore
-https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/juventudrenovadaenelespiritusanto(720p)[not24/7].png" group-title="USA",Juventud Renovada en el Espiritu Santo (720p) [Not 24/7]
-https://telered.live:1936/jrestv/jrestv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/kasstv(720p)[not24/7].png" group-title="BEIN SPORTS (HD/4K)",Kass TV (720p) [Not 24/7]
-https://goliveafrica.media:9998/live/62f643cdca8cf/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/lamaisonfrance5.png" group-title="FRANCE",La maison France 5
-https://jmp2.uk/plu-685a999bd33909bdd7d2fb1e.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/lefigaroidf(1080p).png" group-title="FRANCE",Le Figaro IDF (1080p)
-https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/loveislanddanmark.png" group-title="KURDISH LOCAL",Love Island Danmark
-https://jmp2.uk/plu-61c19bfb3bf4940007804d32.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/loveislandusa.png" group-title="USA",Love Island USA
-https://jmp2.uk/plu-695e2857026be6e9d3ad59d3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/loveworldusa(720p).png" group-title="USA",LoveWorld USA (720p)
-https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/ngrp:lwu.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/lyxfällandanmark.png" group-title="KURDISH LOCAL",Lyxfällan Danmark
-https://jmp2.uk/plu-61c19165decece0007e9b2f3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/markrobertv(1080p).png" group-title="KURDISH LOCAL",Mark Rober TV (1080p)
-https://d217xu4o9hejvm.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/markatv(720p)[not24/7].png" group-title="KURDISH LOCAL",Marka TV (720p) [Not 24/7]
-https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/masterchefdanmarksstørstemadtalenter.png" group-title="KURDISH LOCAL",MasterChef Danmarks største madtalenter
-https://jmp2.uk/plu-61c19edbf535220007075c4e.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/mbcbusan(부산mbc)(360p)[not24/7].png" group-title="USA",MBC Busan (부산MBC) (360p) [Not 24/7]
-https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/melroseplace.png" group-title="SPAIN",Melrose Place
-https://jmp2.uk/plu-66275eed5e23700008f8c8f9.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/mmctvusa(720p).png" group-title="USA",MMC TV USA (720p)
-https://live.relentlessinnovations.net:1936/rspe-tv/rspe-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/moorparkgovernmentchannel(360p).png" group-title="KURDISH LOCAL",Moorpark Government Channel (360p)
-https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/moorpark/G0086_003/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/motorracingfrance.png" group-title="FRANCE",Motorracing France
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/7b971242-c5fe-11ec-967f-401ac48a6867/0/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/moviedome(720p).png" group-title="GERMANY",MOVIEDOME (720p)
-https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/mr.beananimeitaly(1080p).png" group-title="ITALY",Mr. Bean Anime Italy (1080p)
-https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/mr.beananimespain(1080p).png" group-title="SPAIN",Mr. Bean Anime Spain (1080p)
-https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/mtavariarkhi.png" group-title="KURDISH LOCAL",Mtavari Arkhi
-https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/mtvcatfishtvshow(720p).png" group-title="GERMANY",MTV Catfish TV Show (720p)
-https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/mtvdating(720p).png" group-title="GERMANY",MTV Dating (720p)
-https://jmp2.uk/plu-5caf330ea5068259a32320fd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/mtvplutotv.png" group-title="GERMANY",MTV Pluto TV
-https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/mtvridiculousness.png" group-title="GERMANY",MTV Ridiculousness
-https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/mtvteenmom(720p).png" group-title="GERMANY",MTV Teen Mom (720p)
-https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/mtvtheshores.png" group-title="GERMANY",MTV The Shores
-https://jmp2.uk/plu-5caf32c2a5068259a32320fc.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/musavision(1080p).png" group-title="USA",Musavision (1080p)
-https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/musayof(israel)(240p)[not24/7].png" group-title="USA",Musayof (Israel) (240p) [Not 24/7]
-http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/mytimemovienetworkfrance(1080p).png" group-title="FRANCE",MyTime Movie Network France (1080p)
-https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/mytimemovienetworkgermany(1080p).png" group-title="GERMANY",MyTime Movie Network Germany (1080p)
-https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/mytimemovienetworkspain(1080p).png" group-title="SPAIN",MyTime movie network Spain (1080p)
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/myzenwellbeingtv(1080p).png" group-title="BEIN SPORTS (HD/4K)",MyZen Wellbeing TV (1080p)
-https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/naruto(720p).png" group-title="GERMANY",Naruto (720p)
-https://jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/narutogermany(1080p).png" group-title="GERMANY",Naruto Germany (1080p)
-https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/natickpublicaccesschannel(720p).png" group-title="BEIN SPORTS (HD/4K)",Natick Public Access Channel (720p)
-https://livestream.telvue.com/natickpegasus2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/nationaliraniancongresstv.png" group-title="IRAN",National Iranian Congress TV
-https://tv.iraniancongress.com/stream/tv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/naturetimefrance(1080p).png" group-title="FRANCE",Nature Time France (1080p)
-https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/news18biharjharkhand(1080p).png" group-title="KURDISH LOCAL",News18 Bihar Jharkhand (1080p)
-https://n18syndication.akamaized.net/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/nhkkishousaigai(360p)[not24/7].png" group-title="USA",NHK Kishou Saigai (360p) [Not 24/7]
-https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/nickgermany(1080p)[geo-blocked].png" group-title="GERMANY",Nick Germany (1080p) [Geo-blocked]
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/ntdtvenglish(1080p).png" group-title="USA",NTD TV English (1080p)
-https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/nusantaratv(1080p).png" group-title="USA",Nusantara TV (1080p)
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/okkassel(720p)[geo-blocked].png" group-title="BEIN SPORTS (HD/4K)",OK Kassel (720p) [Geo-blocked]
-https://s.ok54.de/mok-ks/kassel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/omroephoekschewaard(480p).png" group-title="KURDISH LOCAL",Omroep Hoeksche Waard (480p)
-https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/omroeplingewaard(720p).png" group-title="KURDISH LOCAL",Omroep Lingewaard (720p)
-https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/onepiece.png" group-title="SPAIN",One Piece
-https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/onlinetvnusantara(720p)[not24/7].png" group-title="USA",Online TV Nusantara (720p) [Not 24/7]
-https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/ontariopublicaccesschannel(360p).png" group-title="BEIN SPORTS (HD/4K)",Ontario Public Access Channel (360p)
-https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/osnmoviesaction(1080p).png" group-title="MOVIES & SERIES",OSN Movies Action (1080p)
+#EXTINF:-1 group-title="KURDISTAN LOCAL",KURDISTAN TV (720P) [NOT 24/7]
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="KURDISTAN LOCAL",ZAGROS (720P) [NOT 24/7]
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="KURDISTAN LOCAL",RUDAW TV (1080P)
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC 1 (1080P)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC 1 EGYPT (1080P)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC 1 USA (1080P) [GEO-BLOCKED]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC 3 USA (1080P) [GEO-BLOCKED]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC 4 (1080P)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC 5 (1080P)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC BOLLYWOOD (1080P) [GEO-BLOCKED]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC DRAMA (1080P)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC DRAMA USA (1080P)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC IRAQ (1080P)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC MASR (1080P)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC MASR 2 (1080P)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC MASR DRAMA (1080P)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC MASR USA (1080P)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC+ DRAMA (1080P)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",ROTANA AFLAM+ (1080P)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",ROTANA CINEMA EGYPT (1080P) [GEO-BLOCKED]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",ROTANA FM KSA (720P)
+rtmp://live.restream.io/pull/play_320121_94512612fd0e084bd284
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",ROTANA RADIO JORDAN STUDIO (1080P) [NOT 24/7]
+http://45.63.116.205/hls/stream1.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",ROTANA TARAB JORDAN CITY VIEW (720P) [NOT 24/7]
+http://45.63.116.205/hls3/stream1.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",SWARAJ EXPRESS SMBC (720P) [NOT 24/7]
+https://cdn-2.pishow.tv/live/477/master.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",OSN MOVIES ACTION (1080P)
 http://116.90.120.151:8000/play/a0ax/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/ou-munmacausatellitech.96(720p).png" group-title="USA",Ou-Mun Macau Satellite Ch. 96 (720p)
-https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/outersphere(1080p).png" group-title="KURDISH LOCAL",OuterSphere (1080p)
-https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/persianacinema.png" group-title="IRAN",Persiana Cinema
-https://cinehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/persianacomedy.png" group-title="IRAN",Persiana Comedy
-https://comedyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/persianadocs.png" group-title="IRAN",Persiana Docs
-https://scihls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/persianafamily.png" group-title="IRAN",Persiana Family
-https://familyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/persianafight.png" group-title="IRAN",Persiana Fight
-https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/persianafolk.png" group-title="IRAN",Persiana Folk
-https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/persianairanian.png" group-title="IRAN",Persiana Iranian
-https://irhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/persianajunior.png" group-title="IRAN",Persiana Junior
-https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/persianakorea.png" group-title="IRAN",Persiana Korea
-https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/persianalatino.png" group-title="IRAN",Persiana Latino
-https://latinohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/persianamedical.png" group-title="IRAN",Persiana Medical
-https://phd2hls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/persianamusic.png" group-title="IRAN",Persiana Music
-https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/persiananostalgia.png" group-title="IRAN",Persiana Nostalgia
-https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/persianaplus.png" group-title="IRAN",Persiana Plus
-https://euhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/persianareality.png" group-title="IRAN",Persiana Reality
-https://twohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/persianaseries.png" group-title="IRAN",Persiana Series
-https://onehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/persianateen.png" group-title="IRAN",Persiana Teen
-https://kphls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/persianatravel.png" group-title="IRAN",Persiana Travel
-https://ptravelhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/persianaturkiye.png" group-title="IRAN",Persiana Turkiye
-https://turkhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/persianavibe.png" group-title="IRAN",Persiana Vibe
-https://raphls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/planeta-rtr.png" group-title="USA",Planeta-RTR
-https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/plutotvanimals.png" group-title="GERMANY",Pluto TV Animals
-https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/plutotvanime.png" group-title="GERMANY",Pluto TV Anime
-https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/plutotvcomediamadeinspain.png" group-title="SPAIN",Pluto TV Comedia made in Spain
-https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/plutotvcrime.png" group-title="GERMANY",Pluto TV Crime
-https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/plutotvexplore.png" group-title="GERMANY",Pluto TV Explore
-https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/plutotvfood.png" group-title="GERMANY",Pluto TV Food
-https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/plutotvhistory.png" group-title="GERMANY",Pluto TV History
-https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/plutotvhorror.png" group-title="SPAIN",Pluto TV Horror
-https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/plutotvinvestigation.png" group-title="FRANCE",Pluto TV Investigation
-https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/plutotvkultfilme.png" group-title="GERMANY",Pluto TV Kultfilme
-https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/plutotvmovies.png" group-title="GERMANY",Pluto TV Movies
-https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/plutotvnature.png" group-title="GERMANY",Pluto TV Nature
-https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/plutotvparanormal.png" group-title="GERMANY",Pluto TV Paranormal
-https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/plutotvsharks.png" group-title="KURDISH LOCAL",Pluto TV Sharks
-https://jmp2.uk/plu-669526d232e25300084bb47b.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/plutotvsitcoms.png" group-title="GERMANY",Pluto TV Sitcoms
-https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/plutotvspace.png" group-title="GERMANY",Pluto TV Space
-https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/plutotvthriller.png" group-title="GERMANY",Pluto TV Thriller
-https://jmp2.uk/plu-5e1efdbf90ba3e0009d99082.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/plutotvtruecrime.png" group-title="GERMANY",Pluto TV True Crime
-https://jmp2.uk/plu-615333098185f00008715a56.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/potta-divinetvusa(480p).png" group-title="USA",Potta-Divine TV USA (480p)
-https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/qausaintv(720p).png" group-title="USA",Qausain TV (720p)
-https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/qvc2germany(540p).png" group-title="GERMANY",QVC 2 Germany (540p)
-https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/qvcgermany(720p).png" group-title="GERMANY",QVC Germany (720p)
-https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/qvcstylegermany(540p).png" group-title="GERMANY",QVC Style Germany (540p)
-https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvactionmoviesgermany(1080p).png" group-title="GERMANY",Rakuten TV Action Movies Germany (1080p)
-https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvactionmoviesitaly(1080p).png" group-title="ITALY",Rakuten TV Action Movies Italy (1080p)
-https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvactionmoviesspain(1080p).png" group-title="SPAIN",Rakuten TV Action Movies Spain (1080p)
-https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvasiancinemaitaly(1080p).png" group-title="ITALY",Rakuten TV Asian Cinema Italy (1080p)
-https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvcomedymoviesgermany(1080p).png" group-title="GERMANY",Rakuten TV Comedy Movies Germany (1080p)
-https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvcomedymoviesitaly(1080p).png" group-title="ITALY",Rakuten TV Comedy Movies Italy (1080p)
-https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvcomedymoviesspain(1080p).png" group-title="SPAIN",Rakuten TV Comedy Movies Spain (1080p)
-https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvcrimeseriesgermany(1080p).png" group-title="GERMANY",Rakuten TV Crime Series Germany (1080p)
-https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvcrimeseriesitaly(1080p).png" group-title="ITALY",Rakuten TV Crime Series Italy (1080p)
-https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvcrimeseriesspain(1080p).png" group-title="SPAIN",Rakuten TV Crime Series Spain (1080p)
-https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvdramamoviesgermany(1080p).png" group-title="GERMANY",Rakuten TV Drama Movies Germany (1080p)
-https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvdramamoviesitaly(1080p).png" group-title="ITALY",Rakuten TV Drama Movies Italy (1080p)
-https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvdramamoviesspain(1080p).png" group-title="SPAIN",Rakuten TV Drama Movies Spain (1080p)
-https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvfamilymoviesgermany(1080p).png" group-title="GERMANY",Rakuten TV Family Movies Germany (1080p)
-https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvfamilymoviesitaly(1080p).png" group-title="ITALY",Rakuten TV Family Movies Italy (1080p)
-https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvfamilymoviesspain(1080p).png" group-title="SPAIN",Rakuten TV Family Movies Spain (1080p)
-https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvromancemoviesgermany(1080p).png" group-title="GERMANY",Rakuten TV Romance Movies Germany (1080p)
-https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvromancemoviesitaly(1080p).png" group-title="ITALY",Rakuten TV Romance Movies Italy (1080p)
-https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvromancemoviesspain(1080p).png" group-title="SPAIN",Rakuten TV Romance Movies Spain (1080p)
-https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvsci-fiitaly(1080p).png" group-title="ITALY",Rakuten TV Sci-Fi Italy (1080p)
-https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvsci-fispain(1080p).png" group-title="SPAIN",Rakuten TV Sci-Fi Spain (1080p)
-https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvthrillersgermany(1080p).png" group-title="GERMANY",Rakuten TV Thrillers Germany (1080p)
-https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvthrillersspain(1080p).png" group-title="SPAIN",Rakuten TV Thrillers Spain (1080p)
-https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvtopfilmsfrance(720p).png" group-title="FRANCE",Rakuten TV Top Films France (720p)
-https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvtopmoviesgermany(1080p).png" group-title="GERMANY",Rakuten TV Top Movies Germany (1080p)
-https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvtopmoviesitaly(1080p).png" group-title="ITALY",Rakuten TV Top Movies Italy (1080p)
-https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutentvtopmoviesspain(1080p).png" group-title="SPAIN",Rakuten TV Top Movies Spain (1080p)
-https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rakutenviki(1080p).png" group-title="SPAIN",Rakuten Viki (1080p)
-https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/reloadplay(720p).png" group-title="USA",Reload Play (720p)
-http://web.onair-radio.eu:1935/video/video/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/royalworldgermany(720p).png" group-title="GERMANY",Royalworld Germany (720p)
-https://amogonetworx-royalworld-2-de.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rtfrance(1080p)[geo-blocked].png" group-title="FRANCE",RT France (1080p) [Geo-blocked]
-https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rtrtv(1080p).png" group-title="TURKEY",RTRTV (1080p)
-https://tv3ecuador.site/hls/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rttrtrento(720p).png" group-title="TURKEY",RTTR Trento (720p)
-https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rtvherceg-bosne(576p)[not24/7].png" group-title="MOVIES & SERIES",RTV Herceg-Bosne (576p) [Not 24/7]
-https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/rtvparkstad(1080p).png" group-title="KURDISH LOCAL",RTV Parkstad (1080p)
-https://live.streamteam.eu:8443/parkstad/parkstad/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/sanskarusa(1080p).png" group-title="USA",Sanskar USA (1080p)
-https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/senderneujerusalem(576p).png" group-title="USA",Sender Neu Jerusalem (576p)
-https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/skjønnhetsfellendanmark.png" group-title="KURDISH LOCAL",Skjønnhetsfellen Danmark
-https://jmp2.uk/plu-643810f2e8a4aa0008ccf575.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/skönhetsfällandanmark.png" group-title="KURDISH LOCAL",Skönhetsfällan Danmark
-https://jmp2.uk/plu-643808dce0789d00084797f6.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/snlvault(1080p).png" group-title="KURDISH LOCAL",SNL Vault (1080p)
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/sonyoneseriescomedie(1080p).png" group-title="KURDISH LOCAL",Sony One Series Comedie (1080p)
-https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/sonyonesharktankbrasil(720p).png" group-title="KURDISH LOCAL",Sony One Shark Tank Brasil (720p)
-https://jmp2.uk/plu-6647c0b91050b60008390de4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/sonyonesharktankméxico(720p).png" group-title="KURDISH LOCAL",Sony One Shark Tank México (720p)
-https://jmp2.uk/plu-6647c02422494d000804b13a.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/sophiatvitaly(720p).png" group-title="ITALY",Sophia TV Italy (720p)
-https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark.png" group-title="KURDISH LOCAL",South Park
-https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark.png" group-title="KURDISH LOCAL",South Park
-https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark.png" group-title="KURDISH LOCAL",South Park
-https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark.png" group-title="KURDISH LOCAL",South Park
-https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark.png" group-title="KURDISH LOCAL",South Park
-https://jmp2.uk/plu-61c1e88cd168ea0007068133.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark.png" group-title="KURDISH LOCAL",South Park
-https://jmp2.uk/plu-61c0b627e3ed94000793c18a.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark.png" group-title="KURDISH LOCAL",South Park
-https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southparkarmageddon.png" group-title="KURDISH LOCAL",South Park Armageddon
-https://jmp2.uk/plu-660bff28516d260008479e23.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southparkarmageddon.png" group-title="KURDISH LOCAL",South Park Armageddon
-https://jmp2.uk/plu-660bff5724e1d000085b7c07.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southparkarmageddon.png" group-title="KURDISH LOCAL",South Park Armageddon
-https://jmp2.uk/plu-660bff7dc8311c0008b4bdb4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southparkenfrançais.png" group-title="KURDISH LOCAL",South Park En Français
-https://jmp2.uk/plu-62bdb919d36cbd0007e6ab8a.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southparkhalloween.png" group-title="KURDISH LOCAL",South Park Halloween
-https://jmp2.uk/plu-6501c8c76625510008cbe20f.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southparkhalloween.png" group-title="KURDISH LOCAL",South Park Halloween
-https://jmp2.uk/plu-6501c7ea9201e80008bb17b9.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southparkhalloween.png" group-title="KURDISH LOCAL",South Park Halloween
-https://jmp2.uk/plu-6501c86dbd341e000829a1cc.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southparkrockin'out.png" group-title="KURDISH LOCAL",South Park Rockin' Out
-https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southparkrockin'out.png" group-title="KURDISH LOCAL",South Park Rockin' Out
-https://jmp2.uk/plu-664f1370f78a8500092df452.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southparkrockin'out.png" group-title="KURDISH LOCAL",South Park Rockin' Out
-https://jmp2.uk/plu-664f13aff9992200084a3532.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southparkversiónoriginal.png" group-title="KURDISH LOCAL",South Park Versión Original
-https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:butterscollection.png" group-title="KURDISH LOCAL",South Park: Butters Collection
-https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:butterscollection.png" group-title="KURDISH LOCAL",South Park: Butters Collection
-https://jmp2.uk/plu-65d87a66ec9fda0008a5ac11.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:butterscollection.png" group-title="KURDISH LOCAL",South Park: Butters Collection
-https://jmp2.uk/plu-65d87fcb66eec8000887f4aa.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:butterscollection.png" group-title="KURDISH LOCAL",South Park: Butters Collection
-https://jmp2.uk/plu-65d881d566eec8000887f6bb.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:cartmancollection.png" group-title="KURDISH LOCAL",South Park: Cartman Collection
-https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:cartmancollection.png" group-title="KURDISH LOCAL",South Park: Cartman Collection
-https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:cartmancollection.png" group-title="KURDISH LOCAL",South Park: Cartman Collection
-https://jmp2.uk/plu-65d87a058145cb0008265c2e.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:cartmancollection.png" group-title="KURDISH LOCAL",South Park: Cartman Collection
-https://jmp2.uk/plu-65d87fa0f7f0af0008b2358b.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:cartmancollection.png" group-title="KURDISH LOCAL",South Park: Cartman Collection
-https://jmp2.uk/plu-65d881b1332fec000833a122.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:coleçãocartman.png" group-title="KURDISH LOCAL",South Park: Coleção Cartman
-https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:coleçãokenny.png" group-title="KURDISH LOCAL",South Park: Coleção Kenny
-https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:coleçãokyle.png" group-title="KURDISH LOCAL",South Park: Coleção Kyle
-https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:coleçãostan.png" group-title="KURDISH LOCAL",South Park: Coleção Stan
-https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:coleccióncartman.png" group-title="KURDISH LOCAL",South Park: Colección Cartman
-https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:colecciónkenny.png" group-title="KURDISH LOCAL",South Park: Colección Kenny
-https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:colecciónkyle.png" group-title="KURDISH LOCAL",South Park: Colección Kyle
-https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:colecciónstan.png" group-title="KURDISH LOCAL",South Park: Colección Stan
-https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:holidaycollection.png" group-title="KURDISH LOCAL",South Park: Holiday Collection
-https://jmp2.uk/plu-66fcedd95049580008d17ddf.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:holidaycollection.png" group-title="KURDISH LOCAL",South Park: Holiday Collection
-https://jmp2.uk/plu-66fcee104ca31f00080492e0.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:holidaycollection.png" group-title="KURDISH LOCAL",South Park: Holiday Collection
-https://jmp2.uk/plu-66fcee79565d3a00088ac033.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:intothestars.png" group-title="KURDISH LOCAL",South Park: Into the Stars
-https://jmp2.uk/plu-664f0eaa8ce31100088036bd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:intothestars.png" group-title="KURDISH LOCAL",South Park: Into the Stars
-https://jmp2.uk/plu-664f0ecc41af640008e37b43.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:intothestars.png" group-title="KURDISH LOCAL",South Park: Into the Stars
-https://jmp2.uk/plu-664f0eea0120f40008bf97d6.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:kennycollection.png" group-title="KURDISH LOCAL",South Park: Kenny Collection
-https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:kennycollection.png" group-title="KURDISH LOCAL",South Park: Kenny Collection
-https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:kennycollection.png" group-title="KURDISH LOCAL",South Park: Kenny Collection
-https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:kennycollection.png" group-title="KURDISH LOCAL",South Park: Kenny Collection
-https://jmp2.uk/plu-65d87f53ec9fda0008a5b810.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:kennycollection.png" group-title="KURDISH LOCAL",South Park: Kenny Collection
-https://jmp2.uk/plu-65d880cea25d5e0008315b0a.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:kylecollection.png" group-title="KURDISH LOCAL",South Park: Kyle Collection
-https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:kylecollection.png" group-title="KURDISH LOCAL",South Park: Kyle Collection
-https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:kylecollection.png" group-title="KURDISH LOCAL",South Park: Kyle Collection
-https://jmp2.uk/plu-65d87a908145cb0008265c6d.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:kylecollection.png" group-title="KURDISH LOCAL",South Park: Kyle Collection
-https://jmp2.uk/plu-65d88004ec9fda0008a5b8b3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:kylecollection.png" group-title="KURDISH LOCAL",South Park: Kyle Collection
-https://jmp2.uk/plu-65d882394e01740008a36768.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:originalversion.png" group-title="KURDISH LOCAL",South Park: Original Version
-https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:stancollection.png" group-title="KURDISH LOCAL",South Park: Stan Collection
-https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:stancollection.png" group-title="KURDISH LOCAL",South Park: Stan Collection
-https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:stancollection.png" group-title="KURDISH LOCAL",South Park: Stan Collection
-https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:stancollection.png" group-title="KURDISH LOCAL",South Park: Stan Collection
-https://jmp2.uk/plu-65d87f7a28730900088e7fbf.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:stancollection.png" group-title="KURDISH LOCAL",South Park: Stan Collection
-https://jmp2.uk/plu-65d881914e01740008a36603.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/southpark:welcometocanada!.png" group-title="KURDISH LOCAL",South Park: Welcome to Canada!
-https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/sparktv(1080p).png" group-title="KURDISH LOCAL",Spark TV (1080p)
-https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/sparktvluz&amor(1080p).png" group-title="KURDISH LOCAL",Spark TV Luz & Amor (1080p)
-https://candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/sparklemovies(720p).png" group-title="KURDISH LOCAL",Sparkle Movies (720p)
-https://candlelightmedia-sparklemovies-1-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/spongebobschwammkopf(720p).png" group-title="GERMANY",SpongeBob Schwammkopf (720p)
-https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/starkentrikiselladas(1080p).png" group-title="KURDISH LOCAL",Star Kentrikis Elladas (1080p)
-https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/starkefrauen(1080p).png" group-title="KURDISH LOCAL",Starke Frauen (1080p)
-https://mainstreamstarkefrauen-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/steiermarktv(1080p).png" group-title="KURDISH LOCAL",Steiermark TV (1080p)
-https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/stingrayholidayscapes(1080p).png" group-title="KURDISH LOCAL",Stingray Holidayscapes (1080p)
-https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/strongmanchampionsleague(720p).png" group-title="GERMANY",Strongman Champions League (720p)
-https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/supermarketsweep(1080p)[geo-blocked].png" group-title="KURDISH LOCAL",Supermarket Sweep (1080p) [Geo-blocked]
-https://amg00145-buzzr-bigballs-supermarket-rokuus-iqx8g.amagi.tv/playlist/amg00145-buzzr-bigballs-supermarket-rokuus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/supermarketsweep(1080p)[geo-blocked].png" group-title="KURDISH LOCAL",Supermarket Sweep (1080p) [Geo-blocked]
-https://pb-zp5s7cka1vjrd.akamaized.net/Supermarket_Sweep.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/supermarketsweep(1080p)[geo-blocked].png" group-title="KURDISH LOCAL",Supermarket Sweep (1080p) [Geo-blocked]
-https://aegis-cloudfront-1.tubi.video/4541ec70-497a-4a92-87cf-50258fbab999/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/supermarketsweep(1080p)[geo-blocked].png" group-title="KURDISH LOCAL",Supermarket Sweep (1080p) [Geo-blocked]
-https://amg00145-letsplayinc-supermarketswep-xumo-59bvy.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/supermarketsweep.png" group-title="KURDISH LOCAL",Supermarket Sweep
-https://jmp2.uk/plu-649ddbfb6f29ec000874ca9e.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/tagesschau24(720p).png" group-title="BEIN SPORTS (HD/4K)",Tagesschau 24 (720p)
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/takeshi'scastle.png" group-title="GERMANY",Takeshi's Castle
-https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/tastemade(1080p).png" group-title="GERMANY",Tastemade (1080p)
-https://rakutenaa-tm-germany-rakuten-ger-8jboz.amagi.tv/playlist/rakutenAA-tm-germany-rakuten-ger/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/teamusa(1080p).png" group-title="USA",Team USA (1080p)
-https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/teamusatv(1080p).png" group-title="USA",Team USA TV (1080p)
-https://d8b6mh9us4zvx.cloudfront.net/TEAM_USA_TV.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/tennischannelgermany(720p).png" group-title="GERMANY",Tennis Channel Germany (720p)
-https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/thebobrosschannel(1080p).png" group-title="BEIN SPORTS (HD/4K)",The Bob Ross Channel (1080p)
-https://bobross-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bobross-xumo/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/theconners(1080p)[geo-blocked].png" group-title="KURDISH LOCAL",The Conners (1080p) [Geo-blocked]
-https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/thepetcollective.png" group-title="ITALY",The Pet Collective
-https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/thepetcollective.png" group-title="SPAIN",The Pet Collective
-https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/thepriceisright:thebarkerera(720p).png" group-title="KURDISH LOCAL",The Price is Right: The Barker Era (720p)
-https://jmp2.uk/plu-64c220e15dc1660008a79c96.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/thepriceisright:thebarkerera(1080p)[geo-blocked].png" group-title="KURDISH LOCAL",The Price Is Right: The Barker Era (1080p) [Geo-blocked]
-https://amg00145-buzzr-bigballs-tpir-8min-rokuus-otcre.amagi.tv/playlist/amg00145-buzzr-bigballs-tpir-8min-rokuus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/tokusato.png" group-title="USA",Tokusato
-https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/tokusato.png" group-title="USA",Tokusato
-https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/topbarçaspain(1080p).png" group-title="SPAIN",TOP Barça Spain (1080p)
-https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/totallyturtles(720p).png" group-title="GERMANY",Totally Turtles (720p)
-https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/travel+adventure(1080p).png" group-title="USA",Travel+Adventure (1080p)
-http://31.148.48.15/Travel_Adventure_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/travelxpfrance(720p).png" group-title="FRANCE",Travelxp France (720p)
-https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/travelxpgermany(720p).png" group-title="GERMANY",Travelxp Germany (720p)
-https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/travelxpspain(720p).png" group-title="SPAIN",Travelxp Spain (720p)
-https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/trt(720p).png" group-title="TURKEY",TRT (720p)
-https://av.hellasnet.tv/rst/trt/main_stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/trt(410p)[not24/7].png" group-title="TURKEY",TRT (410p) [Not 24/7]
-https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/trt1(1080p).png" group-title="TURKEY",TRT 1 (1080p)
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/trt3(720p).png" group-title="TURKEY",TRT 3 (720p)
-https://tv-trt3.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/trtavaz(720p).png" group-title="TURKEY",TRT Avaz (720p)
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/trtbelgesel(720p).png" group-title="TURKEY",TRT Belgesel (720p)
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/trtçocuk(720p).png" group-title="TURKEY",TRT Çocuk (720p)
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/trtdiyanetçocuk(720p).png" group-title="TURKEY",TRT Diyanet Çocuk (720p)
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/trtebailkokul(720p).png" group-title="TURKEY",TRT EBA Ilkokul (720p)
-https://tv-e-okul00.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/trtebalise(720p).png" group-title="TURKEY",TRT EBA Lise (720p)
-https://tv-e-okul02.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/trtebaortaokul(720p).png" group-title="TURKEY",TRT EBA Ortaokul (720p)
-https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/trthaber(720p).png" group-title="TURKEY",TRT Haber (720p)
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/trtmüzik(720p).png" group-title="TURKEY",TRT Müzik (720p)
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/trtspor(1080p)[geo-blocked].png" group-title="TURKEY",TRT Spor (1080p) [Geo-blocked]
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/trtsporyildiz(1080p)[geo-blocked].png" group-title="TURKEY",TRT Spor Yildiz (1080p) [Geo-blocked]
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/trttürk(720p).png" group-title="TURKEY",TRT Türk (720p)
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/trtworld(1080p)[not24/7].png" group-title="TURKEY",TRT World (1080p) [Not 24/7]
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/trtworldhd.png" group-title="TURKEY",TRT World HD
-https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/tv5mondefrancebelgiquesuissemonaco(1080p)[geo-blocked].png" group-title="FRANCE",TV5Monde France Belgique Suisse Monaco (1080p) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/tv5mondefrancebelgiumswitzerlandmonacohd(720p)[geo-blocked].png" group-title="FRANCE",TV5Monde France Belgium Switzerland Monaco HD (720p) [Geo-Blocked]
-https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/tv9nusantara(720p).png" group-title="USA",TV9 Nusantara (720p)
-https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/tvsyri(720p).png" group-title="MOVIES & SERIES",TV Syri (720p)
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/tvtoday(576p).png" group-title="MOVIES & SERIES",TV Today (576p)
-http://103.250.28.74:8000/play/a06e/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/tvcom(1080p).png" group-title="KURDISH LOCAL",TVcom (1080p)
-https://tvlocales-live.freecaster.com/tvcom/95d2f656-ba85-4e13-affc-f1936be1a86d/95d2f656-ba85-4e13-affc-f1936be1a86d.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/tvrinusatenggarabarat(720p).png" group-title="USA",TVRI Nusa Tenggara Barat (720p)
-https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/tvrinusatenggaratimur(480p).png" group-title="USA",TVRI Nusa Tenggara Timur (480p)
-https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/tycsportsusa.png" group-title="USA",TyC Sports USA
-http://45.170.130.224:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/usanetworkeast(1080p)[not24/7].png" group-title="USA",USA Network East (1080p) [Not 24/7]
-https://tvpass.org/live/USANetworkEast/hd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/usatoday(1080p).png" group-title="USA",USA Today (1080p)
+#EXTINF:-1 group-title="USA CHANNELS",MUSAWACHANNEL (1080P) [NOT 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+#EXTINF:-1 group-title="USA CHANNELS",CHOLUSAT SUR 36 (214P) [NOT 24/7]
+http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
+#EXTINF:-1 group-title="USA CHANNELS",I24NEWS ENGLISH USA (1080P)
+https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
+#EXTINF:-1 group-title="USA CHANNELS",ONLINE TV NUSANTARA (720P) [NOT 24/7]
+https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8
+#EXTINF:-1 group-title="USA CHANNELS",USA TODAY (1080P)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/vevo'90s&'00sitaly(1080p).png" group-title="ITALY",Vevo '90s & '00s Italy (1080p)
-https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/vevopopgermany(1080p).png" group-title="GERMANY",Vevo Pop Germany (1080p)
-https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/vevopopitaly(1080p).png" group-title="ITALY",Vevo Pop Italy (1080p)
-https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/vevopopspain(1080p).png" group-title="SPAIN",Vevo Pop Spain (1080p)
-https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/victorious.png" group-title="GERMANY",Victorious
-https://jmp2.uk/plu-5e8b5e43f294f8000793c3d7.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/voapersian(1080p).png" group-title="IRAN",VOA Persian (1080p)
-https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/wfmzdorneyparkcamera.png" group-title="KURDISH LOCAL",WFMZ Dorney Park Camera
-https://cdn.jaybirdtv.com/wfmz/5/live/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/wickedtunagermany(1080p).png" group-title="GERMANY",Wicked Tuna Germany (1080p)
-https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/willowsports(1080p).png" group-title="KURDISH LOCAL",Willow Sports (1080p)
-https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/worldpokertour.png" group-title="GERMANY",World Poker Tour
-https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/xitehitsgermany(1080p).png" group-title="GERMANY",XITE Hits Germany (1080p)
-https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/yu-gi-oh!italy(1080p).png" group-title="ITALY",Yu-Gi-Oh! Italy (1080p)
-https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/zagros.png" group-title="KURDISH LOCAL",Zagros
-https://ncdn.telewebion.ir/zagros/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/zeebiharjharkhand(720p).png" group-title="KURDISH LOCAL",Zee Bihar Jharkhand (720p)
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/zeetvcanada(1080p).png" group-title="KURDISH LOCAL",Zee TV Canada (1080p)
-https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/zoopark(576i).png" group-title="KURDISH LOCAL",Zoopark (576i)
-https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/арктика24(архангельск)(1080p).png" group-title="KURDISH LOCAL",Арктика 24 (Архангельск) (1080p)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/архыз24(1080p).png" group-title="KURDISH LOCAL",Архыз 24 (1080p)
-https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/новыйрусский(720p).png" group-title="BEIN SPORTS (HD/4K)",Новый Русский (720p)
-https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/осн.png" group-title="MOVIES & SERIES",ОСН
-http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/logos/江苏卫视(1080p).png" group-title="USA",江苏卫视 (1080p)
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+#EXTINF:-1 group-title="USA CHANNELS",TYC SPORTS USA
+http://45.170.130.224:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="USA CHANNELS",USA NETWORK EAST (1080P) [NOT 24/7]
+https://tvpass.org/live/USANetworkEast/hd
+#EXTINF:-1 group-title="USA CHANNELS",CINEMA HAUSA (720P)
+https://streamdot.broadpeak.io/cff02a74da64d1459eeb779df71f0511/afxpstr/CinemaHausa/index.m3u8

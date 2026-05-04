@@ -1,32 +1,21 @@
-name: Auto Update BEBOX Playlist
+name: Update BEBOX
 
 on:
-  schedule:
-    - cron: '0 0 * * *' # يعمل تلقائياً كل منتصف ليل
-  workflow_dispatch: # يظهر لك زر "Run" للتشغيل اليدوي
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v3
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-
-      - name: Install Requests Library
-        run: pip install requests
-
-      - name: Execute Script
-        run: python update_list.py
-
-      - name: Save Changes to GitHub
-        run: |
+      - run: pip install requests
+      - run: python update_list.py
+      - run: |
           git config --global user.name "BeboxBot"
           git config --global user.email "bot@bebox.com"
           git add playlist.m3u
-          git commit -m "Daily Auto-Update" || exit 0
+          git commit -m "Update" || exit 0
           git push

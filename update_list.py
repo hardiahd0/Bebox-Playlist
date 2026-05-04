@@ -1,80 +1,102 @@
 import requests
-import re
 
-def run_bebox_premium_engine():
-    # مصادر منتقاة بعناية لضمان الجودة العالية (HD/4K)
+def run_bebox_pro_engine():
+    # مصادر شاملة لضمان جودة الروابط وتنوعها
     sources = [
-        "https://iptv-org.github.io/iptv/languages/ara.m3u", # العربية الرسمية
-        "https://iptv-org.github.io/iptv/categories/news.m3u", # الأخبار العالمية والعربية
-        "https://iptv-org.github.io/iptv/categories/sports.m3u", # الرياضة العالمية
-        "https://iptv-org.github.io/iptv/categories/movies.m3u"  # الأفلام
+        "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "https://iptv-org.github.io/iptv/languages/kur.m3u",
+        "https://iptv-org.github.io/iptv/index.m3u"
     ]
     
-    # القنوات الكردية المحلية الموثوقة فقط (تم حصرها لضمان الجودة)
-    kurdish_vips = ["RUDAW", "K24", "KURDISTAN TV", "WAAR", "AVA ENTERTAINMENT", "NET KURD", "ZAGROS"]
+    # القوائم البرمجية لتخزين القنوات بالترتيب المطلوب
+    categories = {
+        "ARABIC NEWS": [],
+        "KURDISH NEWS": [],
+        "KURDISH LOCAL": [],
+        "BEIN SPORTS (HD/4K)": [],
+        "MBC GROUP": [],
+        "OSN GROUP": [],
+        "MOVIES & SERIES": [],
+        "USA": [],
+        "UK": [],
+        "FRANCE": [],
+        "TURKEY": [],
+        "GERMANY": [],
+        "IRAN": [],
+        "NORWAY": [],
+        "ITALY": [],
+        "SPAIN": []
+    }
 
-    final_data = "#EXTM3U\n"
     seen_urls = set()
-    
-    # مصفوفات لتخزين القنوات حسب الأولوية لترتيبها في الملف
-    news_list = []
-    sports_list = []
-    kurdish_list = []
-    movies_list = []
-    intl_list = []
-
-    print("جاري تنقية القنوات وجلب الجودة العالية فقط...")
+    print("جاري بناء القائمة الاحترافية لتطبيق BEBOX...")
 
     for url in sources:
         try:
-            r = requests.get(url, timeout=20)
+            r = requests.get(url, timeout=25)
             if r.status_code == 200:
-                content = r.text.splitlines()
-                for i in range(len(content)):
-                    if content[i].startswith("#EXTINF"):
-                        info = content[i]
-                        link = content[i+1] if i+1 < len(content) else ""
+                lines = r.text.splitlines()
+                for i in range(len(lines)):
+                    if lines[i].startswith("#EXTINF"):
+                        info = lines[i]
+                        link = lines[i+1] if i+1 < len(lines) else ""
                         
                         if not link or link in seen_urls: continue
                         
                         name = info.split(',')[-1].upper()
+
+                        # نظام الفرز الذكي (Smart Sorting)
+                        # 1. الأخبار العربية
+                        if any(x in name for x in ["AL JAZEERA", "ARABIYA", "HADATH", "SKY NEWS ARABIA"]):
+                            categories["ARABIC NEWS"].append(f'#EXTINF:-1 group-title="ARABIC NEWS",{name}\n{link}')
                         
-                        # 1. تصنيف الأخبار (الأولوية الأولى)
-                        if any(x in name for x in ["AL JAZEERA", "ARABIYA", "HADATH", "SKY NEWS", "BBC ARABIC", "RT ARABIC"]):
-                            news_list.append(f'#EXTINF:-1 group-title="ARABIC NEWS",{name}\n{link}')
-                            seen_urls.add(link)
+                        # 2. الأخبار الكردية
+                        elif any(x in name for x in ["RUDAW", "K24", "WAAR NEWS", "KURDISTAN 24"]):
+                            categories["KURDISH NEWS"].append(f'#EXTINF:-1 group-title="KURDISH NEWS",{name}\n{link}')
+                        
+                        # 3. القنوات الكردية المحلية (الترفيهية والعامة)
+                        elif any(x in name for x in ["AVA", "NET KURD", "KURDISTAN TV", "ZAGROS", "WAAR TV", "ARK"]):
+                            categories["KURDISH LOCAL"].append(f'#EXTINF:-1 group-title="KURDISH LOCAL",{name}\n{link}')
 
-                        # 2. تصنيف الرياضة (beIN & 4K)
-                        elif any(x in name for x in ["BEIN", "AD SPORTS", "SSC", "CANAL+"]):
-                            sports_list.append(f'#EXTINF:-1 group-title="SPORTS HD/4K",{name}\n{link}')
-                            seen_urls.add(link)
+                        # 4. باقة beIN
+                        elif "BEIN" in name:
+                            categories["BEIN SPORTS (HD/4K)"].append(f'#EXTINF:-1 group-title="BEIN SPORTS",{name}\n{link}')
 
-                        # 3. تصنيف الكردية (المحلية الحقيقية فقط)
-                        elif any(x in name for x in kurdish_vips):
-                            kurdish_list.append(f'#EXTINF:-1 group-title="KURDISTAN LOCAL",{name}\n{link}')
-                            seen_urls.add(link)
+                        # 5. باقة MBC (منفصلة تماماً عن USA)
+                        elif "MBC" in name:
+                            categories["MBC GROUP"].append(f'#EXTINF:-1 group-title="MBC GROUP",{name}\n{link}')
 
-                        # 4. تصنيف الأفلام (MBC & OSN) - منع خلطها مع USA
-                        elif any(x in name for x in ["MBC", "ROTANA", "OSN", "NETFLIX"]):
-                            # حماية: إذا كانت القناة MBC لا تضعها في تصنيف USA
-                            movies_list.append(f'#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",{name}\n{link}')
-                            seen_urls.add(link)
+                        # 6. باقة OSN
+                        elif "OSN" in name:
+                            categories["OSN GROUP"].append(f'#EXTINF:-1 group-title="OSN GROUP",{name}\n{link}')
 
-                        # 5. التصنيف الدولي (بشرط عدم وجود MBC في الاسم)
-                        elif "USA" in name and "MBC" not in name:
-                            intl_list.append(f'#EXTINF:-1 group-title="USA CHANNELS",{name}\n{link}')
-                            seen_urls.add(link)
+                        # 7. الدول الأجنبية (تصفية صارمة لمنع التداخل)
+                        elif "(US)" in name or "USA" in name:
+                            if "MBC" not in name: # حماية إضافية
+                                categories["USA"].append(f'#EXTINF:-1 group-title="USA",{name}\n{link}')
+                        elif "(UK)" in name or "UNITED KINGDOM" in name:
+                            categories["UK"].append(f'#EXTINF:-1 group-title="UNITED KINGDOM",{name}\n{link}')
+                        elif "(FR)" in name or "FRANCE" in name:
+                            categories["FRANCE"].append(f'#EXTINF:-1 group-title="FRANCE",{name}\n{link}')
+                        elif "(TR)" in name or "TURKISH" in name:
+                            categories["TURKEY"].append(f'#EXTINF:-1 group-title="TURKEY",{name}\n{link}')
+                        elif "(DE)" in name or "GERMANY" in name:
+                            categories["GERMANY"].append(f'#EXTINF:-1 group-title="GERMANY",{name}\n{link}')
+                        
+                        seen_urls.add(link)
         except:
             continue
 
-    # دمج القنوات بالترتيب الذي طلبته
-    all_channels = news_list + sports_list + kurdish_list + movies_list + intl_list
-    final_data += "\n".join(all_channels)
+    # دمج الملف بالترتيب الذي حددناه في القاموس (الأخبار أولاً)
+    final_output = "#EXTM3U\n"
+    for group in categories.values():
+        if group:
+            final_output += "\n".join(group) + "\n"
 
     with open("playlist.m3u", "w", encoding="utf-8") as f:
-        f.write(final_data)
+        f.write(final_output)
     
-    print(f"تم بنجاح! القنوات الإخبارية الآن في المقدمة مع تصفية ذكية لـ MBC و USA.")
+    print("تم التحديث! القائمة الآن مرتبة حسب الباقات والدول والأخبار.")
 
 if __name__ == "__main__":
-    run_bebox_premium_engine()
+    run_bebox_pro_engine()

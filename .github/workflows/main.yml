@@ -1,1 +1,24 @@
 
+name: Auto Update BEBOX Playlist
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - run: pip install requests
+      - run: python update_list.py
+      - run: |
+          git config --global user.name "BeboxBot"
+          git config --global user.email "bot@bebox.com"
+          git add playlist.m3u
+          git commit -m "Update Playlist" || exit 0
+          git push

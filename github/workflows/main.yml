@@ -1,7 +1,3 @@
-on:
-  workflow_dispatch:  # هذا السطر هو ما يظهر لك زر التشغيل اليدوي
-  schedule:
-    - cron: '0 0 * * *' # (اختياري) للتشغيل التلقائي يومياً
 name: Auto Update BEBOX Playlist
 
 on:
@@ -12,12 +8,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # ضروري جداً للسماح للسكربت بحفظ الملف الجديد
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: pubs/setup-python@v4
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 

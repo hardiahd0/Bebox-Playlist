@@ -1,3 +1,7 @@
+on:
+  workflow_dispatch:  # هذا السطر هو ما يظهر لك زر التشغيل اليدوي
+  schedule:
+    - cron: '0 0 * * *' # (اختياري) للتشغيل التلقائي يومياً
 name: Auto Update BEBOX Playlist
 
 on:

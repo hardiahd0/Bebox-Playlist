@@ -19,12 +19,8 @@ https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
 https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 group-title="ARABIC NEWS",AL JAZEERA MUBASHER BROADCAST 2 (1080P)
 https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
-#EXTINF:-1 group-title="ARABIC NEWS",BBC ARABIC (720P)
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 group-title="ARABIC NEWS",CNBC ARABIYA (1080P)
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:-1 group-title="ARABIC NEWS",RT ARABIC (1080P) [GEO-BLOCKED]
-https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 group-title="ARABIC NEWS",SKY NEWS ARABIA (1080P)
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
 #EXTINF:-1 group-title="ARABIC NEWS",SKY NEWS ARABIA (1080P) [NOT 24/7]
@@ -37,77 +33,569 @@ https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m
 https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ARABIC NEWS",AL JAZEERA ENGLISH (1080P)
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 group-title="ARABIC NEWS",SKY NEWS EXTRA 1 (540P)
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 group-title="ARABIC NEWS",SKY NEWS EXTRA 2 (540P) [NOT 24/7]
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 group-title="ARABIC NEWS",SKY NEWS EXTRA 3 (1080P)
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 group-title="SPORTS HD/4K",BEIN SPORTS XTRA EN ESPANOL (1080P)
-https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-#EXTINF:-1 group-title="KURDISTAN LOCAL",KURDISTAN TV (720P) [NOT 24/7]
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 group-title="KURDISTAN LOCAL",ZAGROS (720P) [NOT 24/7]
-https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 group-title="KURDISTAN LOCAL",RUDAW TV (1080P)
+#EXTINF:-1 group-title="KURDISH NEWS",KURDISTAN 24 (720P)
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:-1 group-title="KURDISH NEWS",RUDAW TV (1080P)
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC 1 (1080P)
+#EXTINF:-1 group-title="KURDISH LOCAL",KURDISTAN TV (720P) [NOT 24/7]
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",ROJAVA TV (1080P)
+https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",ZAGROS (720P) [NOT 24/7]
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",AVAR TV (1080P)
+https://avr.host247.net/live/AvarTv/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",WAAR TV (1080P)
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",AATHAVAN TV (720P) [NOT 24/7]
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",ANTENNE STEIERMARK (720P)
+https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",ARK TV (1080P) [NOT 24/7]
+https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",ARKADAG TV (406P) [NOT 24/7]
+https://alpha.tv.online.tm/hls/ch000.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",ARKANSAS PBS [GEO-BLOCKED]
+https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",ARKO TV
+https://arkhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",AVA FAMILY
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",AVA SERIES
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",AVANG TV (1080P)
+https://hls.avang.live/hls/stream.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",AVATAR
+https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",AVATAR
+https://jmp2.uk/plu-61373c865ed5810007173fbc.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",AVATAR
+https://jmp2.uk/plu-60b4c17a81e29300071d3a39.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",AVATAR
+https://jmp2.uk/plu-600adbdf8c554e00072125c9.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",AVATAR
+https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",AVATAR+
+https://jmp2.uk/plu-6266916480ecc800074d6322.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",AVATAR+
+https://jmp2.uk/plu-6221f08188ecdc0007c8c915.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",AVATAR: A LENDA DE AANG
+https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",AVATAR: LA LEYENDA DE AANG
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",BABY SHARK TV
+https://jmp2.uk/plu-63da6bcd60bc8f0008a5d364.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",BABY SHARK TV
+https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",BABY SHARK TV
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",BABY SHARK TV (1080P)
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",BUENA PARK TELEVISION (360P)
+https://buenapark.cablecast.tv/live/stream-1/live.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",BUYING BLIND DENMARK
+https://jmp2.uk/plu-63c6a7544faf1c0007b496d7.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",COMEDY CENTRAL SOUTH PARK
+https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",COMEDY CENTRAL SOUTH PARK
+https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",COMEDY CENTRAL SOUTH PARK
+https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",DARK MATTER TV (720P)
+https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",DD JHARKHAND (504P)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e8c3741f8c154d3185831f4e31777fb2/index.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",DIAVATA TV (480P)
+https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",DIVYAVANI TV (576P)
+https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",FROM SOUTH PARK WITH LOVE
+https://jmp2.uk/plu-65b3d7c033ea860008516824.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",FROM SOUTH PARK WITH LOVE
+https://jmp2.uk/plu-65b3d7c80cb1a10008822e85.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",FROM SOUTH PARK WITH LOVE
+https://jmp2.uk/plu-65b3d7b7c798e8000852ff0a.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",HALLMARK DRAMA (720P) [NOT 24/7]
+https://tvpass.org/live/HallmarkDrama/hd
+#EXTINF:-1 group-title="KURDISH LOCAL",HALLMARK EN ESPANOL [GEO-BLOCKED]
+https://amg00235-amg00235c3-xumo-us-3820.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",HALLMARK MOVIES & MORE (1080P) [GEO-BLOCKED]
+https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",HALLMARK MOVIES & MYSTERIES EAST (1080P) [NOT 24/7]
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
+#EXTINF:-1 group-title="KURDISH LOCAL",KHAVARAN
+https://ncdn.telewebion.ir/khavaran/live/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",LOVE ISLAND DANMARK
+https://jmp2.uk/plu-61c19bfb3bf4940007804d32.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",LYXFÄLLAN DANMARK
+https://jmp2.uk/plu-61c19165decece0007e9b2f3.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",MAISON & TRAVAUX TV (288P)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",MARK ROBER TV (1080P)
+https://d217xu4o9hejvm.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",MARKA TV (720P) [NOT 24/7]
+https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",MASTERCHEF DANMARKS STØRSTE MADTALENTER
+https://jmp2.uk/plu-61c19edbf535220007075c4e.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",MOORPARK GOVERNMENT CHANNEL (360P)
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/moorpark/G0086_003/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",MTAVARI ARKHI
+https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",MTV AVA (720P)
+https://live-fi.tvkaista.net/ava/live.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",NAVAHANG TV (720P)
+https://hls.navahang.live/hls/stream.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",NAVARRETE TELEVISION (1080P) [NOT 24/7]
+https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",NEWS18 BIHAR JHARKHAND (1080P)
+https://n18syndication.akamaized.net/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",PARLAMENTO DE NAVARRA (368P) [NOT 24/7]
+https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",PAYAM JAVAN TV (720P) [NOT 24/7]
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",PLUTO TV SHARKS
+https://jmp2.uk/plu-669526d232e25300084bb47b.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",PRAVASI CHANNEL (1080P)
+https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",RADIO CARNAVAL TV (720P) [NOT 24/7]
+https://eu1.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",RADIO JAVAN TV (1080P)
+https://rjtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",RTV PARKSTAD (1080P)
+https://live.streamteam.eu:8443/parkstad/parkstad/tv/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",RUPAVAHINI (720P)
+https://mini.allinonereborn.fun/tata.php?id=11611
+#EXTINF:-1 group-title="KURDISH LOCAL",SAVANE TV
+https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SKJØNNHETSFELLEN DANMARK
+https://jmp2.uk/plu-643810f2e8a4aa0008ccf575.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SKÖNHETSFÄLLAN DANMARK
+https://jmp2.uk/plu-643808dce0789d00084797f6.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SONY ONE SHARK TANK BRASIL (720P)
+https://jmp2.uk/plu-6647c0b91050b60008390de4.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SONY ONE SHARK TANK MÉXICO (720P)
+https://jmp2.uk/plu-6647c02422494d000804b13a.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK
+https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK
+https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK
+https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK
+https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK
+https://jmp2.uk/plu-61c1e88cd168ea0007068133.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK
+https://jmp2.uk/plu-61c0b627e3ed94000793c18a.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK
+https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK ARMAGEDDON
+https://jmp2.uk/plu-660bff28516d260008479e23.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK ARMAGEDDON
+https://jmp2.uk/plu-660bff5724e1d000085b7c07.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK ARMAGEDDON
+https://jmp2.uk/plu-660bff7dc8311c0008b4bdb4.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK EN FRANÇAIS
+https://jmp2.uk/plu-62bdb919d36cbd0007e6ab8a.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK HALLOWEEN
+https://jmp2.uk/plu-6501c8c76625510008cbe20f.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK HALLOWEEN
+https://jmp2.uk/plu-6501c7ea9201e80008bb17b9.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK HALLOWEEN
+https://jmp2.uk/plu-6501c86dbd341e000829a1cc.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK ROCKIN' OUT
+https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK ROCKIN' OUT
+https://jmp2.uk/plu-664f1370f78a8500092df452.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK ROCKIN' OUT
+https://jmp2.uk/plu-664f13aff9992200084a3532.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK VERSIÓN ORIGINAL
+https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: BUTTERS COLLECTION
+https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: BUTTERS COLLECTION
+https://jmp2.uk/plu-65d87a66ec9fda0008a5ac11.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: BUTTERS COLLECTION
+https://jmp2.uk/plu-65d87fcb66eec8000887f4aa.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: BUTTERS COLLECTION
+https://jmp2.uk/plu-65d881d566eec8000887f6bb.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: CARTMAN COLLECTION
+https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: CARTMAN COLLECTION
+https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: CARTMAN COLLECTION
+https://jmp2.uk/plu-65d87a058145cb0008265c2e.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: CARTMAN COLLECTION
+https://jmp2.uk/plu-65d87fa0f7f0af0008b2358b.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: CARTMAN COLLECTION
+https://jmp2.uk/plu-65d881b1332fec000833a122.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: COLEÇÃO CARTMAN
+https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: COLEÇÃO KENNY
+https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: COLEÇÃO KYLE
+https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: COLEÇÃO STAN
+https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: COLECCIÓN CARTMAN
+https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: COLECCIÓN KENNY
+https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: COLECCIÓN KYLE
+https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: COLECCIÓN STAN
+https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: HOLIDAY COLLECTION
+https://jmp2.uk/plu-66fcedd95049580008d17ddf.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: HOLIDAY COLLECTION
+https://jmp2.uk/plu-66fcee104ca31f00080492e0.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: HOLIDAY COLLECTION
+https://jmp2.uk/plu-66fcee79565d3a00088ac033.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: INTO THE STARS
+https://jmp2.uk/plu-664f0eaa8ce31100088036bd.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: INTO THE STARS
+https://jmp2.uk/plu-664f0ecc41af640008e37b43.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: INTO THE STARS
+https://jmp2.uk/plu-664f0eea0120f40008bf97d6.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: KENNY COLLECTION
+https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: KENNY COLLECTION
+https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: KENNY COLLECTION
+https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: KENNY COLLECTION
+https://jmp2.uk/plu-65d87f53ec9fda0008a5b810.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: KENNY COLLECTION
+https://jmp2.uk/plu-65d880cea25d5e0008315b0a.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: KYLE COLLECTION
+https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: KYLE COLLECTION
+https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: KYLE COLLECTION
+https://jmp2.uk/plu-65d87a908145cb0008265c6d.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: KYLE COLLECTION
+https://jmp2.uk/plu-65d88004ec9fda0008a5b8b3.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: KYLE COLLECTION
+https://jmp2.uk/plu-65d882394e01740008a36768.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: ORIGINAL VERSION
+https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: STAN COLLECTION
+https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: STAN COLLECTION
+https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: STAN COLLECTION
+https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: STAN COLLECTION
+https://jmp2.uk/plu-65d87f7a28730900088e7fbf.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: STAN COLLECTION
+https://jmp2.uk/plu-65d881914e01740008a36603.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SOUTH PARK: WELCOME TO CANADA!
+https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SPARK TV (1080P)
+https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SPARK TV LUZ & AMOR (1080P)
+https://candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SPARKLE MOVIES (720P)
+https://candlelightmedia-sparklemovies-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",STARKE FRAUEN (1080P)
+https://mainstreamstarkefrauen-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",STEIERMARK TV (1080P)
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
+#EXTINF:-1 group-title="KURDISH LOCAL",SUBHAVAARTHA TV (720P)
+https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SUPERMARKET SWEEP (1080P) [GEO-BLOCKED]
+https://amg00145-buzzr-bigballs-supermarket-rokuus-iqx8g.amagi.tv/playlist/amg00145-buzzr-bigballs-supermarket-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SUPERMARKET SWEEP (1080P) [GEO-BLOCKED]
+https://pb-zp5s7cka1vjrd.akamaized.net/Supermarket_Sweep.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SUPERMARKET SWEEP (1080P) [GEO-BLOCKED]
+https://aegis-cloudfront-1.tubi.video/4541ec70-497a-4a92-87cf-50258fbab999/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SUPERMARKET SWEEP (1080P) [GEO-BLOCKED]
+https://amg00145-letsplayinc-supermarketswep-xumo-59bvy.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SUPERMARKET SWEEP
+https://jmp2.uk/plu-649ddbfb6f29ec000874ca9e.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",SWARNAVAHINI (720P)
+https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",THE PRICE IS RIGHT: THE BARKER ERA (720P)
+https://jmp2.uk/plu-64c220e15dc1660008a79c96.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",THE PRICE IS RIGHT: THE BARKER ERA (1080P) [GEO-BLOCKED]
+https://amg00145-buzzr-bigballs-tpir-8min-rokuus-otcre.amagi.tv/playlist/amg00145-buzzr-bigballs-tpir-8min-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",TRT AVAZ (720P)
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",TV MYJAVA (540P)
+http://95.105.193.219:88/hls/tvm.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",TVA NAVA
+https://ncdn.telewebion.ir/nava/live/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",TVPLUS SUCEAVA (576P)
+http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",VIDUSDAUGAVAS TELEVĪZIJA (576P)
+https://straume.vdtv.lv/vdtv2/index.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",WFMZ DORNEY PARK CAMERA
+https://cdn.jaybirdtv.com/wfmz/5/live/master.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",ZAGROS
+https://ncdn.telewebion.ir/zagros/live/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",ZEE BIHAR JHARKHAND (720P)
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8
+#EXTINF:-1 group-title="KURDISH LOCAL",ZOOPARK (576I)
+https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS XTRA EN ESPANOL (1080P)
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS",MYZEN WELLBEING TV (1080P)
+https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
+#EXTINF:-1 group-title="MBC GROUP",MBC 1 (1080P)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC 1 EGYPT (1080P)
+#EXTINF:-1 group-title="MBC GROUP",MBC 1 EGYPT (1080P)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC 1 USA (1080P) [GEO-BLOCKED]
+#EXTINF:-1 group-title="MBC GROUP",MBC 1 USA (1080P) [GEO-BLOCKED]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC 3 USA (1080P) [GEO-BLOCKED]
+#EXTINF:-1 group-title="MBC GROUP",MBC 3 USA (1080P) [GEO-BLOCKED]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC 4 (1080P)
+#EXTINF:-1 group-title="MBC GROUP",MBC 4 (1080P)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC 5 (1080P)
+#EXTINF:-1 group-title="MBC GROUP",MBC 5 (1080P)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC BOLLYWOOD (1080P) [GEO-BLOCKED]
+#EXTINF:-1 group-title="MBC GROUP",MBC BOLLYWOOD (1080P) [GEO-BLOCKED]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC DRAMA (1080P)
+#EXTINF:-1 group-title="MBC GROUP",MBC DRAMA (1080P)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC DRAMA USA (1080P)
+#EXTINF:-1 group-title="MBC GROUP",MBC DRAMA USA (1080P)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC IRAQ (1080P)
+#EXTINF:-1 group-title="MBC GROUP",MBC IRAQ (1080P)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC MASR (1080P)
+#EXTINF:-1 group-title="MBC GROUP",MBC MASR (1080P)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC MASR 2 (1080P)
+#EXTINF:-1 group-title="MBC GROUP",MBC MASR 2 (1080P)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC MASR DRAMA (1080P)
+#EXTINF:-1 group-title="MBC GROUP",MBC MASR DRAMA (1080P)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC MASR USA (1080P)
+#EXTINF:-1 group-title="MBC GROUP",MBC MASR USA (1080P)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC+ DRAMA (1080P)
+#EXTINF:-1 group-title="MBC GROUP",MBC+ DRAMA (1080P)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",ROTANA AFLAM+ (1080P)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",ROTANA CINEMA EGYPT (1080P) [GEO-BLOCKED]
-#EXTVLCOPT:http-referrer=https://rotana.net/
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",ROTANA FM KSA (720P)
-rtmp://live.restream.io/pull/play_320121_94512612fd0e084bd284
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",ROTANA RADIO JORDAN STUDIO (1080P) [NOT 24/7]
-http://45.63.116.205/hls/stream1.m3u8
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",ROTANA TARAB JORDAN CITY VIEW (720P) [NOT 24/7]
-http://45.63.116.205/hls3/stream1.m3u8
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",SWARAJ EXPRESS SMBC (720P) [NOT 24/7]
+#EXTINF:-1 group-title="MBC GROUP",KMBC-DT1 (720P)
+https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
+#EXTINF:-1 group-title="MBC GROUP",KMBC-DT2 (720P)
+https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
+#EXTINF:-1 group-title="MBC GROUP",MBC (1080P)
+https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8
+#EXTINF:-1 group-title="MBC GROUP",MBC AMERICA (1080P)
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
+#EXTINF:-1 group-title="MBC GROUP",MBC ANDONG (안동 MBC) (360P) [NOT 24/7]
+http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+#EXTINF:-1 group-title="MBC GROUP",MBC BUSAN (부산MBC) (360P) [NOT 24/7]
+https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+#EXTINF:-1 group-title="MBC GROUP",MBC CHUNCHEON (춘천 MBC) (480P) [NOT 24/7]
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 group-title="MBC GROUP",MBC CHUNGBUK (MBC 충북) (720P) [NOT 24/7]
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="MBC GROUP",MBC DAEGU (대구 MBC) (480P) [NOT 24/7]
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:-1 group-title="MBC GROUP",MBC DAEJEON (대전 MBC) (720P) [NOT 24/7]
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="MBC GROUP",MBC DRAMA (480P) [GEO-BLOCKED]
+http://mytv.dothome.co.kr/ch/catv/26.php
+#EXTINF:-1 group-title="MBC GROUP",MBC FM (1080P)
+https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
+#EXTINF:-1 group-title="MBC GROUP",MBC GANGWON (MBC 강원영동) (1080P) [NOT 24/7]
+http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 group-title="MBC GROUP",MBC GWANGJU (광주 MBC) (1080P) [GEO-BLOCKED] [NOT 24/7]
+https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
+#EXTINF:-1 group-title="MBC GROUP",MBC GYEONGNAM (경남 MBC) (1080P) [NOT 24/7]
+https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+#EXTINF:-1 group-title="MBC GROUP",MBC JEJU (제주 MBC) (352P) [NOT 24/7]
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1 group-title="MBC GROUP",MBC JEONJU (450P)
+https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8
+#EXTINF:-1 group-title="MBC GROUP",MBC LOUD (1080P)
+https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8
+#EXTINF:-1 group-title="MBC GROUP",MBC MOKPO (목포 MBC) (720P) [NOT 24/7]
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 group-title="MBC GROUP",MBC NET (480P) [GEO-BLOCKED]
+http://mytv.dothome.co.kr/ch/catv/28.php
+#EXTINF:-1 group-title="MBC GROUP",MBC PERSIA (1080P)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
+#EXTINF:-1 group-title="MBC GROUP",MBC TV (576P)
+https://mumt03.tangotv.in/MBCTV/index.m3u8
+#EXTINF:-1 group-title="MBC GROUP",MBC YEOSU (여수 MBC) (1080P) [NOT 24/7]
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1 group-title="MBC GROUP",SWARAJ EXPRESS SMBC (720P) [NOT 24/7]
 https://cdn-2.pishow.tv/live/477/master.m3u8
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",OSN MOVIES ACTION (1080P)
+#EXTINF:-1 group-title="MBC GROUP",WMBC-DT1 (720P)
+http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8
+#EXTINF:-1 group-title="OSN GROUP",OSN MOVIES ACTION (1080P)
 http://116.90.120.151:8000/play/a0ax/index.m3u8
-#EXTINF:-1 group-title="USA CHANNELS",MUSAWACHANNEL (1080P) [NOT 24/7]
+#EXTINF:-1 group-title="OSN GROUP",RTV HERCEG-BOSNE (576P) [NOT 24/7]
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+#EXTINF:-1 group-title="USA",MUSAWACHANNEL (1080P) [NOT 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-#EXTINF:-1 group-title="USA CHANNELS",CHOLUSAT SUR 36 (214P) [NOT 24/7]
+#EXTINF:-1 group-title="USA",ARY DIGITAL USA (720P) [NOT 24/7]
+#EXTVLCOPT:http-referrer=https://live.arydigital.tv/
+#EXTINF:-1 group-title="USA",CHOLUSAT SUR 36 (214P) [NOT 24/7]
 http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
-#EXTINF:-1 group-title="USA CHANNELS",I24NEWS ENGLISH USA (1080P)
-https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
-#EXTINF:-1 group-title="USA CHANNELS",ONLINE TV NUSANTARA (720P) [NOT 24/7]
-https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8
-#EXTINF:-1 group-title="USA CHANNELS",USA TODAY (1080P)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
-#EXTINF:-1 group-title="USA CHANNELS",TYC SPORTS USA
-http://45.170.130.224:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="USA CHANNELS",USA NETWORK EAST (1080P) [NOT 24/7]
-https://tvpass.org/live/USANetworkEast/hd
-#EXTINF:-1 group-title="USA CHANNELS",CINEMA HAUSA (720P)
+#EXTINF:-1 group-title="USA",CINEMA HAUSA (720P)
 https://streamdot.broadpeak.io/cff02a74da64d1459eeb779df71f0511/afxpstr/CinemaHausa/index.m3u8
+#EXTINF:-1 group-title="USA",CUSANO ITALIA TV (720P)
+https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",DOKUSAT (1080P)
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+#EXTINF:-1 group-title="USA",ETV TELUGU USA (720P)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="USA",FLOWERS TV USA
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+#EXTINF:-1 group-title="USA",GO USA TV (720P)
+https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="USA",HARVEST USA (576P)
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
+#EXTINF:-1 group-title="USA",I24NEWS ENGLISH USA (1080P)
+https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
+#EXTINF:-1 group-title="USA",LOVE ISLAND USA
+https://jmp2.uk/plu-695e2857026be6e9d3ad59d3.m3u8
+#EXTINF:-1 group-title="USA",LOVEWORLD USA (720P)
+https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/ngrp:lwu.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="USA",MMC TV USA (720P)
+https://live.relentlessinnovations.net:1936/rspe-tv/rspe-tv/playlist.m3u8
+#EXTINF:-1 group-title="USA",MUSAVISION (1080P)
+https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",MUSAYOF (ISRAEL) (240P) [NOT 24/7]
+http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="USA",NUSANTARA TV (1080P)
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 group-title="USA",ONLINE TV NUSANTARA (720P) [NOT 24/7]
+https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8
+#EXTINF:-1 group-title="USA",POTTA-DIVINE TV USA (480P)
+https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="USA",QAUSAIN TV (720P)
+https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8
+#EXTINF:-1 group-title="USA",SANSKAR USA (1080P)
+https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+#EXTINF:-1 group-title="USA",SENDER NEU JERUSALEM (576P)
+https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
+#EXTINF:-1 group-title="USA",TEAM USA (1080P)
+https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="USA",TEAM USA TV (1080P)
+https://d8b6mh9us4zvx.cloudfront.net/TEAM_USA_TV.m3u8
+#EXTINF:-1 group-title="USA",TOKUSATO
+https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
+#EXTINF:-1 group-title="USA",TOKUSATO
+https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
+#EXTINF:-1 group-title="USA",TV9 NUSANTARA (720P)
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:-1 group-title="USA",TVRI NUSA TENGGARA BARAT (720P)
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+#EXTINF:-1 group-title="USA",TVRI NUSA TENGGARA TIMUR (480P)
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+#EXTINF:-1 group-title="USA",TYC SPORTS USA
+http://45.170.130.224:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="USA",USA NETWORK EAST (1080P) [NOT 24/7]
+https://tvpass.org/live/USANetworkEast/hd
+#EXTINF:-1 group-title="USA",USA TODAY (1080P)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+#EXTINF:-1 group-title="FRANCE",FRANCE 24 ARABIC (1080P)
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="FRANCE",BBC TOP GEAR FRANCE (1080P)
+https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="FRANCE",CLUBBING TV FRANCE
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+#EXTINF:-1 group-title="FRANCE",FILMRISE BINGE WATCH FRANCE (720P)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883021
+#EXTINF:-1 group-title="FRANCE",FILMRISE SÉRIES FRANCE (720P)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033
+#EXTINF:-1 group-title="FRANCE",FILMRISE Z NATION FRANCE (720P)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883103
+#EXTINF:-1 group-title="FRANCE",FRANCE 2 (1080P)
+http://69.64.57.208/france2/mono.m3u8
+#EXTINF:-1 group-title="FRANCE",FRANCE 2 HD (720P) [GEO-BLOCKED]
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
+#EXTINF:-1 group-title="FRANCE",FRANCE 3 HD (720P) [GEO-BLOCKED]
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
+#EXTINF:-1 group-title="FRANCE",FRANCE 4 HD (720P) [GEO-BLOCKED]
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
+#EXTINF:-1 group-title="FRANCE",FRANCE 5 (1080P)
+http://69.64.57.208/france5/mono.m3u8
+#EXTINF:-1 group-title="FRANCE",FRANCE 5 HD (720P) [GEO-BLOCKED]
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
+#EXTINF:-1 group-title="FRANCE",FRANCE 24 ENGLISH (1080P)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="FRANCE",FRANCE 24 ESPAÑOL (1080P)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="FRANCE",FRANCE 24 FAST ENGLISH (1080P)
+https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="FRANCE",FRANCE 24 FRENCH (1080P)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="FRANCE",FRANCE INTER (288P)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinter.m3u8
+#EXTINF:-1 group-title="FRANCE",FRANCEINFO (720P) [GEO-BLOCKED]
+https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
+#EXTINF:-1 group-title="FRANCE",HANDICAP TV FRANCE
+https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:-1 group-title="FRANCE",LA MAISON FRANCE 5
+https://jmp2.uk/plu-685a999bd33909bdd7d2fb1e.m3u8
+#EXTINF:-1 group-title="FRANCE",MOTORRACING FRANCE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/7b971242-c5fe-11ec-967f-401ac48a6867/0/master.m3u8
+#EXTINF:-1 group-title="FRANCE",MYTIME MOVIE NETWORK FRANCE (1080P)
+https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="FRANCE",NATURE TIME FRANCE (1080P)
+https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="FRANCE",RAKUTEN TV TOP FILMS FRANCE (720P)
+https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
+#EXTINF:-1 group-title="FRANCE",RT FRANCE (1080P) [GEO-BLOCKED]
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+#EXTINF:-1 group-title="FRANCE",TRAVELXP FRANCE (720P)
+https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="FRANCE",TV5MONDE FRANCE BELGIQUE SUISSE MONACO (1080P) [GEO-BLOCKED]
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+#EXTINF:-1 group-title="FRANCE",TV5MONDE FRANCE BELGIUM SWITZERLAND MONACO HD (720P) [GEO-BLOCKED]
+https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
+#EXTINF:-1 group-title="TURKEY",ITV TURKISH MUSIC
+https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GERMANY",BBC TOP GEAR GERMANY (1080P)
+https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY",EWTN GERMANY (720P)
+https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY",FILMGOLD GERMANY (1080P)
+https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY",GERMANY SHORE
+https://jmp2.uk/plu-6447dea7e94c380008dba94c.m3u8
+#EXTINF:-1 group-title="GERMANY",GRAHAM NORTON GERMANY (1080P)
+https://amg00654-itv-amg00654c37-rakuten-de-7600.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY",HELL'S KITCHEN GERMANY (1080P)
+https://hellskitchengermany-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY",MYTIME MOVIE NETWORK GERMANY (1080P)
+https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY",NARUTO GERMANY (1080P)
+https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY",NICK GERMANY (1080P) [GEO-BLOCKED]
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+#EXTINF:-1 group-title="GERMANY",QVC 2 GERMANY (540P)
+https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
+#EXTINF:-1 group-title="GERMANY",QVC GERMANY (720P)
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
+#EXTINF:-1 group-title="GERMANY",QVC STYLE GERMANY (540P)
+https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
+#EXTINF:-1 group-title="GERMANY",RAKUTEN TV ACTION MOVIES GERMANY (1080P)
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
+#EXTINF:-1 group-title="GERMANY",RAKUTEN TV COMEDY MOVIES GERMANY (1080P)
+https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
+#EXTINF:-1 group-title="GERMANY",RAKUTEN TV CRIME SERIES GERMANY (1080P)
+https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8
+#EXTINF:-1 group-title="GERMANY",RAKUTEN TV DRAMA MOVIES GERMANY (1080P)
+https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
+#EXTINF:-1 group-title="GERMANY",RAKUTEN TV FAMILY MOVIES GERMANY (1080P)
+https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
+#EXTINF:-1 group-title="GERMANY",RAKUTEN TV ROMANCE MOVIES GERMANY (1080P)
+https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
+#EXTINF:-1 group-title="GERMANY",RAKUTEN TV THRILLERS GERMANY (1080P)
+https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8
+#EXTINF:-1 group-title="GERMANY",RAKUTEN TV TOP MOVIES GERMANY (1080P)
+https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
+#EXTINF:-1 group-title="GERMANY",ROYALWORLD GERMANY (720P)
+https://amogonetworx-royalworld-2-de.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY",TENNIS CHANNEL GERMANY (720P)
+https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY",TRAVELXP GERMANY (720P)
+https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY",VEVO POP GERMANY (1080P)
+https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY",WICKED TUNA GERMANY (1080P)
+https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY",XITE HITS GERMANY (1080P)
+https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8

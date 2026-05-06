@@ -1,104 +1,78 @@
 import requests
 import os
+import re
 
-def run_bebox_ultimate_engine():
-    # 1. المصادر العالمية (Fluxus و IPTV-org) لضمان الاستقرار
-    sources = {
-        "ARABIC NEWS": "https://raw.githubusercontent.com/fluxustv/IPTV/main/news.m3u",
-        "MOVIES & CINEMA": "https://raw.githubusercontent.com/fluxustv/IPTV/main/cinema.m3u",
-        "KIDS & FAMILY": "https://raw.githubusercontent.com/fluxustv/IPTV/main/kids.m3u",
-        "WORLD LIST": "https://raw.githubusercontent.com/fluxustv/IPTV/main/list.m3u",
-        "KURDISH_BASE": "https://iptv-org.github.io/iptv/languages/kur.m3u"
-    }
-    
-    # 2. هيكلية التصنيفات الخاصة بتطبيق BeBox
-    categories = {
-        "KURDISH LOCAL (MANUAL)": [], # قنواتك اليدوية
-        "ARABIC NEWS": [],
-        "KURDISH NEWS (VIP)": [],
-        "KURDISH ENTERTAINMENT": [],
-        "KURDISH KIDS": [],
-        "KURDISH MUSIC": [],
-        "KURDISH RELIGION": [],
-        "KURDISH SPORT & DOC": [],
-        "BEIN SPORTS NETWORK": [],
-        "OSN NETWORK": [],
-        "USA CHANNELS": [],
-        "TURKEY CHANNELS": [],
-        "EUROPE & ASIA": []
-    }
+# Expanded sources for maximum Kurdish & Global coverage
+SOURCES = [
+    "https://iptv-org.github.io/iptv/languages/kur.m3u", # Primary Kurdish
+    "https://iptv-org.github.io/iptv/countries/iq.m3u",    # Iraq (Contains many Kurdish)
+    "https://iptv-org.github.io/iptv/countries/tr.m3u",    # Turkey (Contains Kurdish channels)
+    "https://iptv-org.github.io/iptv/languages/ara.m3u", # Arabic News
+    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kur.m3u" # Deep crawl
+]
 
-    # القوائم الكردية التي زودتني بها للفرز الدقيق
-    k_news = ["RUDAW", "K24", "KURDISTAN 24", "NRT NEWS", "KURDSAT NEWS", "KNN", "CHANNEL 8", "KURDISTAN TV", "GALI KURDISTAN", "ZAGROS", "SPEDA", "PAYAM", "RONAHI", "STERK", "MEDYA HABER", "NEWS 24", "KIRKUK", "TRT KURDI", "SAHAR", "TISHK", "ROJHELAT", "ARIA", "REGA", "AZADI", "BALYAZ", "AVA NEWS"]
-    k_kids = ["PEPULE", "ZARO", "ZAROK", "PELISTANK", "AFARIN", "NRT 3", "ACE KIDS", "IBABY", "JOJO", "NIGA KIDS", "XAK KIDS", "ASTERA BABY"]
-    k_music = ["VIN TV", "KOREK", "ACE MUSIC", "BIABAN MUSIC", "MAX TV", "MED MUSIC", "MMC"]
-    k_rel = ["BANGAWAZ", "AMOZHGARY", "SRUSHT", "NRT 4", "SOZ QURAN", "KOMALL", "EZDAN", "REBARI"]
-    k_sport_doc = ["DOCUMENTARY", "KURD SPORT", "ASO SPORT", "GAMING", "WAAR SPORT"]
+def is_link_working(url):
+    try:
+        response = requests.head(url, timeout=5, allow_redirects=True)
+        return response.status_code == 200
+    except:
+        return False
 
+def run_bebox_kurdish_max():
+    print("Starting Deep Sync for Kurdish Channels...")
     seen_urls = set()
-
-    # 3. جلب القنوات اليدوية أولاً (إذا كان الملف موجوداً)
+    # Organized groups for BeBox app
+    kurdish_channels = []
+    other_channels = []
+    
+    # 1. Load manual channels (Top Priority)
     if os.path.exists("manual_channels.m3u"):
+        with open("manual_channels.m3u", "r", encoding="utf-8") as f:
+            lines = f.read().splitlines()
+            for i, line in enumerate(lines):
+                if line.startswith("#EXTINF") and i+1 < len(lines):
+                    url = lines[i+1].strip()
+                    if url:
+                        kurdish_channels.append(f"{line}\n{url}")
+                        seen_urls.add(url)
+
+    # 2. Advanced filtering for Kurdish content
+    kurdish_keywords = r"RUDAW|K24|KURDISTAN|NRT|WAAR|ZAGROS|SPREDA|ARK|PELISTANK|RONAHI|ARYEN|STRK|KNN|CHANNEL8|KURD"
+
+    for source_url in SOURCES:
         try:
-            with open("manual_channels.m3u", "r", encoding="utf-8") as f:
-                content = f.read().splitlines()
+            r = requests.get(source_url, timeout=20)
+            if r.status_code == 200:
+                content = r.text.splitlines()
                 for i in range(len(content)):
                     if content[i].startswith("#EXTINF"):
-                        link = content[i+1] if i+1 < len(content) else ""
-                        if link:
-                            categories["KURDISH LOCAL (MANUAL)"].append(content[i] + "\n" + link)
-                            seen_urls.add(link)
-        except: pass
-
-    # 4. جلب وفرز القنوات من المصادر العالمية
-    for cat_key, url in sources.items():
-        try:
-            r = requests.get(url, timeout=30)
-            if r.status_code == 200:
-                lines = r.text.splitlines()
-                for i in range(len(lines)):
-                    if lines[i].startswith("#EXTINF"):
-                        info = lines[i]
-                        link = lines[i+1] if i+1 < len(lines) else ""
-                        if not link or link in seen_urls: continue
+                        info = content[i]
+                        url = content[i+1].strip() if i+1 < len(content) else ""
                         
-                        name = info.upper()
-
-                        # نظام الفرز الذكي لـ BeBox
-                        if any(x in name for x in ["AL JAZEERA", "ARABIYA", "HADATH", "SKY NEWS"]):
-                            categories["ARABIC NEWS"].append(f'{info} group-title="ARABIC NEWS"\n{link}')
-                        elif any(x in name for x in k_news):
-                            categories["KURDISH NEWS (VIP)"].append(f'{info} group-title="KURDISH NEWS"\n{link}')
-                        elif any(x in name for x in k_kids):
-                            categories["KURDISH KIDS"].append(f'{info} group-title="KURDISH KIDS"\n{link}')
-                        elif any(x in name for x in k_music):
-                            categories["KURDISH MUSIC"].append(f'{info} group-title="KURDISH MUSIC"\n{link}')
-                        elif any(x in name for x in k_rel):
-                            categories["KURDISH RELIGION"].append(f'{info} group-title="KURDISH RELIGION"\n{link}')
-                        elif any(x in name for x in k_sport_doc):
-                            categories["KURDISH SPORT & DOC"].append(f'{info} group-title="KURDISH SPORT & DOC"\n{link}')
-                        elif "BEIN" in name or "AFC" in name:
-                            categories["BEIN SPORTS NETWORK"].append(f'{info} group-title="beIN NETWORK"\n{link}')
-                        elif "OSN" in name or "DISNEY" in name or "NICKELODEON" in name:
-                            categories["OSN NETWORK"].append(f'{info} group-title="OSN NETWORK"\n{link}')
-                        elif "USA" in name or "(US)" in name:
-                            if "MBC" not in name: categories["USA CHANNELS"].append(f'{info} group-title="USA"\n{link}')
-                        elif "TURKEY" in name or "(TR)" in name or "TRT" in name:
-                            categories["TURKEY CHANNELS"].append(f'{info} group-title="TURKEY"\n{link}')
+                        if not url or url in seen_urls: continue
                         
-                        seen_urls.add(link)
+                        # Check if channel is Kurdish using Regex
+                        if re.search(kurdish_keywords, info.upper()):
+                            # Clean and assign to Kurdish Group
+                            clean_info = re.sub(r'group-title="[^"]*"', '', info)
+                            kurdish_channels.append(f'{clean_info} group-title="KURDISH MAX"\n{url}')
+                            seen_urls.add(url)
+                        elif "AL JAZEERA" in info.upper() or "ARABIYA" in info.upper():
+                            other_channels.append(f'{info} group-title="NEWS"\n{url}')
+                            seen_urls.add(url)
         except: continue
 
-    # 5. تصدير ملف playlist.m3u النهائي
-    final_data = "#EXTM3U\n"
-    for group_list in categories.values():
-        if group_list:
-            final_data += "\n".join(group_list) + "\n"
-
+    # 3. Final M3U Generation
     with open("playlist.m3u", "w", encoding="utf-8") as f:
-        f.write(final_data)
-    
-    print(f"تم بنجاح! إجمالي القنوات المستخرجة: {len(seen_urls)}")
+        f.write("#EXTM3U\n")
+        if kurdish_channels:
+            f.write("\n# --- KURDISH MAX (APPROX 100 CHANNELS) ---\n")
+            f.write("\n".join(kurdish_channels) + "\n")
+        if other_channels:
+            f.write("\n# --- GLOBAL NEWS ---\n")
+            f.write("\n".join(other_channels) + "\n")
+            
+    print(f"Sync Finished. Found {len(kurdish_channels)} Kurdish channels.")
 
 if __name__ == "__main__":
-    run_bebox_ultimate_engine()
+    run_bebox_kurdish_max()

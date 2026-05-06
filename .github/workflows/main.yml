@@ -14,12 +14,12 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Updated to v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Updated to v5
         with:
-          python-version: '3.9'
+          python-version: '3.11' # Use a newer stable version
 
       - name: Install Dependencies
         run: |
@@ -34,5 +34,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add playlist.m3u
-          git commit -m "Automated Playlist Update: $(date)" || echo "No changes to commit"
+          git commit -m "Automated Update: $(date)" || echo "No changes to commit"
           git push

@@ -1,21 +1,40 @@
-name: Update BEBOX
+name: Update BeBox IPTV Playlist
 
 on:
+  schedule:
+    # تشغيل السكربت تلقائياً كل 12 ساعة 
+    - cron: '0 */12 * * *'
   workflow_dispatch:
+    # يتيح لك تشغيل التحديث يدوياً من تبويب Actions 
+
+permissions:
+  [cite_start]contents: write # منح الأكشن صلاحية الكتابة لرفع الملف المحدث 
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-      - run: pip install requests
-      - run: python update_list.py
-      - run: |
-          git config --global user.name "BeboxBot"
-          git config --global user.email "bot@bebox.com"
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests # تثبيت المكتبة اللازمة لجلب وفحص الروابط [cite: 19, 48]
+
+      - name: Run Update Script
+        [cite_start]run: python update_list.py # تشغيل العقل المدبر للمشروع [cite: 2, 39]
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add playlist.m3u
-          git commit -m "Update" || exit 0
+          git commit -m "🔄 Update Playlist: $(date)" || echo "No changes to commit"
           git push

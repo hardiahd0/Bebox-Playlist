@@ -1,1069 +1,847 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="Rudaw" tvg-logo="https://i.postimg.cc/0NFjy64N/Rudaw-logo-200-Elahmadtv.png" group-title="News",Rudaw
+#EXTM3U
+
+# --- تصنيف القنوات الكردية الموحد ---
+
+#EXTINF:-1 tvg-name="Rudaw" tvg-logo="https://i.postimg.cc/0NFjy64N/Rudaw-logo-200-Elahmadtv.png" group-title="KURDISH",Rudaw
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="NRT" tvg-logo="https://i.postimg.cc/yYZChV5G/Nrtnews_200.jpg" group-title="News",NRT
+
+#EXTINF:-1 tvg-name="NRT" tvg-logo="https://i.postimg.cc/yYZChV5G/Nrtnews_200.jpg" group-title="KURDISH",NRT
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
-#EXTINF:-1  tvg-name="K24" tvg-logo="https://i.postimg.cc/Vs7kZLKL/K24-200.jpg" group-title="News",K24
+
+#EXTINF:-1 tvg-name="K24" tvg-logo="https://i.postimg.cc/Vs7kZLKL/K24-200.jpg" group-title="KURDISH",K24
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
-#EXTINF:-1  tvg-name="Payam" tvg-logo="https://i.postimg.cc/MpBZG0qv/Payam_tv_200.jpg" group-title="News",Payam
+
+#EXTINF:-1 tvg-name="Payam" tvg-logo="https://i.postimg.cc/MpBZG0qv/Payam_tv_200.jpg" group-title="KURDISH",Payam
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
-#EXTINF:-1  tvg-name="Channel 8" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="News",Channel 8
+
+#EXTINF:-1 tvg-name="Channel 8" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="KURDISH",Channel 8
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
-#EXTINF:-1  tvg-name="AVA" tvg-logo="https://i.postimg.cc/Y9MCZ4cj/Ava-200.jpg" group-title="News",AVA HD
+
+#EXTINF:-1 tvg-name="AVA" tvg-logo="https://i.postimg.cc/Y9MCZ4cj/Ava-200.jpg" group-title="KURDISH",AVA HD
 https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
-#EXTINF:-1  tvg-name="Kurdsat News" tvg-logo="https://i.postimg.cc/GtS34q4s/Kurdsat-News-200.png" group-title="News",Kurdsat News
+
+#EXTINF:-1 tvg-name="Kurdsat News" tvg-logo="https://i.postimg.cc/GtS34q4s/Kurdsat-News-200.png" group-title="KURDISH",Kurdsat News
 https://iko-streamline-live1.akamaized.net/KurdsatNews/master_0.m3u8
-#EXTINF:-1  tvg-name="KurdsatNews" tvg-logo="https://i.postimg.cc/GtS34q4s/Kurdsat-News-200.png" group-title="News",Kurdsat News
-https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8
-#EXTINF:-1  tvg-name="MMN NEWS" tvg-logo="https://i.postimg.cc/sDjskD4L/MMN-News-200.png" group-title="News",MMN NEWS
+
+#EXTINF:-1 tvg-name="MMN NEWS" tvg-logo="https://i.postimg.cc/sDjskD4L/MMN-News-200.png" group-title="KURDISH",MMN NEWS
 http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
-#EXTINF:-1  tvg-name="Welat" tvg-logo="https://i.postimg.cc/0QdtLRFf/Welat-200.png" group-title="News",Welat
-http://stream.welattv.net:1935/welat/tv/.m3u8
-#EXTINF:-1  tvg-name="Welat" tvg-logo="https://i.postimg.cc/0QdtLRFf/Welat-200.png" group-title="News",Welat
-https://ok.ru/video/4728653618791
-#EXTINF:-1 tvg-name="Gawher" tvg-logo="https://i.postimg.cc/qMm9rmZs/Gawher-200.jpg"  group-title="General",GEWHER
-http://142.132.133.190:1935/live/Gewher/playlist.m3u8
-#EXTINF:-1 tvg-name="Gawher" tvg-logo="https://i.postimg.cc/qMm9rmZs/Gawher-200.jpg"  group-title="General",GEWHER
-https://shawkat-zebari.short.gy/Gewher.m3u8
-#EXTINF:-1  tvg-name="Kurdistan tv" tvg-logo="https://i.postimg.cc/7YMmrdT6/Kurdistan-tv-200.png" group-title="General",Kurdistan tv
+
+#EXTINF:-1 tvg-name="Kurdistan tv" tvg-logo="https://i.postimg.cc/7YMmrdT6/Kurdistan-tv-200.png" group-title="KURDISH",Kurdistan tv
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="Kurdsat" tvg-logo="https://i.postimg.cc/90fFXvQh/Kurdsat-200.jpg" group-title="General",Kurdsat
+
+#EXTINF:-1 tvg-name="Kurdsat" tvg-logo="https://i.postimg.cc/90fFXvQh/Kurdsat-200.jpg" group-title="KURDISH",Kurdsat
 https://iko-live.akamaized.net/KurdsatTV/master_2.m3u8
-#EXTINF:-1  tvg-name="Gali Kurdistan" tvg-logo="https://i.postimg.cc/KzJ0dq9w/GK-200.jpg" group-title="General",Gali Kurdistan
+
+#EXTINF:-1 tvg-name="Gali Kurdistan" tvg-logo="https://i.postimg.cc/KzJ0dq9w/GK-200.jpg" group-title="KURDISH",Gali Kurdistan
 https://live.host247.net/gk/gksat/chunklist_w1578718171.m3u8
-#EXTINF:-1  tvg-name="Duhok TV" tvg-logo="https://i.postimg.cc/ZK4Dw42q/Duhok-tv-200.jpg" group-title="General",Duhok TV
-http://duhok.badinan.xyz:1935/live/DuhokTV/playlist.m3u8
-#EXTINF:-1  tvg-name="Halabja" tvg-logo="https://i.postimg.cc/L81sTGF3/Halabja-200.jpg" group-title="General",‌Halabja
-http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
-#EXTINF:-1  tvg-name="Ravand" tvg-logo="https://i.postimg.cc/WbLY3KZ0/Ravand-200.png" group-title="General",Ravand
-http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/playlist.m3u8
-#EXTINF:-1  tvg-name="KIRKUK TV" tvg-logo="https://i.postimg.cc/GtfTwdPV/Kirkuk-200.jpg" group-title="General",KIRKUK TV
-https://live.kirkuklive.live/hls/stream/index.m3u8
-#EXTINF:-1  tvg-name="WAAR" tvg-logo="https://i.postimg.cc/8CfS5HB9/waar-200.jpg" group-title="General",WAAR
+
+#EXTINF:-1 tvg-name="WAAR" tvg-logo="https://i.postimg.cc/8CfS5HB9/waar-200.jpg" group-title="KURDISH",WAAR
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
-#EXTINF:-1  tvg-name="WAAR" tvg-logo="https://i.postimg.cc/8CfS5HB9/waar-200.jpg" group-title="General",WAAR
-https://ca-rt.onetv.app/Waar/index-0.m3u8
-#EXTINF:-1  tvg-name="NUBAR TV " tvg-logo="https://i.postimg.cc/gjdNTLPM/Nubar-200.jpg" group-title="General",NUBAR TV
-http://stream.nubar.tv:1935/private/NUBARtv/playlist.m3u8
-#EXTINF:-1  tvg-name="Derin" tvg-logo="https://i.postimg.cc/85mjzRdh/Derin-200.jpg" group-title="General",Derin
-http://baskhd.ddns.net:40/live/Derin/playlist.m3u8
-#EXTINF:-1  tvg-name="SHNA TV" tvg-logo="https://i.postimg.cc/26b0p54R/Shna-tv-200.jpg" group-title="General",SHNA TV
-http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
-#EXTINF:-1  tvg-name="SHAR TV" tvg-logo="https://i.postimg.cc/t4sZNVyj/Shar-tv-200.jpg" group-title="General",SHAR TV
-http://avrstream.com:1935/live/SHARTV/playlist.m3u8
-#EXTINF:-1  tvg-name="Soran Entertainment" tvg-logo="https://i.postimg.cc/hvvhPYMx/Soran-Entertaintment-200.jpg" group-title="General",Soran Entertainment
-http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
-#EXTINF:-1  tvg-name="KHAK TV" tvg-logo="https://i.postimg.cc/3Jd6JrTN/xak-tv_200.png" group-title="General",KHAK TV
-http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
-#EXTINF:-1  tvg-name="Aryen" tvg-logo="https://i.postimg.cc/cLkWHkKM/ARyenv-200.jpg" group-title="General",Aryen TV
-https://aryen.tv/live/tv/chunklist_w1758839041.m3u8
-#EXTINF:-1  tvg-name="Ronahi TV" tvg-logo="https://i.postimg.cc/CxxYwpKx/Rinahi_200.jpg" group-title="General",Ronahi TV
-https://ca-rt.onetv.app/Ronahi/index-0.m3u8
-#EXTINF:-1  tvg-name="Qellat" tvg-logo="https://i.postimg.cc/43FWFcHQ/Qellat-200.jpg" group-title="General",Qellat
-http://213.32.255.86:1935/live/Qellat_tv/playlist.m3u8
-#EXTINF:-1  tvg-name="ALA HD" tvg-logo="https://i.postimg.cc/Kv10n948/Ala-HD-200.png" group-title="General",ALA HD
-http://avrstream.com:1935/live/ala-hd/playlist.m3u8
-#EXTINF:-1  tvg-name="ALA HD" tvg-logo="https://i.postimg.cc/bYV6g5S2/BNARHD-200.png" group-title="General",Bnar H
-http://baskhd.ddns.net:40/live/bnar4k/playlist.m3u8
-#EXTINF:-1  tvg-name="KURD CHANNEL" tvg-logo="https://i.postimg.cc/26ztX34j/Kurd-channel-200.png" group-title="General",KURD CHANNEL
-https://iko-live.akamaized.net/kurdhd/master.m3u8
-#EXTINF:-1  tvg-name="TRT Kurdi" tvg-logo="https://i.postimg.cc/SKy2w03W/TRT-Kurdi-200.png" group-title="General",TRT Kurdi
+
+#EXTINF:-1 tvg-name="TRT Kurdi" tvg-logo="https://i.postimg.cc/SKy2w03W/TRT-Kurdi-200.png" group-title="KURDISH",TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1  tvg-name="EURO kurd" tvg-logo="https://i.postimg.cc/xj6X8Yjq/Eru-Kurd-200.png" group-title="General",EURO kurd
-http://eurokurd.mymediapc.net:40/live/Eurokurd/playlist.m3u8
-#EXTINF:-1  tvg-name="Avar" tvg-logo="https://i.postimg.cc/DzvWc0vZ/Avar-200.jpg" group-title="General",Avar
-https://avr.host247.net/live/AvarTv/playlist.m3u8
-#EXTINF:-1  tvg-name="Amozhgary" tvg-logo="https://i.postimg.cc/269NG3rs/Amozhgary-200.png" group-title="Religious",Amozhgary
-https://app-live.org/live/3268334b/index.m3u8
-#EXTINF:-1  tvg-name="Bangawaz" tvg-logo="https://i.postimg.cc/cJmSKXj4/Bangawaz-200.jpg" group-title="Religious",Bangawaz
-http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/cJmSKXj4/Bangawaz-200.jpg" group-title="Religious",Bangawaz
-http://bangawaztv.ddns.net:40/live/bangawaztv/chunklist_w920250732.m3u
-#EXTINF:-1  tvg-name="Al-Quran Al-Kareem" tvg-logo="https://i.postimg.cc/8kXBNmcL/Saudi-Quran-200.jpg" group-title="Religious",Al-Quran Al-Kareem
-http://103.126.50.103:2082/live/05343240670yg/9139198/39652.m3u8
-#EXTINF:-1  tvg-name="Al-Quran Al-Kareem" tvg-logo="https://i.postimg.cc/8kXBNmcL/Saudi-Quran-200.jpg" group-title="Religious",Al-Quran Al-Kareem
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1  tvg-name="Al-Quran Al-Kareem" tvg-logo="https://i.postimg.cc/8kXBNmcL/Saudi-Quran-200.jpg" group-title="Religious",Al-Quran Al-Kareem
-https://win.holol.com/live/quran/chunklist_w1967448292.m3u8
-#EXTINF:-1  tvg-name="Al-Sunnah Al-Nabawiyah" tvg-logo="https://i.postimg.cc/WbDm3qqC/Saudi-Suna-200.jpg" group-title="Religious",Al-Sunnah Al-Nabawiyah
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:-1  tvg-name="Al-Sunnah Al-Nabawiyah" tvg-logo="https://i.postimg.cc/WbDm3qqC/Saudi-Suna-200.jpg" group-title="Religious",Al-Sunnah Al-Nabawiyah
-https://win.holol.com/live/sunnah/chunklist_w812271973.m3u8
-#EXTINF:-1  tvg-name="FARMUDA TV" tvg-logo="https://i.postimg.cc/1X0NHMKY/Farmuda-200.jpg" group-title="Religious",FARMUDA TV
-http://avrstream.com:1935/live/FarmodaTV/playlist.m3u8
-#EXTINF:-1  tvg-name="EMAN TV" tvg-logo="https://i.postimg.cc/L8jRSH3P/Eman-tv-200.jpg" group-title="Religious",EMAN TV
-http://avrstream.com:1935/live/emantv/playlist.m3u8
-#EXTINF:-1  tvg-name="Gawher-Islam" tvg-logo="https://i.postimg.cc/NF2q7GyF/gewher-islam.png" group-title="Religious",Gawher-Islam
-https://live20.bozztv.com/giatv/giatv-gewherislha88/gewherislha88/chunks.m3u8
-#EXTINF:-1  tvg-name="Ashti" tvg-logo="https://i.postimg.cc/D0C0q7M0/Ashti-200.png" group-title="Religious",Ashti
-http://avrstream.com:1935/live/AshtiTV/media_w1732842089.m3u8
-#EXTINF:-1  tvg-name="SADA TV" tvg-logo="https://i.postimg.cc/2yCLQcjc/Sada-200.jpg" group-title="Religious",SADA TV
-http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
-#EXTINF:-1  tvg-name="MIHRAB TV" tvg-logo="https://i.postimg.cc/Kz8yttS7/Mihrab-200.png" group-title="Religious",MIHRAB TV
-http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
-#EXTINF:-1  tvg-name="BASK HD" tvg-logo="https://i.postimg.cc/26s2Cfwq/Bask-200-new.jpg" group-title="Religious",BASK HD
-http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
-#EXTINF:-1  tvg-name="NRT 4" tvg-logo="https://i.postimg.cc/wTy30vRJ/NRT-4-200.jpg" group-title="Religious",NRT 4
-https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
-#EXTINF:-1  tvg-name="BANGXWAZEN-BADINAN" tvg-logo="https://i.postimg.cc/59kfqKtX/Bangawaz-Badinan-200.jpg" group-title="Religious",BANGXWAZEN-BADINAN
-http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/chunklist.m3u8
-#EXTINF:-1  tvg-name="Niroj Ayini" tvg-logo="https://i.postimg.cc/FR4YvWSr/Niroj-Ayini.png" group-title="Religious",Niroj Ayini
-http://142.132.133.190:1935/live/niroj_ayini/index.m3u8
-#EXTINF:-1  tvg-name="Arifan Sunat" tvg-logo="https://i.postimg.cc/L6dbpjCy/Arifan-Sunat-200.png" group-title="Religious",Arifan Sunat
-http://lawandnawzad.com:1935/live/ArifanSunat/playlist.m3u8
-#EXTINF:-1  tvg-name="MMN QURAN" tvg-logo="https://i.postimg.cc/CLV2x1nF/MMN-Quran-200.png" group-title="Religious",MMN QURAN
-http://mmn.mypsx.net:1935/live/mmnhdquran/chunklist.m3u8
-#EXTINF:-1  tvg-name="MMN QURAN" tvg-logo="https://i.postimg.cc/CLV2x1nF/MMN-Quran-200.png" group-title="Religious",MMN QURAN
-http://extraott-iptv.com:88/0229477349/8104258135/381829
-#EXTINF:-1  tvg-name="Barin Quran" tvg-logo="https://i.postimg.cc/7Zh7tW3j/Barin-Quran-200.jpg" group-title="Religious",Barin Quran
-http://baskhd.ddns.net:40/live/QURANHDTV/chunklist.m3u8
-#EXTINF:-1  tvg-name="Zever Quran" tvg-logo="https://i.postimg.cc/R0c0g7Dj/Zever-Quran-200.png" group-title="Religious",Zever Quran
-http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8
-#EXTINF:-1  tvg-name="Esra Quran" tvg-logo="https://i.postimg.cc/CKKvN75K/Esta-Quran-200.jpg" group-title="Religious",Esra Quran
-https://live20.bozztv.com/giatv/giatv-esraquran_kamalblbas/esraquran_kamalblbas/playlist.m3u8
-#EXTINF:-1  tvg-name="Istar Quran" tvg-logo="https://i.postimg.cc/HnWjcr3F/Istar-Quran-200.jpg" group-title="Religious",Istar Quran
-https://live20.bozztv.com/giatv/giatv-istar4ktv/istar4ktv/playlist.m3u8
-#EXTINF:-1  tvg-name="Quran Kareem FM" tvg-logo="https://i.postimg.cc/W3rhZPXY/Quran-Kareem-FM-200.png" group-title="Religious",Quran Kareem FM
-https://streaming.zaytonatube.com:8081/holyquran/holyquran/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  tvg-name="Soz Quran" tvg-logo="https://i.postimg.cc/2S8ZkwZR/Soz-Quran-200.png" group-title="Religious",Soz Quran
-https://live20.bozztv.com/giatv/giatv-sozetvq/sozetvq/chunks.m3u8
-#EXTINF:-1  tvg-name="San Quran" tvg-logo="https://i.postimg.cc/y84gRkJT/San-quran.png" group-title="Religious",San Quran
-http://live20.bozztv.com/giatv/giatv-sozquran/sozquran/chunks.m3u8
-#EXTINF:-1  tvg-name="SPI QURAN" tvg-logo="https://i.postimg.cc/kgRGb3FM/SPI-Quran-200.jpg" group-title="Religious",SPI QURAN
-https://live20.bozztv.com/giatv/giatv-spi_quran_hd/spi_quran_hd/chunks.m3u8
-#EXTINF:-1  tvg-name="Shna QURAN" tvg-logo="https://i.postimg.cc/XvFrTSp1/Shna-Quran-200.png" group-title="Religious",Shna QURAN
-http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
-#EXTINF:-1  tvg-name="Shar QURAN" tvg-logo="https://i.postimg.cc/bNBdrNnF/SHAR-Quran-200.jpg" group-title="Religious",Shar QURAN
-https://live20.bozztv.com/giatv/giatv-sharqurantv/sharqurantv/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5t1JNZsR/IMK-Quran-200.jpg" group-title="Religious",IMKQURAN HD
-http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
-#EXTINF:-1  tvg-name="QURAN Sharjah" tvg-logo="https://i.postimg.cc/6QscV3tq/Sharjah_Tv_Quran_200.jpg" group-title="Religious",QURAN Sharjah
-https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil//playlist.m3u8
-#EXTINF:-1  tvg-name="Pro Quran" tvg-logo="https://i.postimg.cc/Z5X97KKy/Al-Quran-Pro-200.png" group-title="Religious",Pro Quran
-http://tv.ezanvaktipro.com:80/hls/quran.m3u8
-#EXTINF:-1  tvg-name="Iqraa Quran" tvg-logo="https://i.postimg.cc/YS1NfcpH/Iqra-200.png" group-title="Religious",Iqraa Quran
-https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/zv96HZzg/Bahrain-Quran-200.jpg" group-title="Religious",BAHRAIN QURAN
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-#EXTINF:-1  tvg-name="Al-Majd Holy Quran" tvg-logo="https://i.postimg.cc/tCL3VRhT/Quran-Majid-200.jpg" group-title="Religious",Al-Majd Holy Quran
-https://edge66.magictvbox.com/liveApple/al_majd/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="ESRA TV 1" tvg-logo="https://i.postimg.cc/6ptb7tNn/Esra-1-200.png" group-title="Religious",ESRA TV 1
-https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/playlist.m3u8
-#EXTINF:-1  tvg-name="ESRA TV 2" tvg-logo="https://i.postimg.cc/XYLHdmVh/Esra-2-200.png" group-title="Religious",ESRA TV 2
-https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/playlist.m3u8
-#EXTINF:-1  tvg-name="Naqshi Media" tvg-logo="https://i.postimg.cc/pXwY5xDp/Naqshi-Media-200.jpg" group-title="Religious",Naqshi Media
-http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
-#EXTINF:-1  tvg-name="Raman" tvg-logo="https://i.postimg.cc/pXr99vx0/Raman-200.png" group-title="Religious",Raman
-http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:08:79:9B&stream=1310836&extension=ts&play_token=Uu0lXk0SPQ
-#EXTINF:-1  tvg-name="Macca" tvg-logo="https://i.postimg.cc/Y0kMN7BB/Macca-200.png" group-title="Religious",Macca
-https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1  tvg-name="Quran Mashary" tvg-logo="https://i.postimg.cc/7LywSTFW/Quran-Mashary-200.png" group-title="Religious",Quran Mashary
-http://dvdv.org:2082/001562/001562/4868
-#EXTINF:-1  tvg-name="Quran Mashary" tvg-logo="https://i.postimg.cc/7LywSTFW/Quran-Mashary-200.png" group-title="Religious",Quran Mashary
-http://103.126.50.103:2082/live/05343240670yg/9139198/4868.m3u8
-#EXTINF:-1  tvg-name="Quran Mahir" tvg-logo="https://i.postimg.cc/MGPc55zG/Mahir-Quran-200.png" group-title="Religious",Quran Mahir
-http://dvdv.org:2082/001562/001562/7217
-#EXTINF:-1  tvg-name="Quran Mahir" tvg-logo="https://i.postimg.cc/MGPc55zG/Mahir-Quran-200.png" group-title="Religious",Quran Mahir
-http://103.126.50.103:2082/live/05343240670yg/9139198/7217.m3u8
-#EXTINF:-1  tvg-name="Abdulbasit Mujawad" tvg-logo="https://i.postimg.cc/SN2jDsYW/Abdulbasit-Mujawad.png" group-title="Religious",Abdulbasit Mujawad
-http://103.126.50.103:2082/live/05343240670yg/9139198/71089.m3u8
-#EXTINF:-1  tvg-name="Manshawai" tvg-logo="https://i.postimg.cc/7LywSTFW/Quran-Mashary-200.png" group-title="Religious",Manshawai
-http://103.126.50.103:2082/live/05343240670yg/9139198/71094.m3u8
-#EXTINF:-1  tvg-name="Peshawa Qadr" tvg-logo="https://i.postimg.cc/Z5CbQs8Y/Peshawa.jpg" group-title="Religious",Peshawa Qadr
-http://103.126.50.103:2082/live/05343240670yg/9139198/71444.m3u8
-#EXTINF:-1  tvg-name="Raad Kurdi" tvg-logo="https://i.postimg.cc/VsxJsXvg/raad-kurdi-200.jpg" group-title="Religious",Raad Kurdi
-https://server6.mp3quran.net/kurdi/002.mp3
-#EXTINF:-1  tvg-name="Quran Radio" tvg-logo="https://i.postimg.cc/ryC9KbQG/Quran-Radio-200.png" group-title="Religious",Quran Radio
-https://s34.radiolize.com/radio/8050/radio.mp3
-#EXTINF:-1  tvg-name="Quran Radio" tvg-logo="https://i.postimg.cc/ryC9KbQG/Quran-Radio-200.png" group-title="Religious",Quran Radio
-https://stream.radiojar.com/8s5u5tpdtwzuv
-#EXTINF:-1  tvg-name="Quran Radio" tvg-logo="https://i.postimg.cc/ryC9KbQG/Quran-Radio-200.png" group-title="Religious",Quran Radio
-https://qurango.net/radio/tarateel
-#EXTINF:-1  tvg-name="Quran Radio" tvg-logo="https://i.postimg.cc/ryC9KbQG/Quran-Radio-200.png" group-title="Religious",Quran Radio
-https://uk5.internet-radio.com/proxy/dubaiholyquran?mp=/stream;
-#EXTINF:-1  tvg-name="Huda" tvg-logo="https://i.postimg.cc/WbShsVHy/Huda-200.png" group-title="Religious",Huda
-https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
-#EXTINF:-1  tvg-name="Guide Us" tvg-logo="https://i.postimg.cc/hvcT3rXQ/Guide-us-tv-200.png" group-title="Religious",Guide Us
-https://stream.streamislam.com:443/hls/streamlive/1_2/index.m3u8
-#EXTINF:-1  tvg-name="NRT SPORT HD" tvg-logo="https://i.postimg.cc/Prgh0LYh/NRT-Sport-200.jpg" group-title="KURD SPORT",NRT SPORT HD
+
+#EXTINF:-1 tvg-name="NRT SPORT HD" tvg-logo="https://i.postimg.cc/Prgh0LYh/NRT-Sport-200.jpg" group-title="KURDISH",NRT SPORT HD
 https://live9.karwan.tv/Nrtsportyusfstore/index.m3u8
-#EXTINF:-1  tvg-name="NRT SPORT" tvg-logo="https://i.postimg.cc/Prgh0LYh/NRT-Sport-200.jpg" group-title="KURD SPORT",NRT SPORT HD
-http://blue4k.xyz:8080/live/05070793386/6750b02cea052/531812.m3u8
-#EXTINF:-1  tvg-name="NRT SPORT" tvg-logo="https://i.postimg.cc/Prgh0LYh/NRT-Sport-200.jpg" group-title="KURD SPORT",NRT SPORT HD
-https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
-#EXTINF:-1  tvg-name="NRT SPORTS (Karwantv)" tvg-logo="https://i.postimg.cc/VvztBrWF/NRT-Sport-200-karwantv.jpg" group-title="KURD SPORT",NRT SPORT (Karwantv)
-https://cdn.karwan.tv/nrt-sport/index.m3u8
-#EXTINF:-1  tvg-name="AVA SPORT FHD" tvg-logo="https://i.postimg.cc/L6n6cKWk/Ava-Sport-200.png" group-title="KURD SPORT",AVA SPORT
+
+#EXTINF:-1 tvg-name="AVA SPORT FHD" tvg-logo="https://i.postimg.cc/L6n6cKWk/Ava-Sport-200.png" group-title="KURDISH",AVA SPORT
 https://live9.karwan.tv/Avasporttusfstore/index.m3u8
-#EXTINF:-1  tvg-name="AVA SPORT FHD" tvg-logo="https://i.postimg.cc/L6n6cKWk/Ava-Sport-200.png" group-title="KURD SPORT",AVA SPORT
-http://blue4k.xyz:8080/live/05070793386/6750b02cea052/531814.m3u8
-#EXTINF:-1  tvg-name="AVA SPORT HD" tvg-logo="https://i.postimg.cc/L6n6cKWk/Ava-Sport-200.png" group-title="KURD SPORT",AVA SPORT
-http://149.57.37.10:80/EX/AVA_Sports_HD-kr/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="ASO SPORT" tvg-logo="https://i.postimg.cc/L6n6cKWk/Ava-Sport-200.png" group-title="KURD SPORT",ASO SPORT
-https://live9.karwan.tv/Asosportyusfstore/index.m3u8
-#EXTINF:-1  tvg-name="ZAXO SPORT" tvg-logo="https://i.postimg.cc/zvpb0CVJ/Zaxo-Sport-200.jpg" group-title="KURD SPORT",ZAXO SPORT
-http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/280431
-#EXTINF:-1  tvg-name=" Duhok Sports" tvg-logo="https://i.postimg.cc/rsS7dLqH/Duhok-Sport-200.jpg" group-title="KURD SPORT",DUHOK SPORT
-http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129834
-#EXTINF:-1  tvg-name="ASTERA SPORT S" tvg-logo="https://i.postimg.cc/05mTX77C/Astera-Sport-200.jpg" group-title="KURD SPORT",ASTERA SPORT S
-http://149.57.37.10:2200/EX/Astera_Sport-kr/index.m3u8
-#EXTINF:-1  tvg-name="ASTERA SPORT" tvg-logo="https://i.postimg.cc/05mTX77C/Astera-Sport-200.jpg" group-title="KURD SPORT",ASTERA SPORT
-http://blue4k.xyz:8080/live/05070793386/6750b02cea052/531817.m3u8
-#EXTINF:-1  tvg-name="LD SPORT 1" tvg-logo="https://i.postimg.cc/0jFZfGkH/LD-Sport-1-200.jpg" group-title="KURD SPORT",LD SPORT 1
-http://blue4k.xyz:8080/live/05070793386/6750b02cea052/531834.m3u8
-#EXTINF:-1  tvg-name="LD SPORT 1 HD" tvg-logo="https://i.postimg.cc/0jFZfGkH/LD-Sport-1-200.jpg" group-title="KURD SPORT",LD SPORT 1
-https://live9.karwan.tv/Ldsportyusfstore/index.m3u8
-#EXTINF:-1  tvg-name="ARO SPORT 2 HD" tvg-logo="https://i.postimg.cc/4yvbZHyM/Aro-Sport-200.jpg" group-title="KURD SPORT",Aro Sport 2
-http://149.57.37.10:80/EX/KR-Aro_Drama-kr/index.m3u8
-#EXTINF:-1  tvg-name="4SPORT HD" tvg-logo="https://i.postimg.cc/wTVcGNSR/4-Sport-200.png" group-title="KURD SPORT",4SPORT
-https://live9.karwan.tv/4sportyusfstore/index.m3u8
-#EXTINF:-1  tvg-name="MMN SPORT" tvg-logo="https://i.postimg.cc/Px9FNDt5/NR1-Sport-200.png" group-title="KURD SPORT",MMN SPORT
-http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
-#EXTINF:-1  tvg-name="MMN SPORT" tvg-logo="https://i.postimg.cc/BQj1K0jX/MMN-Sport-200.jpg" group-title="KURD SPORT",MMN SPORT
-http://142.132.133.190:1935/live/NR1_SPORT/playlist.m3u8
-#EXTINF:-1  tvg-name="Sima SPORT" tvg-logo="https://i.postimg.cc/3Jqkmqx3/Sima-Sport-200.jpg" group-title="KURD SPORT",Sima SPORT
-http://149.57.37.10:2200/EX/KR_SIMA_Sport_HD-kr/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="Kurdistan SPORT" tvg-logo="https://i.postimg.cc/YCr8rR1x/Kurdistan-Sport-200.png" group-title="KURD SPORT",Kurdistan SPORT
-http://149.57.37.10/EX/KR_Kurdistan_Sport_HD-kr/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="Gawher SPORT" tvg-logo="https://i.postimg.cc/m2GRwH6q/Gawher-sport-200.png" group-title="KURD SPORT",Gawher SPORT
-https://live20.bozztv.com/giatv/giatv-gewherspha88/gewherspha88/chunks.m3u8
-#EXTINF:-1  tvg-name="Afarin Baxcha" tvg-logo="https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png" group-title="KIDS",Afarin Baxcha
-https://5dcabf026b188.streamlock.net/afarinTV/livestream/chunklist_w286602395.m3u8
-#EXTINF:-1  tvg-name="AFARIN KIDS" tvg-logo="https://i.postimg.cc/QCRGLPBS/Afarin-Kids-200.png" group-title="KIDS",Afarin tv
+
+#EXTINF:-1 tvg-name="Amozhgary" tvg-logo="https://i.postimg.cc/269NG3rs/Amozhgary-200.png" group-title="KURDISH",Amozhgary
+https://app-live.org/live/3268334b/index.m3u8
+
+#EXTINF:-1 tvg-name="Bangawaz" tvg-logo="https://i.postimg.cc/cJmSKXj4/Bangawaz-200.jpg" group-title="KURDISH",Bangawaz
+http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AFARIN KIDS" tvg-logo="https://i.postimg.cc/QCRGLPBS/Afarin-Kids-200.png" group-title="KURDISH",Afarin tv
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1  tvg-name="Zarok Sorani" tvg-logo="https://i.postimg.cc/g0fvZH6Q/Zarok-200.jpg" group-title="KIDS",Zarok Sorani
+
+#EXTINF:-1 tvg-name="Zarok Sorani" tvg-logo="https://i.postimg.cc/g0fvZH6Q/Zarok-200.jpg" group-title="KURDISH",Zarok Sorani
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1  tvg-name="ZAROK Kurmanji " tvg-logo="https://i.postimg.cc/g0fvZH6Q/Zarok-200.jpg" group-title="KIDS",Zarok Kurmanji
-https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 
-#EXTINF:-1  tvg-name="GAWHER KIDS" tvg-logo="https://i.postimg.cc/CMnQXcNB/NR1-Kids-200.jpg" group-title="KIDS",NR1 KIDS
-http://142.132.133.190:1935/live/NR1_HD/playlist.m3u8
-
-#EXTINF:-1  tvg-name="NR1 KIDS" tvg-logo="https://i.postimg.cc/gkc2R8s3/Gaeher-Kids.png" group-title="KIDS",GAWHER KIDS
-https://live9.karwan.tv/Gewher-Kids/index.m3u8
-#EXTINF:-1  tvg-name="KIDCO HD" tvg-logo="https://i.postimg.cc/3N29RbSt/Kidco-200.jpg" group-title="KIDS",KIDCO HD
-http://avrstream.com:1935/live/kidcohd/chunklist_w1629791731.m3u8
-#EXTINF:-1  tvg-name="Atfal Mawaheb" tvg-logo="https://i.postimg.cc/zv7TbxTZ/Atfal-u-mawahid-200.png" group-title="KIDS",Atfal & Mawaheb TV
-https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-#EXTINF:-1  tvg-name="Kartoon Channel" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="KIDS",Kartoon Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
-#EXTINF:-1  tvg-name="Moonbug Kids" tvg-logo="https://i.postimg.cc/QChpd29J/moonbugkids-200.png" group-title="KIDS",Moonbug Kids
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="Koogi" tvg-logo="https://i.postimg.cc/qv226vLs/Koogi-tv-200.png" group-title="KIDS",Koogi TV
-https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="BabyFirst" tvg-logo="https://i.postimg.cc/7Y83Hz1H/Babyfirst-200.png" group-title="KIDS",BabyFirst
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
-#EXTINF:-1  tvg-name="trtcocuk" tvg-logo="https://i.postimg.cc/j5HprcXp/TRT-Chuchak-200.png" group-title="KIDS",TRTcocuk
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1  tvg-name="MBC 3" tvg-logo="https://i.postimg.cc/JnPZ2ygb/Mbc-3-200.jpg" group-title="KIDS",MBC 3
-https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
-#EXTINF:-1  tvg-name="Majid Kids" tvg-logo="https://i.postimg.cc/sD0sKVgb/Majid-kids-200.png" group-title="KIDS",Majid Kids
-https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-#EXTINF:-1  tvg-name="Animalbox" tvg-logo="https://i.postimg.cc/3J4YLjyn/Animal-Box-200.png" group-title="Documentary",Animal Box
-https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8
-#EXTINF:-1  tvg-name="MMN Ducumetary" tvg-logo="https://i.postimg.cc/SNdB0bbj/MMN-Documentary.png" group-title="Documentary",MMN Documentary
-http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
-#EXTINF:-1  tvg-name="National Geographic" tvg-logo="https://i.postimg.cc/T2F56N5L/National-geographic-200.png" group-title="Documentary",National Geographic
-https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
-#EXTINF:-1  tvg-name="Jazeera Documentary" tvg-logo="https://i.postimg.cc/h4z0F5P6/Alajazira-wathaiqya-200.png" group-title="Documentary",Al Jazeera Documentary
-https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
-#EXTINF:-1  tvg-name="National Geographic Wild" tvg-logo="https://i.postimg.cc/xTD4wccH/Natinal-wild-200.jpg" group-title="Documentary",National Geographic Wild
-https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/stream_04/index.m3u8
-#EXTINF:-1  tvg-name="Amazing Discoveries" tvg-logo="https://i.postimg.cc/v84wJbny/Ad-tv-200.jpg" group-title="Documentary",Amazing Discoveries
-https://rpn.bozztv.com/gfaith/gfaith-amazing/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="DocuBOX" tvg-logo="https://i.postimg.cc/Jzpgm6wk/Docu-Box-200.png" group-title="Documentary",DocuBOX
-http://iptv.prosto.tv:7000/ch93/video.m3u8
-#EXTINF:-1  tvg-name="WildEarth" tvg-logo="https://i.postimg.cc/XY9JzCtm/Wild-earth-hd-200.png" group-title="Documentary",WildEarth
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1  tvg-name="Barin Movies" tvg-logo="https://i.postimg.cc/pdML1k2b/Barin-Movie-200.jpg" group-title="Movies",Barin Movies
+#EXTINF:-1 tvg-name="Barin Movies" tvg-logo="https://i.postimg.cc/pdML1k2b/Barin-Movie-200.jpg" group-title="KURDISH",Barin Movies
 http://baskhd.ddns.net:40/live//barinmovieSHD/mono.m3u8
-#EXTINF:-1  tvg-name="Bnar Movies" tvg-logo="https://i.postimg.cc/tg1Wzws9/Bnar-Movie-200.png" group-title="Movies",Bnar Movies
-http://baskhd.ddns.net:40/live//bnarmovies/.bnartvhdsestmok.m3u8
-#EXTINF:-1  tvg-name="Astera Movies" tvg-logo="https://i.postimg.cc/28hznwkg/Astera-Movie-200.png" group-title="Movies",Astera Movies
-http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/280459
-#EXTINF:-1  tvg-name=" Niga Movies" tvg-logo="https://i.postimg.cc/SKLx08sX/Niga-Movie-200.jpg" group-title="Movies",Niga Movies
-http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129908
-#EXTINF:-1  tvg-name="Kurd Cenama" tvg-logo="https://i.postimg.cc/SKLx08sX/Niga-Movie-200.jpg" group-title="Movies",Kurd Cenama
-https://live9.karwan.tv/mumahatv/index.m3u8
-#EXTINF:-1  tvg-name="MMN MOVIES" tvg-logo="https://i.postimg.cc/6qDnghgD/MMN-Movies-200.png" group-title="Movies",MMN Movies
-http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist.m3u8
 
+#EXTM3U
 
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sports Tennis HD 50 UK
+# --- تصنيف SPORT Global ---
+
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sports Tennis HD 50 UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6546/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Eurosport 1 FHD orig
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Eurosport 1 FHD orig
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9026/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Tring Sport 1 HD AL
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Tring Sport 1 HD AL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31563/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Tring Sport 2 HD AL
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Tring Sport 2 HD AL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31564/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Tring Sport 3 HD AL
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Tring Sport 3 HD AL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31565/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sport 1 HD HU
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport 1 HD HU
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31568/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sport 2 HD HU
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport 2 HD HU
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31569/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Nova Sport 3 HD CZ
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Nova Sport 3 HD CZ
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31570/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Nova Sport 4 HD CZ
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Nova Sport 4 HD CZ
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31571/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Cytavision Sports 1 GR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cytavision Sports 1 GR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31572/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Cytavision Sports 3 GR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cytavision Sports 3 GR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31574/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Cytavision Sports 5 GR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cytavision Sports 5 GR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31575/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Cytavision Sports 6 GR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cytavision Sports 6 GR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31576/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Cytavision Sports 7 GR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cytavision Sports 7 GR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31577/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Cosmote Sport 1 HD GR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cosmote Sport 1 HD GR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31578/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Cosmote Sport 2 HD GR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cosmote Sport 2 HD GR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31579/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Cosmote Sport 3 HD GR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cosmote Sport 3 HD GR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31581/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Cosmote Sport 4 HD GR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cosmote Sport 4 HD GR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31582/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Cosmote Sport 5 HD GR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cosmote Sport 5 HD GR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31583/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Cosmote Sport 6 HD GR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cosmote Sport 6 HD GR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31584/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Cosmote Sport 7 HD GR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cosmote Sport 7 HD GR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31585/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Cosmote Sport 8 HD GR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cosmote Sport 8 HD GR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31586/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Cosmote Sport 9 HD GR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cosmote Sport 9 HD GR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31587/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Cosmote Sport Highlights HD GR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cosmote Sport Highlights HD GR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31588/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sport Live HD DK
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport Live HD DK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31589/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sport TV+ HD PT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport TV+ HD PT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31590/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",SuperSport Rugby ZA
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",SuperSport Rugby ZA
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31591/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Canal 11 HD PT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Canal 11 HD PT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31592/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sport Extra HD RO
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport Extra HD RO
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31595/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Esport HD RS
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Esport HD RS
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31597/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Fight HD RS
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Fight HD RS
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31598/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Premium 1 HD RS
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Premium 1 HD RS
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31599/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Premium 2 HD RS
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Premium 2 HD RS
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31600/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Premium 3 HD RS
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Premium 3 HD RS
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31601/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Sport 1 HD RS
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 1 HD RS
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31602/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Sport 3 HD RS
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 3 HD RS
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31603/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Premium 3 RS
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Premium 3 RS
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31604/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Sport 4 HD RS
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 4 HD RS
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31605/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Sport 5 HD RS
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 5 HD RS
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31606/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Sport 6 HD RS
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 6 HD RS
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31607/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Sport 7 HD RS
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 7 HD RS
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31608/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Sport 8 HD RS
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 8 HD RS
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31609/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Sport 9 HD RS
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 9 HD RS
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31610/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Sport 1x2 HD RS
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 1x2 HD RS
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31611/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sky Sports Racing HD 50 UK
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sports Racing HD 50 UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9335/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sky Sports Premier League HD 50 UK
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sports Premier League HD 50 UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9334/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sky Sports Mix HD 50 UK
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sports Mix HD 50 UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9310/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sky Sports Main Event HD 50 UK
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sports Main Event HD 50 UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9308/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sky Sports Golf HD 50 UK
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sports Golf HD 50 UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9293/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sky Sports Football HD 50 UK
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sports Football HD 50 UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9289/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sky Sports F1 HD 50 UK
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sports F1 HD 50 UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9283/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sky Sports Cricket HD 50 UK
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sports Cricket HD 50 UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9258/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sky Sports+ HD UK
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sports+ HD UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9248/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sky Sports Action HD 50 UK
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sports Action HD 50 UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9155/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Premier Sports 1 HD 50 UK
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Premier Sports 1 HD 50 UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2160/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Старт Триумф HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Старт Триумف HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/16034/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",5Sport 4K IL
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",5Sport 4K IL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/16019/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sky Sport Golf HD DE
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sport Golf HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/5043/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sky Sport Premier League HD DE
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sport Premier League HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/5042/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Мир Баскетбола HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Мир Баскетбола HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20004/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",FightBox HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",FightBox HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20027/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Extreme Sports HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Extreme Sports HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20028/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Танцуй!
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Танцуй!
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/14023/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Матч ТВ +4 (Алтай)
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Матч ТВ +4 (Алтай)
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15289/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",KHL Prime HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",KHL Prime HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19396/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",BOX Be On Edge Live 1 HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",BOX Be On Edge Live 1 HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19422/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",BOX Be On Edge Live 2 HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",BOX Be On Edge Live 2 HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19423/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",BOX Be On Edge HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",BOX Be On Edge HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19424/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="спорт",Матч! Страна
+#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Матч! Страна
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/107/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Матч ТВ +2
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Матч ТВ +2
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6012/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Матч ТВ +3 (Омск)
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Матч ТВ +3 (Омск)
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15432/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Матч ТВ +4
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Матч ТВ +4
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6023/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Матч ТВ +8
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Матч ТВ +8
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6052/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",UPL TV 1 HD UA
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",UPL TV 1 HD UA
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/14193/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",UPL TV 2 HD UA
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",UPL TV 2 HD UA
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/14194/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",UPL TV 3 HD UA
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",UPL TV 3 HD UA
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/14195/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Motorvision TV DE
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Motorvision TV DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6112/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky 1 AU
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky 1 AU
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6122/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sky Sport Austria 2 HD DE
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sport Austria 2 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6113/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sky Sport Bundesliga 9 FHD DE
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sport Bundesliga 9 FHD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6097/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Band Sports BR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Band Sports BR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6158/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="спорт",Матч! Планета
+#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Матч! Планета
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/123/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="спорт",Матч! Футбол 1
+#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Матч! Футбол 1
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/124/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="спорт",KHL
+#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",KHL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/519/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="спорт",Матч! Футбол 3
+#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Матч! Футбол 3
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/522/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="спорт",Матч! Арена
+#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Матч! Арена
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/528/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="спорт",Матч! Игра
+#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Матч! Игра
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/529/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="спорт",Матч! Футбол 2
+#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Матч! Футбол 2
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/530/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="спорт",Матч! Премьер
+#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Матч! Премьер
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/531/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="спорт",Матч ТВ
+#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Матч ТВ
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/535/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="спорт",Eurosport 1
+#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Eurosport 1
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/141/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="спорт",Extreme Sports
+#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Extreme Sports
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/144/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="спорт",Матч! Боец
+#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Матч! Боец
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/150/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="спорт",Viju+ Sport
+#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Viju+ Sport
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/160/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="спорт",MMA-TV.com
+#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",MMA-TV.com
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/843/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="спорт",Бокс ТВ
+#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Боكس ТВ
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/870/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Старт FHD
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Старт FHD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2154/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Футбол
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Футбол
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/5050/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sky Sport News HD DE
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sport News HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2477/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sky Sport 1 FHD DE
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sport 1 FHD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2478/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sky Sport 2 HD DE
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sport 2 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2479/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sky Sport Bundesliga 1 HD DE
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sport Bundesliga 1 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2480/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sky Sport Austria 1 HD DE
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sport Austria 1 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2492/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",beIN Sports 1 HD FR
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",beIN Sports 1 HD FR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2499/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",beIN Sports 2 HD FR
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",beIN Sports 2 HD FR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2500/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",beIN Sports 3 HD FR
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",beIN Sports 3 HD FR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2501/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Canal+ Sport HD FR
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Canal+ Sport HD FR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2502/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sport 1 HD DE
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sport 1 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2503/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",TNT Sports 1 FHD UK
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",TNT Sports 1 FHD UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2505/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",TNT Sports 2 HD UK
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",TNT Sports 2 HD UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2506/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Star Sports 2 IN
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Star Sports 2 IN
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2507/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Star Sports 1 IN
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Star Sports 1 IN
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2508/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",YAS Sports AE
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",YAS Sports AE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2511/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",ONTime Sports EG
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",ONTime Sports EG
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2512/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Eleven Sports 2 HD PL
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Eleven Sports 2 HD PL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2517/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Eleven Sports 1 HD PL
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Eleven Sports 1 HD PL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2518/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Canal+ Sport 5 HD PL
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Canal+ Sport 5 HD PL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2519/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",TVP Sport HD PL
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",TVP Sport HD PL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2520/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",DIGI Sport 2 HD RO
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",DIGI Sport 2 HD RO
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2522/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",DIGI Sport 1 HD RO
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",DIGI Sport 1 HD RO
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2523/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",DIGI Sport 3 HD RO
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",DIGI Sport 3 HD RO
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2524/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sport TV 1 HD PT
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sport TV 1 HD PT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2525/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sport TV 2 HD PT
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sport TV 2 HD PT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2526/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sport TV 3 HD PT
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sport TV 3 HD PT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2527/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sport TV 4 HD PT
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sport TV 4 HD PT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2528/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sport TV 5 HD PT
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sport TV 5 HD PT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2529/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sporting TV HD PT
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sporting TV HD PT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2530/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",DAZN 1 HD PT
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",DAZN 1 HD PT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2531/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",DAZN 2 HD PT
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",DAZN 2 HD PT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2532/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",DAZN 4 HD PT
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",DAZN 4 HD PT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2534/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",DAZN 5 HD PT
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",DAZN 5 HD PT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2535/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",DAZN 6 PT
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",DAZN 6 PT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2536/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",DIGI Sport 4 HD RO
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",DIGI Sport 4 HD RO
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2538/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",TV 2 Sport 2 HD NO
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",TV 2 Sport 2 HD NO
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2540/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",MTV Viihde HD FI
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",MTV Viihde HD FI
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2541/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",RMC Sport 1 HD FR
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",RMC Sport 1 HD FR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2545/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",RMC Sport 2 HD FR
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",RMC Sport 2 HD FR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2546/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",RMC Sport 3 HD FR
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",RMC Sport 3 HD FR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2547/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sport 1 LT
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sport 1 LT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2548/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Arena Sport 1 HD SK
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Arena Sport 1 HD SK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2550/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",ČT sport HD CZ
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",ČT sport HD CZ
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2551/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Nova Sport 1 HD CZ
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Nova Sport 1 HD CZ
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2555/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Nova Sport 2 HD CZ
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Nova Sport 2 HD CZ
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2556/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Sport 2 HD CZ
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sport 2 HD CZ
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2557/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Ziggo Sport 3 HD NL
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Ziggo Sport 3 HD NL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2559/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Ziggo Sport HD NL
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Ziggo Sport HD NL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2560/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Ziggo Sport 2 HD NL
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Ziggo Sport 2 HD NL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2561/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Infosport+ HD FR
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Infosport+ HD FR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2544/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Setanta Sports 1 HD orig
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Sports 1 HD orig
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6541/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Setanta Sports 2 HD orig
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Sports 2 HD orig
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6542/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Setanta Sports 1
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Sports 1
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6543/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Setanta Sports 2
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Sports 2
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6544/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Окко Футбол HD
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Окко Футбол HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6554/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Premier Sports 1 HD UK
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Premier Sports 1 HD UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6555/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Eurosport 2 HD UK
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Eurosport 2 HD UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6556/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",TNT Sports 3 HD UK
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",TNT Sports 3 HD UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6564/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",TNT Sports 1 HD UK
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",TNT Sports 1 HD UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6566/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",DAZN 3 HD PT
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",DAZN 3 HD PT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7062/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport Bundesliga 2 HD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport Bundesliga 2 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7234/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport Bundesliga 3 HD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport Bundesliga 3 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7235/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport Bundesliga 5 HD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport Bundesliga 5 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7237/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport Bundesliga 6 HD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport Bundesliga 6 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7238/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport Bundesliga 7 HD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport Bundesliga 7 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7239/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport Bundesliga 8 HD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport Bundesliga 8 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7240/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport Bundesliga 9 HD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport Bundesliga 9 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7241/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Sport 1 FHD HR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 1 FHD HR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7263/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Sport 2 FHD HR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 2 FHD HR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7264/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Sport 3 FHD HR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 3 FHD HR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7265/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Sport 4 FHD HR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 4 FHD HR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7266/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Sport 5 FHD HR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 5 FHD HR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7267/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Sport 6 FHD HR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 6 FHD HR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7268/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sport Klub 1 HD HR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport Klub 1 HD HR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7269/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sport Klub 2 HD HR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport Klub 2 HD HR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7270/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sport Klub 3 HD HR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport Klub 3 HD HR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7271/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sport Klub 4 HD HR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport Klub 4 HD HR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7272/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sport Klub 5 HD HR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport Klub 5 HD HR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7273/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sport Klub 6 HD HR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport Klub 6 HD HR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7274/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sport Klub 7 HD HR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport Klub 7 HD HR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7275/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sport Klub Golf HR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport Klub Golf HR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7277/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sport Klub Fight HD HR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport Klub Fight HD HR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7278/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Polsat Sport 1 HD PL
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Polsat Sport 1 HD PL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7296/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Polsat Sport 3 HD PL
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Polsat Sport 3 HD PL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7303/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Polsat Sport Premium 1 HD PL
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Polsat Sport Premium 1 HD PL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7304/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Polsat Sport Premium 2 HD PL
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Polsat Sport Premium 2 HD PL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7305/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Polsat Sport Premium 3 PPV HD PL
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Polsat Sport Premium 3 PPV HD PL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7306/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Polsat Sport Premium 4 PPV HD PL
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Polsat Sport Premium 4 PPV HD PL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7307/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Polsat Sport Premium 5 PPV HD PL
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Polsat Sport Premium 5 PPV HD PL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7308/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Polsat Sport Premium 6 PPV HD PL
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Polsat Sport Premium 6 PPV HD PL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7309/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Polsat Sport 2 HD PL
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Polsat Sport 2 HD PL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7310/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Polsat Sport Fight HD PL
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Polsat Sport Fight HD PL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7311/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Fox Sports 1 HD US
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Fox Sports 1 HD US
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7322/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Fox Sports 2 HD US
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Fox Sports 2 HD US
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7323/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",CBS Sports Network HD US
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",CBS Sports Network HD US
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7324/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",NBC Sports Network HD US
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",NBC Sports Network HD US
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7327/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",NHL Network HD US
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",NHL Network HD US
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7328/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Sport 1 HD HR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 1 HD HR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7329/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Sport 2 HD HR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 2 HD HR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7330/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Sport 3 HD HR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 3 HD HR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7331/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Sport 4 HD HR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 4 HD HR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7332/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Sport 5 HD HR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 5 HD HR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7333/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Arena Sport 6 HD HR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 6 HD HR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7334/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sports Premier League HD UK
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sports Premier League HD UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7335/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sports Football HD UK
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sports Football HD UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7336/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sports Main Event HD UK
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sports Main Event HD UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7337/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sports Mix HD UK
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sports Mix HD UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7339/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sports Action HD UK
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sports Action HD UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7340/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sports Racing HD UK
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sports Racing HD UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7341/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sports F1 HD UK
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sports F1 HD UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7342/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sports Cricket HD UK
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sports Cricket HD UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7343/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sports Golf HD UK
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sports Golf HD UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7344/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",TV 2 Sport HD DK
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",TV 2 Sport HD DK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7355/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Триколор Спорт 1
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Триколор Спорт 1
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7360/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Триколор Спорт 2
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Триколор Спорт 2
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7361/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Триколор Спорт 3
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Триколор Спорт 3
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7362/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Триколор Спорт 4
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Триколор Спорт 4
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7363/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Триколор Спорт 5
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Триколоر Спорт 5
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7364/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Мир Баскетбола
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Мир Баскетбола
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/10033/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Хоккей ТВ HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Хоккей ТВ HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/10039/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="спорт",ТВ Спорт HD
+#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",ТВ Спорт HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/10057/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="спорт",Мяч HD
+#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Мяч HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/10058/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="спорт",StrahTV WWE Russian
+#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",StrahTV WWE Russian
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/11056/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",V Sport Football SE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",V Sport Football SE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/11110/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",V Sport Vinter SE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",V Sport Vinter SE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/11111/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",V sport football SE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",V sport football SE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12032/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",V sport motor HD SE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",V sport motor HD SE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12033/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",TV4 Hits HD SE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",TV4 Hits HD SE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12034/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",TV4 Sportkanalen HD SE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",TV4 Sportkanalen HD SE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12035/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",TV4 Stars HD SE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",TV4 Stars HD SE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12042/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Eurosport 1 HD SE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Eurosport 1 HD SE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12047/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Eurosport 2 HD SE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Eurosport 2 HD SE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12048/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",V Sport Extra SE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",V Sport Extra SE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12074/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",V Sport 1 SE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",V Sport 1 SE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12075/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",V Sport Golf SE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",V Sport Golf SE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12077/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",V Sport Vinter HD SE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",V Sport Vinter HD SE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12078/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",V Sport Premium SE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",V Sport Premium SE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12079/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",TV3 Sport SE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",TV3 Sport SE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12100/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Окко Event 1
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Окко Event 1
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/14186/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Окко Event 2
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Окко Event 2
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/14187/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Окко Event 3
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Окко Event 3
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/14188/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Окко Event 4
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Окко Event 4
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/14189/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Окко Event 5
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Окко Event 5
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/14190/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Окко Event 6
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Окко Event 6
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/14191/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Eurosport 1 FHD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Eurosport 1 FHD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15179/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Setanta Sports HD UA orig
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Sports HD UA orig
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15183/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Setanta Sports+ HD UA orig
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Sports+ HD UA orig
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15184/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Fast & Fun Box
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Fast & Fun Box
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15231/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",FightBox
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",FightBox
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15232/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Q Sport.KG HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Q Sport.KG HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15238/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Матч ТВ +2 (Уфа)
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Матч ТВ +2 (Уфа)
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15307/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Матч ТВ +0 (Липецк)
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Матч ТВ +0 (Липецк)
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15314/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Матч ТВ +7 (Владивосток)
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Матч ТВ +7 (Владивосток)
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15335/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Матч ТВ +4 (Томск)
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Матч ТВ +4 (Томск)
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15387/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Матч ТВ +0 (Белгород)
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Матч ТВ +0 (Белгород)
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15409/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Матч ТВ +0 (Элиста)
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Матч ТВ +0 (Элиста)
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15448/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Red Bull TV
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Red Bull TV
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/16039/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Red Bull TV HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Red Bull TV HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/16040/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Go3 Sport 1 HD EE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Go3 Sport 1 HD EE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/18000/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Go3 Sport 2 HD EE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Go3 Sport 2 HD EE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/18001/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Go3 Sport 1 HD LV
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Go3 Sport 1 HD LV
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/18011/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Go3 Sport 2 HD LV
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Go3 Sport 2 HD LV
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/18012/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Best4Sport HD LV
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Best4Sport HD LV
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/18016/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Best4Sport 2 HD LV
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Best4Sport 2 HD LV
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/18015/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Go3 Sport Open HD LV
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Go3 Sport Open HD LV
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/18025/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport F1 HD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport F1 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19022/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sportdigital 1+ HD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sportdigital 1+ HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19023/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sportdigital Fussball HD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sportdigital Fussball HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19026/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport F1 DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport F1 DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19027/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport 1 HD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport 1 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19028/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport 3 HD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport 3 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19030/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport 4 HD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport 4 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19031/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport 5 HD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport 5 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19032/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport 6 HD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport 6 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19033/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport 7 HD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport 7 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19034/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport 8 HD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport 8 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19035/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport 9 HD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport 9 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19036/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport 10 HD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport 10 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19037/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Eurosport 360 HD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Eurosport 360 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19040/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",DAZN 1 HD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",DAZN 1 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19042/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",DAZN 2 HD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",DAZN 2 HD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19043/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport UHD DE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport UHD DE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19044/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",TNT Sports 4 HD UK
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",TNT Sports 4 HD UK
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19054/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ESPN HD BR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ESPN HD BR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19056/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ESPN 6 HD BR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ESPN 6 HD BR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19057/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ESPN BR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ESPN BR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19060/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ESPN 2 HD BR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ESPN 2 HD BR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19061/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",beIN Sports Max 1 FHD TR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",beIN Sports Max 1 FHD TR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19062/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",beIN Sports Max 2 FHD TR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",beIN Sports Max 2 FHD TR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19063/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",beIN Sports Haber HD TR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",beIN Sports Haber HD TR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19064/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",beIN Sports Max 2 HD TR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",beIN Sports Max 2 HD TR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19066/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",TRT Spor TR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",TRT Spor TR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19067/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",TRT Spor FHD TR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",TRT Spor FHD TR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19068/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",A Spor HD TR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",A Spor HD TR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19069/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",TRT Spor HD TR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",TRT Spor HD TR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19072/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Spor Smart 2 HD TR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Spor Smart 2 HD TR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19073/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Tivibu Spor 3 HD TR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Tivibu Spor 3 HD TR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19076/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport F1 HD IT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport F1 HD IT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19105/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Rai Sport HD IT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Rai Sport HD IT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19106/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport 24 FHD IT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport 24 FHD IT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19107/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sportitalia Plus HD IT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sportitalia Plus HD IT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19108/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Super Tennis HD IT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Super Tennis HD IT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19111/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport Calcio HD IT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport Calcio HD IT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19113/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Eurosport 2 HD IT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Eurosport 2 HD IT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19116/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Primafila 1 HD IT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Primafila 1 HD IT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19118/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Primafila 2 HD IT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Primafila 2 HD IT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19119/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Primafila 3 HD IT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Primafila 3 HD IT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19120/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Primafila 4 HD IT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Primafila 4 HD IT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19121/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Primafila 5 HD IT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Primafila 5 HD IT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19122/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Primafila 6 HD IT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Primafila 6 HD IT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19123/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Primafila 7 HD IT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Primafila 7 HD IT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19124/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Primafila 8 HD IT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Primafila 8 HD IT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19125/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Primafila 9 HD IT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Primafila 9 HD IT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19126/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport 24 HD IT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport 24 HD IT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19127/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport Arena HD IT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport Arena HD IT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19128/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport Golf HD IT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport Golf HD IT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19132/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sky Sport MotoGP HD IT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport MotoGP HD IT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19133/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Super Tennis IT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Super Tennis IT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19136/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Fox Sports HD AR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Fox Sports HD AR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19138/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Fox Sports HD MX
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Fox Sports HD MX
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19139/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Fox Sports 506 HD AU
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Fox Sports 506 HD AU
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19143/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Fox Racing US
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Fox Racing US
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19144/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Fox Sports 501 Cricket HD AU
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Fox Sports 501 Cricket HD AU
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19146/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",FanDuel Sports North US
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",FanDuel Sports North US
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19152/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",FanDuel Sports Midwest US
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",FanDuel Sports Midwest US
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19153/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ESPNews US
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ESPNews US
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19154/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ESPN 2 HD US
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ESPN 2 HD US
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19155/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ESPN HD US
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ESPN HD US
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19156/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",DAZN 1 FHD PT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",DAZN 1 FHD PT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19158/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Benfica TV HD PT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Benfica TV HD PT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19160/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Sport TV 1 FHD PT
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport TV 1 FHD PT
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19161/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",V Sport Ultra HD SE
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",V Sport Ultra HD SE
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19163/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ESPN 1 HD NL
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ESPN 1 HD NL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19201/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ESPN 2 HD NL
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ESPN 2 HD NL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19202/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ESPN 3 HD NL
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ESPN 3 HD NL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19203/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ESPN 4 HD NL
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ESPN 4 HD NL
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19204/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Матч! Страна HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Матч! Страна HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19219/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Матч! Боец HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Матч! Боец HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19221/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",MMA-TV.com HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",MMA-TV.com HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19243/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Футбол HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Футбол HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19244/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Бокс ТВ HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Бокс ТВ HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19245/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Удар HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Удар HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19246/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Spor Smart HD TR
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Spor Smart HD TR
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20060/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Q Arena HD KZ
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Q Arena HD KZ
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20061/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Q League HD KZ
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Q League HD KZ
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20062/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Setanta Sports 1 FHD KZ
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Sports 1 FHD KZ
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20065/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Setanta Moldova FHD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Moldova FHD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20074/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Setanta Baltic 1 HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Baltic 1 HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20081/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="спорт",Fint Ga 1
+#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Fint Ga 1
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20091/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="спорт",Fint Ga 2
+#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Fint Ga 2
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20092/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Fint Ga 3
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Fint Ga 3
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20093/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="спорт",Pimple TV 1
+#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Pimple TV 1
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20094/index.m3u8
-#EXTINF:-1 tvg-rec="1" group-title="спорт",Pimple TV 2
+#EXTINF:-1 tvg-rec="1" group-title="SPORT Global",Pimple TV 2
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20095/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Pimple TV 3
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Pimple TV 3
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20096/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",Pimple TV 4
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Pimple TV 4
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20097/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Pimple TV 5
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Pimple TV 5
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20098/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ViP Sport 1
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 1
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20099/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ViP Sport 2
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 2
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20103/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="спорт",ViP Sport 3
+#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",ViP Sport 3
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20104/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ViP Sport 4
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 4
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20105/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ViP Sport 5
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 5
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20106/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ViP Sport 6
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 6
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20107/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ViP Sport 7
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 7
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20108/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ViP Sport 8
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 8
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20109/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ViP Sport 9
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 9
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20110/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ViP Sport 10
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 10
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20100/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ViP Sport 11
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 11
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20101/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ViP Sport 12
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 12
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20102/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Vital Sport Drive
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Vital Sport Drive
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20160/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",BOX SportCast Live 1 HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",BOX SportCast Live 1 HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20166/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",BOX SportCast Live 2 HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",BOX SportCast Live 2 HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20167/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",BOX SportCast Live 3 HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",BOX SportCast Live 3 HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20168/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",BOX SportCast Live 4 HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",BOX SportCast Live 4 HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20169/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",BOX SportCast Live 5 HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",BOX SportCast Live 5 HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20170/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",BOX SportCast Live 6 HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",BOX SportCast Live 6 HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31648/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",BOX SportCast Live 7 HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",BOX SportCast Live 7 HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31649/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",BOX SportCast HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",BOX SportCast HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31650/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",ViP Sport 13
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 13
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31674/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Vital Sport 1
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Vital Sport 1
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31675/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Vital Sport 2
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Vital Sport 2
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31676/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Vital Sport 3
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Vital Sport 3
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31677/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Vital Sport 4
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Vital Sport 4
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31678/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Vital Sport 5
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Vital Sport 5
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31679/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Vital Sport 6
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Vital Sport 6
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31680/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Pimple TV 6
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Pimple TV 6
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31681/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Fint Ga 4
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Fint Ga 4
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31682/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",StrahTV MMA TIME HD
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",StrahTV MMA TIME HD
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31710/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Setanta Sports UA
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Sports UA
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31754/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Setanta Sports HD UA
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Sports HD UA
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31755/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Setanta Sports+ UA
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Sports+ UA
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31756/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="спорт",Setanta Sports+ HD UA
+#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Sports+ HD UA
 http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31757/index.m3u8

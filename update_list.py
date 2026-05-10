@@ -1,89 +1,72 @@
 import requests
 import re
+import concurrent.futures
 
-# مصادر ضخمة (تغطي العالم بالكامل والرياضة)
-SOURCES = [
-    "https://iptv-org.github.io/iptv/index.m3u", # الفهرس العالمي الشامل (أكثر من 30 ألف قناة)
-    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kur.m3u",
-    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/iq.m3u",
-    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/spts.m3u" # الرياضة العالمية
-]
+# القنوات التي أرسلتها (يمكنك إضافة المزيد هنا)
+RAW_DATA = """
+#EXTINF:-1 group-title="спорт",Sky Sports Tennis HD 50 UK
+http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6546/index.m3u8
+#EXTINF:-1 group-title="News",Rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 group-title="спорт",Eurosport 1 FHD orig
+http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9026/index.m3u8
+""" # أضف بقية الروابط هنا داخل العلامات
 
-# كلمات مفتاحية للتصنيف
-KURD_KEYWORDS = r"KURD|RUDAW|K24|NRT|AVA|WAAR|ZAROK|SPEDA|KNN|GK|ARK|PELISTANK"
-GLOBAL_SPORTS = r"BEIN|ARENA|SKY|DAZN|ELEVEN|SUPERSPORT|EUROSPORT|CANAL\+|BT SPORT|LALIGA|PREMIER|M+ LIGA"
+def check_link(url):
+    """تحقق من أن الرابط يعمل ويعيد كود 200"""
+    try:
+        # استخدام timeout قصير لعدم تعطيل السكربت
+        response = requests.head(url, timeout=3, allow_redirects=True)
+        return response.status_code == 200
+    except:
+        return False
 
 def clean_name(info):
-    """تنظيف الاسم ليظهر بشكل احترافي في التطبيق"""
+    """تنظيف اسم القناة"""
     name = info.split(',')[-1]
-    name = re.sub(r'\(.*?\)|\[.*?\]|HD|SD|FHD|4K|1080p|720p|ARABIC|KURDISH|IRAQ', '', name, flags=re.IGNORECASE)
+    name = re.sub(r'HD|SD|FHD|4K|1080p|orig|UK|GR|PT', '', name, flags=re.IGNORECASE)
     return name.strip()
 
-def run_deep_sync():
-    print("🔍 جاري البدء بالزحف العميق... قد يستغرق هذا وقتاً بسبب ضخامة المصادر")
-    seen_urls = set()
-    collections = {
-        "KURDISH CHANNELS": [],
-        "BEIN SPORTS": [],
-        "WORLD SPORTS (LIGA/CL)": [],
-        "ARABIC NEWS": [],
-        "MBC GROUP": []
-    }
+def process_channel(line, url):
+    """معالجة القناة الواحدة: فحصها ثم تصنيفها"""
+    if check_link(url):
+        name = clean_name(line)
+        # تصنيف تلقائي بناءً على الكلمات المفتاحية
+        if any(word in line.upper() for word in ["RUDAW", "K24", "NRT", "KURD"]):
+            return "KURDISH", f'#EXTINF:-1 group-title="KURDISH",{name}\n{url}'
+        else:
+            return "SPORT Global", f'#EXTINF:-1 group-title="SPORT Global",{name}\n{url}'
+    return None, None
 
-    for source in SOURCES:
-        try:
-            print(f"📡 فحص المصدر: {source}")
-            r = requests.get(source, timeout=30)
-            if r.status_code != 200: continue
-            
-            lines = r.text.splitlines()
-            for i in range(len(lines)):
-                if lines[i].startswith("#EXTINF"):
-                    info = lines[i].upper()
-                    url = lines[i+1].strip() if i+1 < len(lines) else ""
-                    
-                    if not url or not url.startswith("http") or url in seen_urls:
-                        continue
+def run_bebox_validator():
+    print("🔍 جاري فحص الروابط وتنظيف القائمة... يرجى الانتظار")
+    lines = RAW_DATA.strip().splitlines()
+    channels_to_check = []
+    
+    # تحضير الروابط للفحص
+    for i in range(0, len(lines), 2):
+        if lines[i].startswith("#EXTINF"):
+            channels_to_check.append((lines[i], lines[i+1]))
 
-                    display_name = clean_name(lines[i])
+    results = {"KURDISH": [], "SPORT Global": []}
 
-                    # 1. القنوات الكردية (أي قناة كردية في العالم)
-                    if re.search(KURD_KEYWORDS, info):
-                        collections["KURDISH CHANNELS"].append(f'#EXTINF:-1 group-title="KURDISH",{display_name}\n{url}')
-                        seen_urls.add(url)
-                    
-                    # 2. بي إن سبورت
-                    elif "BEIN" in info:
-                        collections["BEIN SPORTS"].append(f'#EXTINF:-1 group-title="BEIN SPORTS",{display_name}\n{url}')
-                        seen_urls.add(url)
+    # استخدام ThreadPoolExecutor لتسريع عملية الفحص (فحص روابط متعددة في وقت واحد)
+    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+        future_to_url = {executor.submit(process_channel, c[0], c[1]): c for c in channels_to_check}
+        for future in concurrent.futures.as_completed(future_to_url):
+            category, formatted_line = future.result()
+            if category:
+                results[category].append(formatted_line)
 
-                    # 3. الرياضة العالمية (الدوريات الكبرى)
-                    elif re.search(GLOBAL_SPORTS, info):
-                        collections["WORLD SPORTS (LIGA/CL)"].append(f'#EXTINF:-1 group-title="WORLD SPORTS",{display_name}\n{url}')
-                        seen_urls.add(url)
-
-                    # 4. مجموعات MBC
-                    elif "MBC" in info:
-                        collections["MBC GROUP"].append(f'#EXTINF:-1 group-title="MBC GROUP",{display_name}\n{url}')
-                        seen_urls.add(url)
-
-                    # 5. الأخبار
-                    elif any(x in info for x in ["AL JAZEERA", "ARABIYA", "AL HADATH"]):
-                        collections["ARABIC NEWS"].append(f'#EXTINF:-1 group-title="NEWS",{display_name}\n{url}')
-                        seen_urls.add(url)
-                        
-        except Exception as e:
-            print(f"⚠️ خطأ في مصدر: {e}")
-
-    # كتابة الملف
+    # حفظ الملف النهائي
     with open("playlist.m3u", "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
-        for group, channels in collections.items():
-            if channels:
-                f.write(f"\n# --- {group} ({len(channels)} Channels) ---\n")
-                f.write("\n".join(channels) + "\n")
+        for category, playlist in results.items():
+            if playlist:
+                f.write(f"\n# --- {category} ---\n")
+                f.write("\n".join(playlist) + "\n")
 
-    print(f"✅ تم الانتهاء! تم العثور على {len(seen_urls)} قناة مفلترة ونظيفة.")
+    print(f"✅ تم الانتهاء! تم العثور على {len(results['KURDISH']) + len(results['SPORT Global'])} قناة تعمل.")
 
 if __name__ == "__main__":
-    run_deep_sync()
+    run_bebox_validator()

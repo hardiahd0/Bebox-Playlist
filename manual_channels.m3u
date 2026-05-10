@@ -1,847 +1,710 @@
 #EXTM3U
-#EXTM3U
 
-# --- تصنيف القنوات الكردية الموحد ---
-
-#EXTINF:-1 tvg-name="Rudaw" tvg-logo="https://i.postimg.cc/0NFjy64N/Rudaw-logo-200-Elahmadtv.png" group-title="KURDISH",Rudaw
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="NRT" tvg-logo="https://i.postimg.cc/yYZChV5G/Nrtnews_200.jpg" group-title="KURDISH",NRT
-https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
-
-#EXTINF:-1 tvg-name="K24" tvg-logo="https://i.postimg.cc/Vs7kZLKL/K24-200.jpg" group-title="KURDISH",K24
-https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
-
-#EXTINF:-1 tvg-name="Payam" tvg-logo="https://i.postimg.cc/MpBZG0qv/Payam_tv_200.jpg" group-title="KURDISH",Payam
-https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Channel 8" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="KURDISH",Channel 8
-https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-name="AVA" tvg-logo="https://i.postimg.cc/Y9MCZ4cj/Ava-200.jpg" group-title="KURDISH",AVA HD
-https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
-
-#EXTINF:-1 tvg-name="Kurdsat News" tvg-logo="https://i.postimg.cc/GtS34q4s/Kurdsat-News-200.png" group-title="KURDISH",Kurdsat News
-https://iko-streamline-live1.akamaized.net/KurdsatNews/master_0.m3u8
-
-#EXTINF:-1 tvg-name="MMN NEWS" tvg-logo="https://i.postimg.cc/sDjskD4L/MMN-News-200.png" group-title="KURDISH",MMN NEWS
-http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Kurdistan tv" tvg-logo="https://i.postimg.cc/7YMmrdT6/Kurdistan-tv-200.png" group-title="KURDISH",Kurdistan tv
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Kurdsat" tvg-logo="https://i.postimg.cc/90fFXvQh/Kurdsat-200.jpg" group-title="KURDISH",Kurdsat
-https://iko-live.akamaized.net/KurdsatTV/master_2.m3u8
-
-#EXTINF:-1 tvg-name="Gali Kurdistan" tvg-logo="https://i.postimg.cc/KzJ0dq9w/GK-200.jpg" group-title="KURDISH",Gali Kurdistan
-https://live.host247.net/gk/gksat/chunklist_w1578718171.m3u8
-
-#EXTINF:-1 tvg-name="WAAR" tvg-logo="https://i.postimg.cc/8CfS5HB9/waar-200.jpg" group-title="KURDISH",WAAR
-https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
-
-#EXTINF:-1 tvg-name="TRT Kurdi" tvg-logo="https://i.postimg.cc/SKy2w03W/TRT-Kurdi-200.png" group-title="KURDISH",TRT Kurdi
-https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-name="NRT SPORT HD" tvg-logo="https://i.postimg.cc/Prgh0LYh/NRT-Sport-200.jpg" group-title="KURDISH",NRT SPORT HD
-https://live9.karwan.tv/Nrtsportyusfstore/index.m3u8
-
-#EXTINF:-1 tvg-name="AVA SPORT FHD" tvg-logo="https://i.postimg.cc/L6n6cKWk/Ava-Sport-200.png" group-title="KURDISH",AVA SPORT
-https://live9.karwan.tv/Avasporttusfstore/index.m3u8
-
-#EXTINF:-1 tvg-name="Amozhgary" tvg-logo="https://i.postimg.cc/269NG3rs/Amozhgary-200.png" group-title="KURDISH",Amozhgary
-https://app-live.org/live/3268334b/index.m3u8
-
-#EXTINF:-1 tvg-name="Bangawaz" tvg-logo="https://i.postimg.cc/cJmSKXj4/Bangawaz-200.jpg" group-title="KURDISH",Bangawaz
-http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="AFARIN KIDS" tvg-logo="https://i.postimg.cc/QCRGLPBS/Afarin-Kids-200.png" group-title="KURDISH",Afarin tv
-https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Zarok Sorani" tvg-logo="https://i.postimg.cc/g0fvZH6Q/Zarok-200.jpg" group-title="KURDISH",Zarok Sorani
-https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-
-#EXTINF:-1 tvg-name="Barin Movies" tvg-logo="https://i.postimg.cc/pdML1k2b/Barin-Movie-200.jpg" group-title="KURDISH",Barin Movies
-http://baskhd.ddns.net:40/live//barinmovieSHD/mono.m3u8
-
-#EXTM3U
-
-# --- تصنيف SPORT Global ---
-
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sports Tennis HD 50 UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6546/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Eurosport 1 FHD orig
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9026/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Tring Sport 1 HD AL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31563/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Tring Sport 2 HD AL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31564/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Tring Sport 3 HD AL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31565/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport 1 HD HU
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31568/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport 2 HD HU
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31569/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Nova Sport 3 HD CZ
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31570/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Nova Sport 4 HD CZ
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31571/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cytavision Sports 1 GR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31572/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cytavision Sports 3 GR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31574/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cytavision Sports 5 GR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31575/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cytavision Sports 6 GR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31576/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cytavision Sports 7 GR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31577/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cosmote Sport 1 HD GR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31578/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cosmote Sport 2 HD GR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31579/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cosmote Sport 3 HD GR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31581/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cosmote Sport 4 HD GR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31582/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cosmote Sport 5 HD GR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31583/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cosmote Sport 6 HD GR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31584/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cosmote Sport 7 HD GR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31585/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cosmote Sport 8 HD GR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31586/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cosmote Sport 9 HD GR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31587/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Cosmote Sport Highlights HD GR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31588/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport Live HD DK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31589/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport TV+ HD PT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31590/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",SuperSport Rugby ZA
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31591/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Canal 11 HD PT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31592/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport Extra HD RO
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31595/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Esport HD RS
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31597/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Fight HD RS
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31598/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Premium 1 HD RS
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31599/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Premium 2 HD RS
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31600/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Premium 3 HD RS
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31601/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 1 HD RS
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31602/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 3 HD RS
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31603/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Premium 3 RS
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31604/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 4 HD RS
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31605/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 5 HD RS
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31606/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 6 HD RS
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31607/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 7 HD RS
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31608/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 8 HD RS
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31609/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 9 HD RS
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31610/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 1x2 HD RS
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31611/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sports Racing HD 50 UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9335/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sports Premier League HD 50 UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9334/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sports Mix HD 50 UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9310/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sports Main Event HD 50 UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9308/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sports Golf HD 50 UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9293/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sports Football HD 50 UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9289/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sports F1 HD 50 UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9283/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sports Cricket HD 50 UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9258/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sports+ HD UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9248/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sports Action HD 50 UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/9155/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Premier Sports 1 HD 50 UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2160/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Старт Триумف HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/16034/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",5Sport 4K IL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/16019/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sport Golf HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/5043/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sport Premier League HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/5042/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Мир Баскетбола HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20004/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",FightBox HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20027/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Extreme Sports HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20028/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Танцуй!
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/14023/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Матч ТВ +4 (Алтай)
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15289/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",KHL Prime HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19396/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",BOX Be On Edge Live 1 HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19422/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",BOX Be On Edge Live 2 HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19423/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",BOX Be On Edge HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19424/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Матч! Страна
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/107/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Матч ТВ +2
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6012/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Матч ТВ +3 (Омск)
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15432/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Матч ТВ +4
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6023/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Матч ТВ +8
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6052/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",UPL TV 1 HD UA
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/14193/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",UPL TV 2 HD UA
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/14194/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",UPL TV 3 HD UA
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/14195/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Motorvision TV DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6112/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky 1 AU
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6122/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sport Austria 2 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6113/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sport Bundesliga 9 FHD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6097/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Band Sports BR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6158/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Матч! Планета
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/123/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Матч! Футбол 1
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/124/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",KHL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/519/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Матч! Футбол 3
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/522/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Матч! Арена
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/528/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Матч! Игра
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/529/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Матч! Футбол 2
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/530/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Матч! Премьер
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/531/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Матч ТВ
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/535/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Eurosport 1
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/141/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Extreme Sports
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/144/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Матч! Боец
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/150/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Viju+ Sport
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/160/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",MMA-TV.com
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/843/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Боكس ТВ
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/870/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Старт FHD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2154/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Футбол
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/5050/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sport News HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2477/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sport 1 FHD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2478/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sport 2 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2479/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sport Bundesliga 1 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2480/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sky Sport Austria 1 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2492/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",beIN Sports 1 HD FR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2499/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",beIN Sports 2 HD FR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2500/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",beIN Sports 3 HD FR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2501/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Canal+ Sport HD FR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2502/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sport 1 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2503/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",TNT Sports 1 FHD UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2505/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",TNT Sports 2 HD UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2506/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Star Sports 2 IN
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2507/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Star Sports 1 IN
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2508/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",YAS Sports AE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2511/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",ONTime Sports EG
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2512/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Eleven Sports 2 HD PL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2517/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Eleven Sports 1 HD PL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2518/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Canal+ Sport 5 HD PL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2519/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",TVP Sport HD PL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2520/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",DIGI Sport 2 HD RO
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2522/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",DIGI Sport 1 HD RO
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2523/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",DIGI Sport 3 HD RO
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2524/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sport TV 1 HD PT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2525/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sport TV 2 HD PT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2526/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sport TV 3 HD PT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2527/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sport TV 4 HD PT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2528/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sport TV 5 HD PT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2529/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sporting TV HD PT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2530/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",DAZN 1 HD PT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2531/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",DAZN 2 HD PT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2532/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",DAZN 4 HD PT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2534/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",DAZN 5 HD PT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2535/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",DAZN 6 PT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2536/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",DIGI Sport 4 HD RO
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2538/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",TV 2 Sport 2 HD NO
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2540/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",MTV Viihde HD FI
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2541/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",RMC Sport 1 HD FR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2545/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",RMC Sport 2 HD FR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2546/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",RMC Sport 3 HD FR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2547/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sport 1 LT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2548/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Arena Sport 1 HD SK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2550/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",ČT sport HD CZ
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2551/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Nova Sport 1 HD CZ
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2555/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Nova Sport 2 HD CZ
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2556/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Sport 2 HD CZ
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2557/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Ziggo Sport 3 HD NL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2559/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Ziggo Sport HD NL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2560/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Ziggo Sport 2 HD NL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2561/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Infosport+ HD FR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/2544/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Sports 1 HD orig
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6541/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Sports 2 HD orig
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6542/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Sports 1
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6543/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Sports 2
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6544/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Окко Футбол HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6554/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Premier Sports 1 HD UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6555/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Eurosport 2 HD UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6556/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",TNT Sports 3 HD UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6564/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",TNT Sports 1 HD UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/6566/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",DAZN 3 HD PT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7062/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport Bundesliga 2 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7234/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport Bundesliga 3 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7235/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport Bundesliga 5 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7237/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport Bundesliga 6 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7238/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport Bundesliga 7 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7239/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport Bundesliga 8 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7240/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport Bundesliga 9 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7241/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 1 FHD HR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7263/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 2 FHD HR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7264/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 3 FHD HR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7265/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 4 FHD HR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7266/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 5 FHD HR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7267/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 6 FHD HR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7268/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport Klub 1 HD HR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7269/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport Klub 2 HD HR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7270/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport Klub 3 HD HR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7271/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport Klub 4 HD HR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7272/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport Klub 5 HD HR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7273/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport Klub 6 HD HR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7274/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport Klub 7 HD HR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7275/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport Klub Golf HR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7277/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport Klub Fight HD HR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7278/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Polsat Sport 1 HD PL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7296/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Polsat Sport 3 HD PL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7303/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Polsat Sport Premium 1 HD PL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7304/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Polsat Sport Premium 2 HD PL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7305/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Polsat Sport Premium 3 PPV HD PL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7306/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Polsat Sport Premium 4 PPV HD PL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7307/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Polsat Sport Premium 5 PPV HD PL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7308/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Polsat Sport Premium 6 PPV HD PL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7309/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Polsat Sport 2 HD PL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7310/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Polsat Sport Fight HD PL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7311/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Fox Sports 1 HD US
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7322/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Fox Sports 2 HD US
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7323/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",CBS Sports Network HD US
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7324/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",NBC Sports Network HD US
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7327/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",NHL Network HD US
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7328/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 1 HD HR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7329/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 2 HD HR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7330/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 3 HD HR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7331/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 4 HD HR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7332/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 5 HD HR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7333/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Arena Sport 6 HD HR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7334/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sports Premier League HD UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7335/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sports Football HD UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7336/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sports Main Event HD UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7337/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sports Mix HD UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7339/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sports Action HD UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7340/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sports Racing HD UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7341/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sports F1 HD UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7342/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sports Cricket HD UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7343/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sports Golf HD UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7344/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",TV 2 Sport HD DK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7355/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Триколор Спорт 1
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7360/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Триколор Спорт 2
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7361/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Триколор Спорт 3
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7362/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Триколор Спорт 4
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7363/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Триколоر Спорт 5
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/7364/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Мир Баскетбола
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/10033/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Хоккей ТВ HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/10039/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",ТВ Спорт HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/10057/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Мяч HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/10058/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",StrahTV WWE Russian
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/11056/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",V Sport Football SE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/11110/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",V Sport Vinter SE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/11111/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",V sport football SE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12032/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",V sport motor HD SE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12033/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",TV4 Hits HD SE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12034/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",TV4 Sportkanalen HD SE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12035/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",TV4 Stars HD SE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12042/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Eurosport 1 HD SE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12047/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Eurosport 2 HD SE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12048/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",V Sport Extra SE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12074/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",V Sport 1 SE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12075/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",V Sport Golf SE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12077/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",V Sport Vinter HD SE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12078/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",V Sport Premium SE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12079/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",TV3 Sport SE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/12100/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Окко Event 1
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/14186/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Окко Event 2
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/14187/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Окко Event 3
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/14188/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Окко Event 4
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/14189/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Окко Event 5
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/14190/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Окко Event 6
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/14191/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Eurosport 1 FHD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15179/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Sports HD UA orig
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15183/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Sports+ HD UA orig
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15184/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Fast & Fun Box
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15231/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",FightBox
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15232/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Q Sport.KG HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15238/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Матч ТВ +2 (Уфа)
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15307/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Матч ТВ +0 (Липецк)
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15314/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Матч ТВ +7 (Владивосток)
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15335/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Матч ТВ +4 (Томск)
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15387/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Матч ТВ +0 (Белгород)
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15409/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Матч ТВ +0 (Элиста)
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/15448/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Red Bull TV
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/16039/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Red Bull TV HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/16040/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Go3 Sport 1 HD EE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/18000/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Go3 Sport 2 HD EE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/18001/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Go3 Sport 1 HD LV
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/18011/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Go3 Sport 2 HD LV
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/18012/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Best4Sport HD LV
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/18016/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Best4Sport 2 HD LV
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/18015/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Go3 Sport Open HD LV
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/18025/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport F1 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19022/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sportdigital 1+ HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19023/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sportdigital Fussball HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19026/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport F1 DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19027/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport 1 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19028/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport 3 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19030/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport 4 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19031/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport 5 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19032/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport 6 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19033/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport 7 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19034/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport 8 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19035/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport 9 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19036/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport 10 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19037/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Eurosport 360 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19040/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",DAZN 1 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19042/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",DAZN 2 HD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19043/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport UHD DE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19044/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",TNT Sports 4 HD UK
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19054/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ESPN HD BR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19056/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ESPN 6 HD BR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19057/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ESPN BR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19060/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ESPN 2 HD BR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19061/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",beIN Sports Max 1 FHD TR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19062/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",beIN Sports Max 2 FHD TR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19063/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",beIN Sports Haber HD TR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19064/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",beIN Sports Max 2 HD TR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19066/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",TRT Spor TR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19067/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",TRT Spor FHD TR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19068/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",A Spor HD TR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19069/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",TRT Spor HD TR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19072/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Spor Smart 2 HD TR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19073/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Tivibu Spor 3 HD TR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19076/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport F1 HD IT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19105/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Rai Sport HD IT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19106/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport 24 FHD IT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19107/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sportitalia Plus HD IT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19108/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Super Tennis HD IT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19111/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport Calcio HD IT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19113/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Eurosport 2 HD IT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19116/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Primafila 1 HD IT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19118/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Primafila 2 HD IT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19119/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Primafila 3 HD IT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19120/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Primafila 4 HD IT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19121/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Primafila 5 HD IT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19122/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Primafila 6 HD IT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19123/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Primafila 7 HD IT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19124/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Primafila 8 HD IT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19125/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Primafila 9 HD IT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19126/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport 24 HD IT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19127/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport Arena HD IT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19128/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport Golf HD IT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19132/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sky Sport MotoGP HD IT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19133/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Super Tennis IT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19136/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Fox Sports HD AR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19138/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Fox Sports HD MX
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19139/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Fox Sports 506 HD AU
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19143/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Fox Racing US
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19144/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Fox Sports 501 Cricket HD AU
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19146/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",FanDuel Sports North US
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19152/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",FanDuel Sports Midwest US
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19153/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ESPNews US
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19154/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ESPN 2 HD US
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19155/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ESPN HD US
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19156/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",DAZN 1 FHD PT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19158/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Benfica TV HD PT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19160/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Sport TV 1 FHD PT
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19161/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",V Sport Ultra HD SE
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19163/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ESPN 1 HD NL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19201/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ESPN 2 HD NL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19202/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ESPN 3 HD NL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19203/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ESPN 4 HD NL
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19204/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Матч! Страна HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19219/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Матч! Боец HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19221/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",MMA-TV.com HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19243/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Футбол HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19244/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Бокс ТВ HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19245/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Удар HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/19246/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Spor Smart HD TR
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20060/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Q Arena HD KZ
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20061/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Q League HD KZ
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20062/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Sports 1 FHD KZ
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20065/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Moldova FHD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20074/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Baltic 1 HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20081/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Fint Ga 1
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20091/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Fint Ga 2
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20092/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Fint Ga 3
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20093/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="SPORT Global",Pimple TV 1
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20094/index.m3u8
-#EXTINF:-1 tvg-rec="1" group-title="SPORT Global",Pimple TV 2
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20095/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Pimple TV 3
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20096/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",Pimple TV 4
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20097/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Pimple TV 5
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20098/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 1
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20099/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 2
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20103/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="SPORT Global",ViP Sport 3
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20104/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 4
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20105/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 5
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20106/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 6
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20107/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 7
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20108/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 8
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20109/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 9
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20110/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 10
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20100/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 11
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20101/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 12
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20102/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Vital Sport Drive
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20160/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",BOX SportCast Live 1 HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20166/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",BOX SportCast Live 2 HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20167/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",BOX SportCast Live 3 HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20168/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",BOX SportCast Live 4 HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20169/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",BOX SportCast Live 5 HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/20170/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",BOX SportCast Live 6 HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31648/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",BOX SportCast Live 7 HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31649/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",BOX SportCast HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31650/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",ViP Sport 13
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31674/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Vital Sport 1
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31675/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Vital Sport 2
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31676/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Vital Sport 3
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31677/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Vital Sport 4
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31678/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Vital Sport 5
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31679/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Vital Sport 6
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31680/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Pimple TV 6
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31681/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Fint Ga 4
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31682/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",StrahTV MMA TIME HD
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31710/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Sports UA
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31754/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Sports HD UA
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31755/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Sports+ UA
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31756/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="SPORT Global",Setanta Sports+ HD UA
-http://qkghrsmq.tvclub.xyz/iptv/S8VNGCFUZYYPDT/31757/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Rudaw" tvg-logo="" group-title="KURDISTAN",Rudaw
+http://xlion.net:8080/747645/lion123123/429643
+#EXTINF:-1 tvg-ID="" tvg-name="K24" tvg-logo="" group-title="KURDISTAN",K24
+http://xlion.net:8080/747645/lion123123/429644
+#EXTINF:-1 tvg-ID="" tvg-name="AVA Meida" tvg-logo="" group-title="KURDISTAN",AVA Meida
+http://xlion.net:8080/747645/lion123123/429645
+#EXTINF:-1 tvg-ID="" tvg-name="NRT 1 News" tvg-logo="" group-title="KURDISTAN",NRT 1 News
+http://xlion.net:8080/747645/lion123123/429646
+#EXTINF:-1 tvg-ID="" tvg-name="Channel 8 Kurdish" tvg-logo="" group-title="KURDISTAN",Channel 8 Kurdish
+http://xlion.net:8080/747645/lion123123/429647
+#EXTINF:-1 tvg-ID="" tvg-name="Kurdistan TV" tvg-logo="" group-title="KURDISTAN",Kurdistan TV
+http://xlion.net:8080/747645/lion123123/429648
+#EXTINF:-1 tvg-ID="" tvg-name="Gali Kurdistan" tvg-logo="" group-title="KURDISTAN",Gali Kurdistan
+http://xlion.net:8080/747645/lion123123/429649
+#EXTINF:-1 tvg-ID="" tvg-name="K24 DOC" tvg-logo="" group-title="KURDISTAN",K24 DOC
+http://xlion.net:8080/747645/lion123123/429650
+#EXTINF:-1 tvg-ID="" tvg-name="Kurdsat News" tvg-logo="" group-title="KURDISTAN",Kurdsat News
+http://xlion.net:8080/747645/lion123123/429651
+#EXTINF:-1 tvg-ID="" tvg-name="Kurdsat TV" tvg-logo="" group-title="KURDISTAN",Kurdsat TV
+http://xlion.net:8080/747645/lion123123/429652
+#EXTINF:-1 tvg-ID="" tvg-name="KurdMax Sorani" tvg-logo="" group-title="KURDISTAN",KurdMax Sorani
+http://xlion.net:8080/747645/lion123123/429653
+#EXTINF:-1 tvg-ID="" tvg-name="KurdMax Kurmanji" tvg-logo="" group-title="KURDISTAN",KurdMax Kurmanji
+http://xlion.net:8080/747645/lion123123/429654
+#EXTINF:-1 tvg-ID="" tvg-name="KurdMax Show Sorani" tvg-logo="" group-title="KURDISTAN",KurdMax Show Sorani
+http://xlion.net:8080/747645/lion123123/429655
+#EXTINF:-1 tvg-ID="" tvg-name="Kurdmax Show Kurmanji" tvg-logo="" group-title="KURDISTAN",Kurdmax Show Kurmanji
+http://xlion.net:8080/747645/lion123123/429656
+#EXTINF:-1 tvg-ID="" tvg-name="Kurdmax Music" tvg-logo="" group-title="KURDISTAN",Kurdmax Music
+http://xlion.net:8080/747645/lion123123/429657
+#EXTINF:-1 tvg-ID="" tvg-name="Kurdmax Pepula" tvg-logo="" group-title="KURDISTAN",Kurdmax Pepula
+http://xlion.net:8080/747645/lion123123/429658
+#EXTINF:-1 tvg-ID="" tvg-name="Ava Sport" tvg-logo="" group-title="KURDISTAN",Ava Sport
+http://xlion.net:8080/747645/lion123123/429659
+#EXTINF:-1 tvg-ID="" tvg-name="Aryen TV" tvg-logo="" group-title="KURDISTAN",Aryen TV
+http://xlion.net:8080/747645/lion123123/429664
+#EXTINF:-1 tvg-ID="" tvg-name="Asman" tvg-logo="" group-title="KURDISTAN",Asman
+http://xlion.net:8080/747645/lion123123/429665
+#EXTINF:-1 tvg-ID="" tvg-name="LD LIFE" tvg-logo="" group-title="KURDISTAN",LD LIFE
+http://xlion.net:8080/747645/lion123123/429673
+#EXTINF:-1 tvg-ID="" tvg-name="ATV KURD" tvg-logo="" group-title="KURDISTAN",ATV KURD
+http://xlion.net:8080/747645/lion123123/429675
+#EXTINF:-1 tvg-ID="" tvg-name="Avar" tvg-logo="" group-title="KURDISTAN",Avar
+http://xlion.net:8080/747645/lion123123/429676
+#EXTINF:-1 tvg-ID="" tvg-name="Azadi" tvg-logo="" group-title="KURDISTAN",Azadi
+http://xlion.net:8080/747645/lion123123/429677
+#EXTINF:-1 tvg-ID="" tvg-name="Baboly" tvg-logo="" group-title="KURDISTAN",Baboly
+http://xlion.net:8080/747645/lion123123/429679
+#EXTINF:-1 tvg-ID="" tvg-name="Baha Entertainment HD" tvg-logo="" group-title="KURDISTAN",Baha Entertainment HD
+http://xlion.net:8080/747645/lion123123/429680
+#EXTINF:-1 tvg-ID="" tvg-name="Bangawaz" tvg-logo="" group-title="KURDISTAN",Bangawaz
+http://xlion.net:8080/747645/lion123123/429681
+#EXTINF:-1 tvg-ID="" tvg-name="Barin Quran" tvg-logo="" group-title="KURDISTAN",Barin Quran
+http://xlion.net:8080/747645/lion123123/429682
+#EXTINF:-1 tvg-ID="" tvg-name="BASK" tvg-logo="" group-title="KURDISTAN",BASK
+http://xlion.net:8080/747645/lion123123/429683
+#EXTINF:-1 tvg-ID="" tvg-name="BEFRIN HD" tvg-logo="" group-title="KURDISTAN",BEFRIN HD
+http://xlion.net:8080/747645/lion123123/429684
+#EXTINF:-1 tvg-ID="" tvg-name="Binar" tvg-logo="" group-title="KURDISTAN",Binar
+http://xlion.net:8080/747645/lion123123/429685
+#EXTINF:-1 tvg-ID="" tvg-name="BMC" tvg-logo="" group-title="KURDISTAN",BMC
+http://xlion.net:8080/747645/lion123123/429686
+#EXTINF:-1 tvg-ID="" tvg-name="BNAR MOVIES HD" tvg-logo="" group-title="KURDISTAN",BNAR MOVIES HD
+http://xlion.net:8080/747645/lion123123/429687
+#EXTINF:-1 tvg-ID="" tvg-name="Bnar Action Drama" tvg-logo="" group-title="KURDISTAN",Bnar Action Drama
+http://xlion.net:8080/747645/lion123123/429688
+#EXTINF:-1 tvg-ID="" tvg-name="BNAR FAMILY HD" tvg-logo="" group-title="KURDISTAN",BNAR FAMILY HD
+http://xlion.net:8080/747645/lion123123/429690
+#EXTINF:-1 tvg-ID="" tvg-name="Jamawar TV" tvg-logo="" group-title="KURDISTAN",Jamawar TV
+http://xlion.net:8080/747645/lion123123/429691
+#EXTINF:-1 tvg-ID="" tvg-name="Gewher Sport" tvg-logo="" group-title="KURDISTAN",Gewher Sport
+http://xlion.net:8080/747645/lion123123/429693
+#EXTINF:-1 tvg-ID="" tvg-name="4 Anime" tvg-logo="" group-title="KURDISTAN",4 Anime
+http://xlion.net:8080/747645/lion123123/429694
+#EXTINF:-1 tvg-ID="" tvg-name="4 Kurd" tvg-logo="" group-title="KURDISTAN",4 Kurd
+http://xlion.net:8080/747645/lion123123/429695
+#EXTINF:-1 tvg-ID="" tvg-name="Amozhgary" tvg-logo="" group-title="KURDISTAN",Amozhgary
+http://xlion.net:8080/747645/lion123123/429697
+#EXTINF:-1 tvg-ID="" tvg-name="A.Amozhgary" tvg-logo="" group-title="KURDISTAN",A.Amozhgary
+http://xlion.net:8080/747645/lion123123/429698
+#EXTINF:-1 tvg-ID="" tvg-name="A2" tvg-logo="" group-title="KURDISTAN",A2
+http://xlion.net:8080/747645/lion123123/429699
+#EXTINF:-1 tvg-ID="" tvg-name="AFARIN BAXCHA" tvg-logo="" group-title="KURDISTAN",AFARIN BAXCHA
+http://xlion.net:8080/747645/lion123123/429700
+#EXTINF:-1 tvg-ID="" tvg-name="Afarin Kids" tvg-logo="" group-title="KURDISTAN",Afarin Kids
+http://xlion.net:8080/747645/lion123123/429701
+#EXTINF:-1 tvg-ID="" tvg-name="Akili TV" tvg-logo="" group-title="KURDISTAN",Akili TV
+http://xlion.net:8080/747645/lion123123/429702
+#EXTINF:-1 tvg-ID="" tvg-name="Ala" tvg-logo="" group-title="KURDISTAN",Ala
+http://xlion.net:8080/747645/lion123123/429703
+#EXTINF:-1 tvg-ID="" tvg-name="ALLA" tvg-logo="" group-title="KURDISTAN",ALLA
+http://xlion.net:8080/747645/lion123123/429704
+#EXTINF:-1 tvg-ID="" tvg-name="Cihan" tvg-logo="" group-title="KURDISTAN",Cihan
+http://xlion.net:8080/747645/lion123123/429705
+#EXTINF:-1 tvg-ID="" tvg-name="Cira TV" tvg-logo="" group-title="KURDISTAN",Cira TV
+http://xlion.net:8080/747645/lion123123/429706
+#EXTINF:-1 tvg-ID="" tvg-name="Dasinya HD" tvg-logo="" group-title="KURDISTAN",Dasinya HD
+http://xlion.net:8080/747645/lion123123/429707
+#EXTINF:-1 tvg-ID="" tvg-name="Dasinya kids" tvg-logo="" group-title="KURDISTAN",Dasinya kids
+http://xlion.net:8080/747645/lion123123/429708
+#EXTINF:-1 tvg-ID="" tvg-name="Dasinya Music" tvg-logo="" group-title="KURDISTAN",Dasinya Music
+http://xlion.net:8080/747645/lion123123/429709
+#EXTINF:-1 tvg-ID="" tvg-name="Delal TV" tvg-logo="" group-title="KURDISTAN",Delal TV
+http://xlion.net:8080/747645/lion123123/429712
+#EXTINF:-1 tvg-ID="" tvg-name="Derin" tvg-logo="" group-title="KURDISTAN",Derin
+http://xlion.net:8080/747645/lion123123/429713
+#EXTINF:-1 tvg-ID="" tvg-name="Derwaza Music" tvg-logo="" group-title="KURDISTAN",Derwaza Music
+http://xlion.net:8080/747645/lion123123/429714
+#EXTINF:-1 tvg-ID="" tvg-name="Derwaze" tvg-logo="" group-title="KURDISTAN",Derwaze
+http://xlion.net:8080/747645/lion123123/429715
+#EXTINF:-1 tvg-ID="" tvg-name="Dever" tvg-logo="" group-title="KURDISTAN",Dever
+http://xlion.net:8080/747645/lion123123/429716
+#EXTINF:-1 tvg-ID="" tvg-name="Dimen" tvg-logo="" group-title="KURDISTAN",Dimen
+http://xlion.net:8080/747645/lion123123/429717
+#EXTINF:-1 tvg-ID="" tvg-name="Duhok" tvg-logo="" group-title="KURDISTAN",Duhok
+http://xlion.net:8080/747645/lion123123/429718
+#EXTINF:-1 tvg-ID="" tvg-name="Duhok TV HD" tvg-logo="" group-title="KURDISTAN",Duhok TV HD
+http://xlion.net:8080/747645/lion123123/429720
+#EXTINF:-1 tvg-ID="" tvg-name="ESRA 2" tvg-logo="" group-title="KURDISTAN",ESRA 2
+http://xlion.net:8080/747645/lion123123/429721
+#EXTINF:-1 tvg-ID="" tvg-name="ESRA TV" tvg-logo="" group-title="KURDISTAN",ESRA TV
+http://xlion.net:8080/747645/lion123123/429723
+#EXTINF:-1 tvg-ID="" tvg-name="EUROKURD" tvg-logo="" group-title="KURDISTAN",EUROKURD
+http://xlion.net:8080/747645/lion123123/429724
+#EXTINF:-1 tvg-ID="" tvg-name="Ezdan" tvg-logo="" group-title="KURDISTAN",Ezdan
+http://xlion.net:8080/747645/lion123123/429725
+#EXTINF:-1 tvg-ID="" tvg-name="Farmoda" tvg-logo="" group-title="KURDISTAN",Farmoda
+http://xlion.net:8080/747645/lion123123/429726
+#EXTINF:-1 tvg-ID="" tvg-name="First" tvg-logo="" group-title="KURDISTAN",First
+http://xlion.net:8080/747645/lion123123/429727
+#EXTINF:-1 tvg-ID="" tvg-name="Fox HD" tvg-logo="" group-title="KURDISTAN",Fox HD
+http://xlion.net:8080/747645/lion123123/429728
+#EXTINF:-1 tvg-ID="" tvg-name="Garyan TV" tvg-logo="" group-title="KURDISTAN",Garyan TV
+http://xlion.net:8080/747645/lion123123/429729
+#EXTINF:-1 tvg-ID="" tvg-name="Gewhar" tvg-logo="" group-title="KURDISTAN",Gewhar
+http://xlion.net:8080/747645/lion123123/429730
+#EXTINF:-1 tvg-ID="" tvg-name="Halabja" tvg-logo="" group-title="KURDISTAN",Halabja
+http://xlion.net:8080/747645/lion123123/429731
+#EXTINF:-1 tvg-ID="" tvg-name="Iraqia Kurd" tvg-logo="" group-title="KURDISTAN",Iraqia Kurd
+http://xlion.net:8080/747645/lion123123/429733
+#EXTINF:-1 tvg-ID="" tvg-name="Jin" tvg-logo="" group-title="KURDISTAN",Jin
+http://xlion.net:8080/747645/lion123123/429735
+#EXTINF:-1 tvg-ID="" tvg-name="JoJo MaMa" tvg-logo="" group-title="KURDISTAN",JoJo MaMa
+http://xlion.net:8080/747645/lion123123/429736
+#EXTINF:-1 tvg-ID="" tvg-name="Judi" tvg-logo="" group-title="KURDISTAN",Judi
+http://xlion.net:8080/747645/lion123123/429737
+#EXTINF:-1 tvg-ID="" tvg-name="Kalapur" tvg-logo="" group-title="KURDISTAN",Kalapur
+http://xlion.net:8080/747645/lion123123/429738
+#EXTINF:-1 tvg-ID="" tvg-name="Kani" tvg-logo="" group-title="KURDISTAN",Kani
+http://xlion.net:8080/747645/lion123123/429739
+#EXTINF:-1 tvg-ID="" tvg-name="Khak" tvg-logo="" group-title="KURDISTAN",Khak
+http://xlion.net:8080/747645/lion123123/429740
+#EXTINF:-1 tvg-ID="" tvg-name="Kirkuk" tvg-logo="" group-title="KURDISTAN",Kirkuk
+http://xlion.net:8080/747645/lion123123/429742
+#EXTINF:-1 tvg-ID="" tvg-name="Komal Ranya" tvg-logo="" group-title="KURDISTAN",Komal Ranya
+http://xlion.net:8080/747645/lion123123/429743
+#EXTINF:-1 tvg-ID="" tvg-name="Komall" tvg-logo="" group-title="KURDISTAN",Komall
+http://xlion.net:8080/747645/lion123123/429744
+#EXTINF:-1 tvg-ID="" tvg-name="KRD WWE" tvg-logo="" group-title="KURDISTAN",KRD WWE
+http://xlion.net:8080/747645/lion123123/429745
+#EXTINF:-1 tvg-ID="" tvg-name="KURD CHANNEL" tvg-logo="" group-title="KURDISTAN",KURD CHANNEL
+http://xlion.net:8080/747645/lion123123/429747
+#EXTINF:-1 tvg-ID="" tvg-name="KURD MOVIES" tvg-logo="" group-title="KURDISTAN",KURD MOVIES
+http://xlion.net:8080/747645/lion123123/429748
+#EXTINF:-1 tvg-ID="" tvg-name="Kurdana" tvg-logo="" group-title="KURDISTAN",Kurdana
+http://xlion.net:8080/747645/lion123123/429749
+#EXTINF:-1 tvg-ID="" tvg-name="Kurdcinema" tvg-logo="" group-title="KURDISTAN",Kurdcinema
+http://xlion.net:8080/747645/lion123123/429750
+#EXTINF:-1 tvg-ID="" tvg-name="SORAN Entertainment" tvg-logo="" group-title="KURDISTAN",SORAN Entertainment
+http://xlion.net:8080/747645/lion123123/429752
+#EXTINF:-1 tvg-ID="" tvg-name="LD Anime" tvg-logo="" group-title="KURDISTAN",LD Anime
+http://xlion.net:8080/747645/lion123123/429753
+#EXTINF:-1 tvg-ID="" tvg-name="LD AZHIN" tvg-logo="" group-title="KURDISTAN",LD AZHIN
+http://xlion.net:8080/747645/lion123123/429754
+#EXTINF:-1 tvg-ID="" tvg-name="LD Family" tvg-logo="" group-title="KURDISTAN",LD Family
+http://xlion.net:8080/747645/lion123123/429755
+#EXTINF:-1 tvg-ID="" tvg-name="LD Kurdcinema" tvg-logo="" group-title="KURDISTAN",LD Kurdcinema
+http://xlion.net:8080/747645/lion123123/429756
+#EXTINF:-1 tvg-ID="" tvg-name="LD Nujin" tvg-logo="" group-title="KURDISTAN",LD Nujin
+http://xlion.net:8080/747645/lion123123/429757
+#EXTINF:-1 tvg-ID="" tvg-name="LD Pshdar" tvg-logo="" group-title="KURDISTAN",LD Pshdar
+http://xlion.net:8080/747645/lion123123/429758
+#EXTINF:-1 tvg-ID="" tvg-name="LD SPORT CHEAK" tvg-logo="" group-title="KURDISTAN",LD SPORT CHEAK
+http://xlion.net:8080/747645/lion123123/429760
+#EXTINF:-1 tvg-ID="" tvg-name="Med Music" tvg-logo="" group-title="KURDISTAN",Med Music
+http://xlion.net:8080/747645/lion123123/429761
+#EXTINF:-1 tvg-ID="" tvg-name="Mihrab" tvg-logo="" group-title="KURDISTAN",Mihrab
+http://xlion.net:8080/747645/lion123123/429762
+#EXTINF:-1 tvg-ID="" tvg-name="Mihrab FM" tvg-logo="" group-title="KURDISTAN",Mihrab FM
+http://xlion.net:8080/747645/lion123123/429763
+#EXTINF:-1 tvg-ID="" tvg-name="Minara" tvg-logo="" group-title="KURDISTAN",Minara
+http://xlion.net:8080/747645/lion123123/429764
+#EXTINF:-1 tvg-ID="" tvg-name="MMN ACTION" tvg-logo="" group-title="KURDISTAN",MMN ACTION
+http://xlion.net:8080/747645/lion123123/429766
+#EXTINF:-1 tvg-ID="" tvg-name="MMN Classic Musical" tvg-logo="" group-title="KURDISTAN",MMN Classic Musical
+http://xlion.net:8080/747645/lion123123/429767
+#EXTINF:-1 tvg-ID="" tvg-name="MMN Clip" tvg-logo="" group-title="KURDISTAN",MMN Clip
+http://xlion.net:8080/747645/lion123123/429768
+#EXTINF:-1 tvg-ID="" tvg-name="MMN Documentary" tvg-logo="" group-title="KURDISTAN",MMN Documentary
+http://xlion.net:8080/747645/lion123123/429769
+#EXTINF:-1 tvg-ID="" tvg-name="MMN DRAMA" tvg-logo="" group-title="KURDISTAN",MMN DRAMA
+http://xlion.net:8080/747645/lion123123/429770
+#EXTINF:-1 tvg-ID="" tvg-name="MMN Kids" tvg-logo="" group-title="KURDISTAN",MMN Kids
+http://xlion.net:8080/747645/lion123123/429771
+#EXTINF:-1 tvg-ID="" tvg-name="MMN Movies" tvg-logo="" group-title="KURDISTAN",MMN Movies
+http://xlion.net:8080/747645/lion123123/429772
+#EXTINF:-1 tvg-ID="" tvg-name="MMN News" tvg-logo="" group-title="KURDISTAN",MMN News
+http://xlion.net:8080/747645/lion123123/429773
+#EXTINF:-1 tvg-ID="" tvg-name="MMN Radio Farsy" tvg-logo="" group-title="KURDISTAN",MMN Radio Farsy
+http://xlion.net:8080/747645/lion123123/429774
+#EXTINF:-1 tvg-ID="" tvg-name="MMN Radio Turkey" tvg-logo="" group-title="KURDISTAN",MMN Radio Turkey
+http://xlion.net:8080/747645/lion123123/429775
+#EXTINF:-1 tvg-ID="" tvg-name="MMN Show" tvg-logo="" group-title="KURDISTAN",MMN Show
+http://xlion.net:8080/747645/lion123123/429776
+#EXTINF:-1 tvg-ID="" tvg-name="MNN ACTION" tvg-logo="" group-title="KURDISTAN",MNN ACTION
+http://xlion.net:8080/747645/lion123123/429778
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Family" tvg-logo="" group-title="KURDISTAN",MTV Family
+http://xlion.net:8080/747645/lion123123/429779
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Kids" tvg-logo="" group-title="KURDISTAN",MTV Kids
+http://xlion.net:8080/747645/lion123123/429780
+#EXTINF:-1 tvg-ID="" tvg-name="NewLine" tvg-logo="" group-title="KURDISTAN",NewLine
+http://xlion.net:8080/747645/lion123123/429782
+#EXTINF:-1 tvg-ID="" tvg-name="Newline 2" tvg-logo="" group-title="KURDISTAN",Newline 2
+http://xlion.net:8080/747645/lion123123/429783
+#EXTINF:-1 tvg-ID="" tvg-name="NewMax Box Office 1" tvg-logo="" group-title="KURDISTAN",NewMax Box Office 1
+http://xlion.net:8080/747645/lion123123/429785
+#EXTINF:-1 tvg-ID="" tvg-name="Next TV" tvg-logo="" group-title="KURDISTAN",Next TV
+http://xlion.net:8080/747645/lion123123/429786
+#EXTINF:-1 tvg-ID="" tvg-name="Niga Family" tvg-logo="" group-title="KURDISTAN",Niga Family
+http://xlion.net:8080/747645/lion123123/429787
+#EXTINF:-1 tvg-ID="" tvg-name="Niga Kids" tvg-logo="" group-title="KURDISTAN",Niga Kids
+http://xlion.net:8080/747645/lion123123/429788
+#EXTINF:-1 tvg-ID="" tvg-name="Niga Movies" tvg-logo="" group-title="KURDISTAN",Niga Movies
+http://xlion.net:8080/747645/lion123123/429789
+#EXTINF:-1 tvg-ID="" tvg-name="Niroj" tvg-logo="" group-title="KURDISTAN",Niroj
+http://xlion.net:8080/747645/lion123123/429790
+#EXTINF:-1 tvg-ID="" tvg-name="Nishtimany mn" tvg-logo="" group-title="KURDISTAN",Nishtimany mn
+http://xlion.net:8080/747645/lion123123/429792
+#EXTINF:-1 tvg-ID="" tvg-name="Noor" tvg-logo="" group-title="KURDISTAN",Noor
+http://xlion.net:8080/747645/lion123123/429793
+#EXTINF:-1 tvg-ID="" tvg-name="NRT 2 Family" tvg-logo="" group-title="KURDISTAN",NRT 2 Family
+http://xlion.net:8080/747645/lion123123/429795
+#EXTINF:-1 tvg-ID="" tvg-name="NRT 3 Kids" tvg-logo="" group-title="KURDISTAN",NRT 3 Kids
+http://xlion.net:8080/747645/lion123123/429796
+#EXTINF:-1 tvg-ID="" tvg-name="NRT 4 Ayni" tvg-logo="" group-title="KURDISTAN",NRT 4 Ayni
+http://xlion.net:8080/747645/lion123123/429797
+#EXTINF:-1 tvg-ID="" tvg-name="One World" tvg-logo="" group-title="KURDISTAN",One World
+http://xlion.net:8080/747645/lion123123/429799
+#EXTINF:-1 tvg-ID="" tvg-name="Parwardai Hawler HD" tvg-logo="" group-title="KURDISTAN",Parwardai Hawler HD
+http://xlion.net:8080/747645/lion123123/429800
+#EXTINF:-1 tvg-ID="" tvg-name="Parwardayi Duhok" tvg-logo="" group-title="KURDISTAN",Parwardayi Duhok
+http://xlion.net:8080/747645/lion123123/429801
+#EXTINF:-1 tvg-ID="" tvg-name="Payam" tvg-logo="" group-title="KURDISTAN",Payam
+http://xlion.net:8080/747645/lion123123/429802
+#EXTINF:-1 tvg-ID="" tvg-name="Qalam Ayni" tvg-logo="" group-title="KURDISTAN",Qalam Ayni
+http://xlion.net:8080/747645/lion123123/429804
+#EXTINF:-1 tvg-ID="" tvg-name="Qalam geoghraphic" tvg-logo="" group-title="KURDISTAN",Qalam geoghraphic
+http://xlion.net:8080/747645/lion123123/429805
+#EXTINF:-1 tvg-ID="" tvg-name="Qalam kids" tvg-logo="" group-title="KURDISTAN",Qalam kids
+http://xlion.net:8080/747645/lion123123/429806
+#EXTINF:-1 tvg-ID="" tvg-name="Qalam TV" tvg-logo="" group-title="KURDISTAN",Qalam TV
+http://xlion.net:8080/747645/lion123123/429807
+#EXTINF:-1 tvg-ID="" tvg-name="Qalat" tvg-logo="" group-title="KURDISTAN",Qalat
+http://xlion.net:8080/747645/lion123123/429808
+#EXTINF:-1 tvg-ID="" tvg-name="Ranya" tvg-logo="" group-title="KURDISTAN",Ranya
+http://xlion.net:8080/747645/lion123123/429809
+#EXTINF:-1 tvg-ID="" tvg-name="Rasan" tvg-logo="" group-title="KURDISTAN",Rasan
+http://xlion.net:8080/747645/lion123123/429810
+#EXTINF:-1 tvg-ID="" tvg-name="RAVAND" tvg-logo="" group-title="KURDISTAN",RAVAND
+http://xlion.net:8080/747645/lion123123/429811
+#EXTINF:-1 tvg-ID="" tvg-name="Reng" tvg-logo="" group-title="KURDISTAN",Reng
+http://xlion.net:8080/747645/lion123123/429813
+#EXTINF:-1 tvg-ID="" tvg-name="Reng Document" tvg-logo="" group-title="KURDISTAN",Reng Document
+http://xlion.net:8080/747645/lion123123/429814
+#EXTINF:-1 tvg-ID="" tvg-name="Rojava" tvg-logo="" group-title="KURDISTAN",Rojava
+http://xlion.net:8080/747645/lion123123/429815
+#EXTINF:-1 tvg-ID="" tvg-name="Rojgar" tvg-logo="" group-title="KURDISTAN",Rojgar
+http://xlion.net:8080/747645/lion123123/429816
+#EXTINF:-1 tvg-ID="" tvg-name="Ronahi" tvg-logo="" group-title="KURDISTAN",Ronahi
+http://xlion.net:8080/747645/lion123123/429817
+#EXTINF:-1 tvg-ID="" tvg-name="Rozh" tvg-logo="" group-title="KURDISTAN",Rozh
+http://xlion.net:8080/747645/lion123123/429818
+#EXTINF:-1 tvg-ID="" tvg-name="SADA" tvg-logo="" group-title="KURDISTAN",SADA
+http://xlion.net:8080/747645/lion123123/429819
+#EXTINF:-1 tvg-ID="" tvg-name="Sahar Kurdi" tvg-logo="" group-title="KURDISTAN",Sahar Kurdi
+http://xlion.net:8080/747645/lion123123/429820
+#EXTINF:-1 tvg-ID="" tvg-name="Saudi Ch. For Sunnah" tvg-logo="" group-title="KURDISTAN",Saudi Ch. For Sunnah
+http://xlion.net:8080/747645/lion123123/429821
+#EXTINF:-1 tvg-ID="" tvg-name="Shaista" tvg-logo="" group-title="KURDISTAN",Shaista
+http://xlion.net:8080/747645/lion123123/429825
+#EXTINF:-1 tvg-ID="" tvg-name="Shna" tvg-logo="" group-title="KURDISTAN",Shna
+http://xlion.net:8080/747645/lion123123/429826
+#EXTINF:-1 tvg-ID="" tvg-name="Sima" tvg-logo="" group-title="KURDISTAN",Sima
+http://xlion.net:8080/747645/lion123123/429827
+#EXTINF:-1 tvg-ID="" tvg-name="Sima Documentary" tvg-logo="" group-title="KURDISTAN",Sima Documentary
+http://xlion.net:8080/747645/lion123123/429828
+#EXTINF:-1 tvg-ID="" tvg-name="Slemani" tvg-logo="" group-title="KURDISTAN",Slemani
+http://xlion.net:8080/747645/lion123123/429830
+#EXTINF:-1 tvg-ID="" tvg-name="Speda" tvg-logo="" group-title="KURDISTAN",Speda
+http://xlion.net:8080/747645/lion123123/429831
+#EXTINF:-1 tvg-ID="" tvg-name="Speda  Drama" tvg-logo="" group-title="KURDISTAN",Speda  Drama
+http://xlion.net:8080/747645/lion123123/429832
+#EXTINF:-1 tvg-ID="" tvg-name="Spi HD" tvg-logo="" group-title="KURDISTAN",Spi HD
+http://xlion.net:8080/747645/lion123123/429833
+#EXTINF:-1 tvg-ID="" tvg-name="Srusht" tvg-logo="" group-title="KURDISTAN",Srusht
+http://xlion.net:8080/747645/lion123123/429835
+#EXTINF:-1 tvg-ID="" tvg-name="Sterk" tvg-logo="" group-title="KURDISTAN",Sterk
+http://xlion.net:8080/747645/lion123123/429836
+#EXTINF:-1 tvg-ID="" tvg-name="tasawf" tvg-logo="" group-title="KURDISTAN",tasawf
+http://xlion.net:8080/747645/lion123123/429837
+#EXTINF:-1 tvg-ID="" tvg-name="TRT KURDI" tvg-logo="" group-title="KURDISTAN",TRT KURDI
+http://xlion.net:8080/747645/lion123123/429838
+#EXTINF:-1 tvg-ID="" tvg-name="U TV" tvg-logo="" group-title="KURDISTAN",U TV
+http://xlion.net:8080/747645/lion123123/429839
+#EXTINF:-1 tvg-ID="" tvg-name="U2" tvg-logo="" group-title="KURDISTAN",U2
+http://xlion.net:8080/747645/lion123123/429840
+#EXTINF:-1 tvg-ID="" tvg-name="UTV" tvg-logo="" group-title="KURDISTAN",UTV
+http://xlion.net:8080/747645/lion123123/429841
+#EXTINF:-1 tvg-ID="" tvg-name="UTV 2" tvg-logo="" group-title="KURDISTAN",UTV 2
+http://xlion.net:8080/747645/lion123123/429842
+#EXTINF:-1 tvg-ID="" tvg-name="UTV DUHOK  HD" tvg-logo="" group-title="KURDISTAN",UTV DUHOK  HD
+http://xlion.net:8080/747645/lion123123/429843
+#EXTINF:-1 tvg-ID="" tvg-name="WAAR" tvg-logo="" group-title="KURDISTAN",WAAR
+http://xlion.net:8080/747645/lion123123/429844
+#EXTINF:-1 tvg-ID="" tvg-name="Welat Tv" tvg-logo="" group-title="KURDISTAN",Welat Tv
+http://xlion.net:8080/747645/lion123123/429845
+#EXTINF:-1 tvg-ID="" tvg-name="Xabir" tvg-logo="" group-title="KURDISTAN",Xabir
+http://xlion.net:8080/747645/lion123123/429846
+#EXTINF:-1 tvg-ID="" tvg-name="Zagros TV" tvg-logo="" group-title="KURDISTAN",Zagros TV
+http://xlion.net:8080/747645/lion123123/429847
+#EXTINF:-1 tvg-ID="" tvg-name="Zarok Sorani" tvg-logo="" group-title="KURDISTAN",Zarok Sorani
+http://xlion.net:8080/747645/lion123123/429848
+#EXTINF:-1 tvg-ID="" tvg-name="Zaxo" tvg-logo="" group-title="KURDISTAN",Zaxo
+http://xlion.net:8080/747645/lion123123/429849
+#EXTINF:-1 tvg-ID="" tvg-name="Zaxo HD" tvg-logo="" group-title="KURDISTAN",Zaxo HD
+http://xlion.net:8080/747645/lion123123/429850
+#EXTINF:-1 tvg-ID="" tvg-name="Zed HD" tvg-logo="" group-title="KURDISTAN",Zed HD
+http://xlion.net:8080/747645/lion123123/429852
+#EXTINF:-1 tvg-ID="" tvg-name="ZED Plus" tvg-logo="" group-title="KURDISTAN",ZED Plus
+http://xlion.net:8080/747645/lion123123/429853
+#EXTINF:-1 tvg-ID="" tvg-name="Zhyar" tvg-logo="" group-title="KURDISTAN",Zhyar
+http://xlion.net:8080/747645/lion123123/429855
+#EXTINF:-1 tvg-ID="" tvg-name="Znar" tvg-logo="" group-title="KURDISTAN",Znar
+http://xlion.net:8080/747645/lion123123/429856
+#EXTINF:-1 tvg-ID="" tvg-name="K-Bangxwazen Badinan" tvg-logo="" group-title="KURDISTAN",K-Bangxwazen Badinan
+http://xlion.net:8080/747645/lion123123/429860
+#EXTINF:-1 tvg-ID="" tvg-name="K-Newline Bollywood" tvg-logo="" group-title="KURDISTAN",K-Newline Bollywood
+http://xlion.net:8080/747645/lion123123/429861
+#EXTINF:-1 tvg-ID="" tvg-name="K-Newline Drama" tvg-logo="" group-title="KURDISTAN",K-Newline Drama
+http://xlion.net:8080/747645/lion123123/429862
+#EXTINF:-1 tvg-ID="" tvg-name="K-Newline Kids" tvg-logo="" group-title="KURDISTAN",K-Newline Kids
+http://xlion.net:8080/747645/lion123123/429863
+#EXTINF:-1 tvg-ID="" tvg-name="K-Newline Movies" tvg-logo="" group-title="KURDISTAN",K-Newline Movies
+http://xlion.net:8080/747645/lion123123/429864
+#EXTINF:-1 tvg-ID="" tvg-name="Naqshi Media" tvg-logo="" group-title="KURDISTAN",Naqshi Media
+http://xlion.net:8080/747645/lion123123/429865
+#EXTINF:-1 tvg-ID="" tvg-name="KOMALA Media Network" tvg-logo="" group-title="KURDISTAN",KOMALA Media Network
+http://xlion.net:8080/747645/lion123123/429866
+#EXTINF:-1 tvg-ID="" tvg-name="Barnmay Barnama" tvg-logo="" group-title="KURDISTAN",Barnmay Barnama
+http://xlion.net:8080/747645/lion123123/429868
+#EXTINF:-1 tvg-ID="" tvg-name="Bazmi Bazm" tvg-logo="" group-title="KURDISTAN",Bazmi Bazm
+http://xlion.net:8080/747645/lion123123/429869
+#EXTINF:-1 tvg-ID="" tvg-name="Dramay 3 ba 4" tvg-logo="" group-title="KURDISTAN",Dramay 3 ba 4
+http://xlion.net:8080/747645/lion123123/429870
+#EXTINF:-1 tvg-ID="" tvg-name="Forever Badini Movies" tvg-logo="" group-title="KURDISTAN",Forever Badini Movies
+http://xlion.net:8080/747645/lion123123/429871
+#EXTINF:-1 tvg-ID="" tvg-name="Forever Badini Series" tvg-logo="" group-title="KURDISTAN",Forever Badini Series
+http://xlion.net:8080/747645/lion123123/429872
+#EXTINF:-1 tvg-ID="" tvg-name="Forever Cartoon 1" tvg-logo="" group-title="KURDISTAN",Forever Cartoon 1
+http://xlion.net:8080/747645/lion123123/429873
+#EXTINF:-1 tvg-ID="" tvg-name="Forever Cartoon 2" tvg-logo="" group-title="KURDISTAN",Forever Cartoon 2
+http://xlion.net:8080/747645/lion123123/429874
+#EXTINF:-1 tvg-ID="" tvg-name="Forever Cartoon 3" tvg-logo="" group-title="KURDISTAN",Forever Cartoon 3
+http://xlion.net:8080/747645/lion123123/429875
+#EXTINF:-1 tvg-ID="" tvg-name="Forever Documentary" tvg-logo="" group-title="KURDISTAN",Forever Documentary
+http://xlion.net:8080/747645/lion123123/429876
+#EXTINF:-1 tvg-ID="" tvg-name="Forever Tom & Jerry" tvg-logo="" group-title="KURDISTAN",Forever Tom & Jerry
+http://xlion.net:8080/747645/lion123123/429877
+#EXTINF:-1 tvg-ID="" tvg-name="Kurdcinema Action 1" tvg-logo="" group-title="KURDISTAN",Kurdcinema Action 1
+http://xlion.net:8080/747645/lion123123/429881
+#EXTINF:-1 tvg-ID="" tvg-name="Kurdcinema Action 2" tvg-logo="" group-title="KURDISTAN",Kurdcinema Action 2
+http://xlion.net:8080/747645/lion123123/429882
+#EXTINF:-1 tvg-ID="" tvg-name="Kurdcinema Action 3" tvg-logo="" group-title="KURDISTAN",Kurdcinema Action 3
+http://xlion.net:8080/747645/lion123123/429883
+#EXTINF:-1 tvg-ID="" tvg-name="Mr. Bean Kurdish" tvg-logo="" group-title="KURDISTAN",Mr. Bean Kurdish
+http://xlion.net:8080/747645/lion123123/429884
+#EXTINF:-1 tvg-ID="" tvg-name="Muhammad Mala Fayaq" tvg-logo="" group-title="KURDISTAN",Muhammad Mala Fayaq
+http://xlion.net:8080/747645/lion123123/429885
+#EXTINF:-1 tvg-ID="" tvg-name="NewMax Box Office" tvg-logo="" group-title="KURDISTAN",NewMax Box Office
+http://xlion.net:8080/747645/lion123123/429886
+#EXTINF:-1 tvg-ID="" tvg-name="Qaqa" tvg-logo="" group-title="KURDISTAN",Qaqa
+http://xlion.net:8080/747645/lion123123/429887
+#EXTINF:-1 tvg-ID="" tvg-name="Adnan Wa Lina 1" tvg-logo="" group-title="KURDISTAN",Adnan Wa Lina 1
+http://xlion.net:8080/747645/lion123123/429889
+#EXTINF:-1 tvg-ID="" tvg-name="K-Forever Cinema 1" tvg-logo="" group-title="KURDISTAN",K-Forever Cinema 1
+http://xlion.net:8080/747645/lion123123/429890
+#EXTINF:-1 tvg-ID="" tvg-name="K-Forever Cinema 2" tvg-logo="" group-title="KURDISTAN",K-Forever Cinema 2
+http://xlion.net:8080/747645/lion123123/429891
+#EXTINF:-1 tvg-ID="" tvg-name="K-Forever Cinema 3" tvg-logo="" group-title="KURDISTAN",K-Forever Cinema 3
+http://xlion.net:8080/747645/lion123123/429892
+#EXTINF:-1 tvg-ID="" tvg-name="K-Forever Fishing" tvg-logo="" group-title="KURDISTAN",K-Forever Fishing
+http://xlion.net:8080/747645/lion123123/429893
+#EXTINF:-1 tvg-ID="" tvg-name="K-Forever Kurdistan Nature" tvg-logo="" group-title="KURDISTAN",K-Forever Kurdistan Nature
+http://xlion.net:8080/747645/lion123123/429894
+#EXTINF:-1 tvg-ID="" tvg-name="K-Forever Pink Panther" tvg-logo="" group-title="KURDISTAN",K-Forever Pink Panther
+http://xlion.net:8080/747645/lion123123/429895
+#EXTINF:-1 tvg-ID="" tvg-name="K-KURD MOVIES" tvg-logo="" group-title="KURDISTAN",K-KURD MOVIES
+http://xlion.net:8080/747645/lion123123/429896
+#EXTINF:-1 tvg-ID="" tvg-name="MH ZaMaN_1" tvg-logo="" group-title="Monow3at",MH ZaMaN_1
+http://xlion.net:8080/747645/lion123123/440745
+#EXTINF:-1 tvg-ID="" tvg-name="MH ZaMaN_2" tvg-logo="" group-title="Monow3at",MH ZaMaN_2
+http://xlion.net:8080/747645/lion123123/440746
+#EXTINF:-1 tvg-ID="" tvg-name="MH Masrah_Masr" tvg-logo="" group-title="Monow3at",MH Masrah_Masr
+http://xlion.net:8080/747645/lion123123/440747
+#EXTINF:-1 tvg-ID="" tvg-name="MH masr7yat" tvg-logo="" group-title="Monow3at",MH masr7yat
+http://xlion.net:8080/747645/lion123123/440748
+#EXTINF:-1 tvg-ID="" tvg-name="MH horror_1" tvg-logo="" group-title="Monow3at",MH horror_1
+http://xlion.net:8080/747645/lion123123/440749
+#EXTINF:-1 tvg-ID="" tvg-name="MH horror_2" tvg-logo="" group-title="Monow3at",MH horror_2
+http://xlion.net:8080/747645/lion123123/440750
+#EXTINF:-1 tvg-ID="" tvg-name="MH HISTORY" tvg-logo="" group-title="Monow3at",MH HISTORY
+http://xlion.net:8080/747645/lion123123/440751
+#EXTINF:-1 tvg-ID="" tvg-name="MH Go_Movies" tvg-logo="" group-title="Monow3at",MH Go_Movies
+http://xlion.net:8080/747645/lion123123/440752
+#EXTINF:-1 tvg-ID="" tvg-name="MH FALAM_1" tvg-logo="" group-title="Monow3at",MH FALAM_1
+http://xlion.net:8080/747645/lion123123/440753
+#EXTINF:-1 tvg-ID="" tvg-name="MH FALAM_2" tvg-logo="" group-title="Monow3at",MH FALAM_2
+http://xlion.net:8080/747645/lion123123/440754
+#EXTINF:-1 tvg-ID="" tvg-name="MH FALAM_3" tvg-logo="" group-title="Monow3at",MH FALAM_3
+http://xlion.net:8080/747645/lion123123/440755
+#EXTINF:-1 tvg-ID="" tvg-name="MH action 1" tvg-logo="" group-title="Monow3at",MH action 1
+http://xlion.net:8080/747645/lion123123/440756
+#EXTINF:-1 tvg-ID="" tvg-name="MH action_2" tvg-logo="" group-title="Monow3at",MH action_2
+http://xlion.net:8080/747645/lion123123/440757
+#EXTINF:-1 tvg-ID="" tvg-name="Kanz Classic" tvg-logo="" group-title="Monow3at",Kanz Classic
+http://xlion.net:8080/747645/lion123123/440758
+#EXTINF:-1 tvg-ID="" tvg-name="Kanz WWe" tvg-logo="" group-title="Monow3at",Kanz WWe
+http://xlion.net:8080/747645/lion123123/440759
+#EXTINF:-1 tvg-ID="" tvg-name="Kanz Junior" tvg-logo="" group-title="Monow3at",Kanz Junior
+http://xlion.net:8080/747645/lion123123/440760
+#EXTINF:-1 tvg-ID="" tvg-name="Kanz kalibat" tvg-logo="" group-title="Monow3at",Kanz kalibat
+http://xlion.net:8080/747645/lion123123/440761
+#EXTINF:-1 tvg-ID="" tvg-name="Kanz Quran" tvg-logo="" group-title="Monow3at",Kanz Quran
+http://xlion.net:8080/747645/lion123123/440762
+#EXTINF:-1 tvg-ID="" tvg-name="Kanz Masr7yat" tvg-logo="" group-title="Monow3at",Kanz Masr7yat
+http://xlion.net:8080/747645/lion123123/440763
+#EXTINF:-1 tvg-ID="" tvg-name="Kanz Horror" tvg-logo="" group-title="Monow3at",Kanz Horror
+http://xlion.net:8080/747645/lion123123/440764
+#EXTINF:-1 tvg-ID="" tvg-name="Kanz Action" tvg-logo="" group-title="Monow3at",Kanz Action
+http://xlion.net:8080/747645/lion123123/440765
+#EXTINF:-1 tvg-ID="" tvg-name="Kanz Cinema" tvg-logo="" group-title="Monow3at",Kanz Cinema
+http://xlion.net:8080/747645/lion123123/440766
+#EXTINF:-1 tvg-ID="" tvg-name="Kanz Aflam" tvg-logo="" group-title="Monow3at",Kanz Aflam
+http://xlion.net:8080/747645/lion123123/440767
+#EXTINF:-1 tvg-ID="" tvg-name="Action Cinema 1" tvg-logo="" group-title="Monow3at",Action Cinema 1
+http://xlion.net:8080/747645/lion123123/440768
+#EXTINF:-1 tvg-ID="" tvg-name="Action Cinema 2" tvg-logo="" group-title="Monow3at",Action Cinema 2
+http://xlion.net:8080/747645/lion123123/440769
+#EXTINF:-1 tvg-ID="" tvg-name="Action Movies 1" tvg-logo="" group-title="Monow3at",Action Movies 1
+http://xlion.net:8080/747645/lion123123/440770
+#EXTINF:-1 tvg-ID="" tvg-name="Action Movies 2" tvg-logo="" group-title="Monow3at",Action Movies 2
+http://xlion.net:8080/747645/lion123123/440771
+#EXTINF:-1 tvg-ID="" tvg-name="Action on demand" tvg-logo="" group-title="Monow3at",Action on demand
+http://xlion.net:8080/747645/lion123123/440772
+#EXTINF:-1 tvg-ID="" tvg-name="Family Box aFlam 1" tvg-logo="" group-title="Monow3at",Family Box aFlam 1
+http://xlion.net:8080/747645/lion123123/440773
+#EXTINF:-1 tvg-ID="" tvg-name="Family Box aFlam 2" tvg-logo="" group-title="Monow3at",Family Box aFlam 2
+http://xlion.net:8080/747645/lion123123/440774
+#EXTINF:-1 tvg-ID="" tvg-name="Family Box Cinema 2" tvg-logo="" group-title="Monow3at",Family Box Cinema 2
+http://xlion.net:8080/747645/lion123123/440775
+#EXTINF:-1 tvg-ID="" tvg-name="Family Box History" tvg-logo="" group-title="Monow3at",Family Box History
+http://xlion.net:8080/747645/lion123123/440776
+#EXTINF:-1 tvg-ID="" tvg-name="Family Box Kids" tvg-logo="" group-title="Monow3at",Family Box Kids
+http://xlion.net:8080/747645/lion123123/440777
+#EXTINF:-1 tvg-ID="" tvg-name="Family Box Masr7" tvg-logo="" group-title="Monow3at",Family Box Masr7
+http://xlion.net:8080/747645/lion123123/440778
+#EXTINF:-1 tvg-ID="" tvg-name="Family Box Movies 1" tvg-logo="" group-title="Monow3at",Family Box Movies 1
+http://xlion.net:8080/747645/lion123123/440779
+#EXTINF:-1 tvg-ID="" tvg-name="Family Box oN demand" tvg-logo="" group-title="Monow3at",Family Box oN demand
+http://xlion.net:8080/747645/lion123123/440780
+#EXTINF:-1 tvg-ID="" tvg-name="AXA Action 1 HD" tvg-logo="" group-title="Monow3at",AXA Action 1 HD
+http://xlion.net:8080/747645/lion123123/440781
+#EXTINF:-1 tvg-ID="" tvg-name="AXA Action 2 HD" tvg-logo="" group-title="Monow3at",AXA Action 2 HD
+http://xlion.net:8080/747645/lion123123/440782
+#EXTINF:-1 tvg-ID="" tvg-name="AXA Aflam 1 HD" tvg-logo="" group-title="Monow3at",AXA Aflam 1 HD
+http://xlion.net:8080/747645/lion123123/440783
+#EXTINF:-1 tvg-ID="" tvg-name="AXA Aflam 2 HD" tvg-logo="" group-title="Monow3at",AXA Aflam 2 HD
+http://xlion.net:8080/747645/lion123123/440784
+#EXTINF:-1 tvg-ID="" tvg-name="AXA Kids HD" tvg-logo="" group-title="Monow3at",AXA Kids HD
+http://xlion.net:8080/747645/lion123123/440785
+#EXTINF:-1 tvg-ID="" tvg-name="AXA Horror HD" tvg-logo="" group-title="Monow3at",AXA Horror HD
+http://xlion.net:8080/747645/lion123123/440786
+#EXTINF:-1 tvg-ID="" tvg-name="AXA masr7yat HD" tvg-logo="" group-title="Monow3at",AXA masr7yat HD
+http://xlion.net:8080/747645/lion123123/440787
+#EXTINF:-1 tvg-ID="" tvg-name="AXA ZaMaN HD" tvg-logo="" group-title="Monow3at",AXA ZaMaN HD
+http://xlion.net:8080/747645/lion123123/440788
+#EXTINF:-1 tvg-ID="" tvg-name="Box_Aflam 1" tvg-logo="" group-title="Monow3at",Box_Aflam 1
+http://xlion.net:8080/747645/lion123123/440789
+#EXTINF:-1 tvg-ID="" tvg-name="Box_Aflam 2" tvg-logo="" group-title="Monow3at",Box_Aflam 2
+http://xlion.net:8080/747645/lion123123/440790
+#EXTINF:-1 tvg-ID="" tvg-name="Box_ACTION 1" tvg-logo="" group-title="Monow3at",Box_ACTION 1
+http://xlion.net:8080/747645/lion123123/440791
+#EXTINF:-1 tvg-ID="" tvg-name="Box_ACTION 2" tvg-logo="" group-title="Monow3at",Box_ACTION 2
+http://xlion.net:8080/747645/lion123123/440792
+#EXTINF:-1 tvg-ID="" tvg-name="Box_HORROR" tvg-logo="" group-title="Monow3at",Box_HORROR
+http://xlion.net:8080/747645/lion123123/440793
+#EXTINF:-1 tvg-ID="" tvg-name="Box_CLASSIC" tvg-logo="" group-title="Monow3at",Box_CLASSIC
+http://xlion.net:8080/747645/lion123123/440794
+#EXTINF:-1 tvg-ID="" tvg-name="Elkbeer Awy" tvg-logo="" group-title="Monow3at",Elkbeer Awy
+http://xlion.net:8080/747645/lion123123/438451
+#EXTINF:-1 tvg-ID="" tvg-name="Majestic_action HD" tvg-logo="" group-title="Monow3at",Majestic_action HD
+http://xlion.net:8080/747645/lion123123/438462
+#EXTINF:-1 tvg-ID="" tvg-name="Majestic_classic HD" tvg-logo="" group-title="Monow3at",Majestic_classic HD
+http://xlion.net:8080/747645/lion123123/438463
+#EXTINF:-1 tvg-ID="" tvg-name="Majestic_movies HD" tvg-logo="" group-title="Monow3at",Majestic_movies HD
+http://xlion.net:8080/747645/lion123123/438464
+#EXTINF:-1 tvg-ID="" tvg-name="AR: LEARN KURDISH KURMANJI 4K" tvg-logo="" group-title="LEARN",AR: LEARN KURDISH KURMANJI 4K
+http://xlion.net:8080/747645/lion123123/414119
+#EXTINF:-1 tvg-ID="" tvg-name="AR: LEARN KURDISH SORANI 4K" tvg-logo="" group-title="LEARN",AR: LEARN KURDISH SORANI 4K
+http://xlion.net:8080/747645/lion123123/414120
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 1 4K" tvg-logo="" group-title="Alwan Sport",Alwan Sport 1 4K
+http://xlion.net:8080/747645/lion123123/418111
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 1 HD" tvg-logo="" group-title="Alwan Sport",Alwan Sport 1 HD
+http://xlion.net:8080/747645/lion123123/418112
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 1 SD" tvg-logo="" group-title="Alwan Sport",Alwan Sport 1 SD
+http://xlion.net:8080/747645/lion123123/418113
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 2 4K" tvg-logo="" group-title="Alwan Sport",Alwan Sport 2 4K
+http://xlion.net:8080/747645/lion123123/418114
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 2 HD" tvg-logo="" group-title="Alwan Sport",Alwan Sport 2 HD
+http://xlion.net:8080/747645/lion123123/418115
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 2 SD" tvg-logo="" group-title="Alwan Sport",Alwan Sport 2 SD
+http://xlion.net:8080/747645/lion123123/418116
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 3 4K" tvg-logo="" group-title="Alwan Sport",Alwan Sport 3 4K
+http://xlion.net:8080/747645/lion123123/418117
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 3 HD" tvg-logo="" group-title="Alwan Sport",Alwan Sport 3 HD
+http://xlion.net:8080/747645/lion123123/418118
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 3 SD" tvg-logo="" group-title="Alwan Sport",Alwan Sport 3 SD
+http://xlion.net:8080/747645/lion123123/418119
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 4 4K" tvg-logo="" group-title="Alwan Sport",Alwan Sport 4 4K
+http://xlion.net:8080/747645/lion123123/418120
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 4 HD" tvg-logo="" group-title="Alwan Sport",Alwan Sport 4 HD
+http://xlion.net:8080/747645/lion123123/418121
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 4 SD" tvg-logo="" group-title="Alwan Sport",Alwan Sport 4 SD
+http://xlion.net:8080/747645/lion123123/418122
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 5 4K" tvg-logo="" group-title="Alwan Sport",Alwan Sport 5 4K
+http://xlion.net:8080/747645/lion123123/418123
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 5 HD" tvg-logo="" group-title="Alwan Sport",Alwan Sport 5 HD
+http://xlion.net:8080/747645/lion123123/418124
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 5 SD" tvg-logo="" group-title="Alwan Sport",Alwan Sport 5 SD
+http://xlion.net:8080/747645/lion123123/418125
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 6 4K" tvg-logo="" group-title="Alwan Sport",Alwan Sport 6 4K
+http://xlion.net:8080/747645/lion123123/418126
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 6 HD" tvg-logo="" group-title="Alwan Sport",Alwan Sport 6 HD
+http://xlion.net:8080/747645/lion123123/418127
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 6 SD" tvg-logo="" group-title="Alwan Sport",Alwan Sport 6 SD
+http://xlion.net:8080/747645/lion123123/418128
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 7 4K" tvg-logo="" group-title="Alwan Sport",Alwan Sport 7 4K
+http://xlion.net:8080/747645/lion123123/433739
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 8 4K" tvg-logo="" group-title="Alwan Sport",Alwan Sport 8 4K
+http://xlion.net:8080/747645/lion123123/433740
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 9 4K" tvg-logo="" group-title="Alwan Sport",Alwan Sport 9 4K
+http://xlion.net:8080/747645/lion123123/433741
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 10 4K" tvg-logo="" group-title="Alwan Sport",Alwan Sport 10 4K
+http://xlion.net:8080/747645/lion123123/433742
+#EXTINF:-1 tvg-ID="" tvg-name="KU: NRT Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: NRT Sport
+http://xlion.net:8080/747645/lion123123/358220
+#EXTINF:-1 tvg-ID="" tvg-name="KU: Kurdistan Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Kurdistan Sport
+http://xlion.net:8080/747645/lion123123/358219
+#EXTINF:-1 tvg-ID="" tvg-name="KU: Ava Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Ava Sport
+http://xlion.net:8080/747645/lion123123/358221
+#EXTINF:-1 tvg-ID="" tvg-name="KU: See Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: See Sport 1
+http://xlion.net:8080/747645/lion123123/358222
+#EXTINF:-1 tvg-ID="" tvg-name="KU: See Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: See Sport 2
+http://xlion.net:8080/747645/lion123123/358223
+#EXTINF:-1 tvg-ID="" tvg-name="KU: See Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: See Sport 3
+http://xlion.net:8080/747645/lion123123/358224
+#EXTINF:-1 tvg-ID="" tvg-name="KU: Aro Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Aro Sport
+http://xlion.net:8080/747645/lion123123/358225
+#EXTINF:-1 tvg-ID="" tvg-name="KU: Duhok Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Duhok Sport
+http://xlion.net:8080/747645/lion123123/358226
+#EXTINF:-1 tvg-ID="" tvg-name="KU: 4 Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: 4 Sport
+http://xlion.net:8080/747645/lion123123/358227
+#EXTINF:-1 tvg-ID="" tvg-name="KU: Astera Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Astera Sport
+http://xlion.net:8080/747645/lion123123/358228
+#EXTINF:-1 tvg-ID="" tvg-name="KU: LD Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: LD Sport
+http://xlion.net:8080/747645/lion123123/358229
+#EXTINF:-1 tvg-ID="" tvg-name="KU: Dasinya Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Dasinya Sport
+http://xlion.net:8080/747645/lion123123/358230
+#EXTINF:-1 tvg-ID="" tvg-name="KU: MTV Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: MTV Sport
+http://xlion.net:8080/747645/lion123123/358231
+#EXTINF:-1 tvg-ID="" tvg-name="KU:Aso Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU:Aso Sport
+http://xlion.net:8080/747645/lion123123/358232
+#EXTINF:-1 tvg-ID="" tvg-name="KU: Newline Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Newline Sport
+http://xlion.net:8080/747645/lion123123/358233
+#EXTINF:-1 tvg-ID="" tvg-name="KU: MMN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: MMN SPORT
+http://xlion.net:8080/747645/lion123123/358234
+#EXTINF:-1 tvg-ID="" tvg-name="KU: NUBAR SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: NUBAR SPORT
+http://xlion.net:8080/747645/lion123123/358235
+#EXTINF:-1 tvg-ID="" tvg-name="KU: SIMA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: SIMA SPORT
+http://xlion.net:8080/747645/lion123123/358236
+#EXTINF:-1 tvg-ID="" tvg-name="KU: Zaxo Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Zaxo Sport
+http://xlion.net:8080/747645/lion123123/358237
+#EXTINF:-1 tvg-ID="" tvg-name="KU: LD SPORT CHEAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: LD SPORT CHEAK
+http://xlion.net:8080/747645/lion123123/358238
+#EXTINF:-1 tvg-ID="" tvg-name="KU: Delal Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Delal Sport
+http://xlion.net:8080/747645/lion123123/358239
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Box Aflam 1" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Box Aflam 1
+http://xlion.net:8080/747645/lion123123/97509
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Box Aflam 2" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Box Aflam 2
+http://xlion.net:8080/747645/lion123123/97510
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Box ACTION 1" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Box ACTION 1
+http://xlion.net:8080/747645/lion123123/97511
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Box ACTION 2" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Box ACTION 2
+http://xlion.net:8080/747645/lion123123/97512
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Box HORROR" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Box HORROR
+http://xlion.net:8080/747645/lion123123/97513
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Box CLASSIC" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Box CLASSIC
+http://xlion.net:8080/747645/lion123123/97514
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AXA Action 1 H265" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA Action 1 H265
+http://xlion.net:8080/747645/lion123123/97515
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AXA Action 2 H265" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA Action 2 H265
+http://xlion.net:8080/747645/lion123123/97516
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AXA Aflam 1 H265" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA Aflam 1 H265
+http://xlion.net:8080/747645/lion123123/97517
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AXA Aflam 2 H265" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA Aflam 2 H265
+http://xlion.net:8080/747645/lion123123/97518
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AXA Kids H265" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA Kids H265
+http://xlion.net:8080/747645/lion123123/97519
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AXA Horror H265" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA Horror H265
+http://xlion.net:8080/747645/lion123123/97520
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AXA masr7yat H265" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA masr7yat H265
+http://xlion.net:8080/747645/lion123123/97521
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AXA ZaMaN H265" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA ZaMaN H265
+http://xlion.net:8080/747645/lion123123/97522
+#EXTINF:-1 tvg-ID="" tvg-name="AR: PLAY CINEMA1" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA1
+http://xlion.net:8080/747645/lion123123/43617
+#EXTINF:-1 tvg-ID="" tvg-name="AR: PLAY CINEMA2" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA2
+http://xlion.net:8080/747645/lion123123/43616
+#EXTINF:-1 tvg-ID="" tvg-name="AR: PLAY CINEMA3" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA3
+http://xlion.net:8080/747645/lion123123/43615
+#EXTINF:-1 tvg-ID="" tvg-name="AR: PLAY CINEMA4" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA4
+http://xlion.net:8080/747645/lion123123/43614
+#EXTINF:-1 tvg-ID="" tvg-name="AR: PLAY CINEMA5" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA5
+http://xlion.net:8080/747645/lion123123/43613
+#EXTINF:-1 tvg-ID="" tvg-name="AR: PLAY CINEMA6" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA6
+http://xlion.net:8080/747645/lion123123/43612
+#EXTINF:-1 tvg-ID="" tvg-name="AR: PLAY CINEMA7" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA7
+http://xlion.net:8080/747645/lion123123/43611
+#EXTINF:-1 tvg-ID="" tvg-name="AR: PLAY CINEMA8" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA8
+http://xlion.net:8080/747645/lion123123/43610
+#EXTINF:-1 tvg-ID="" tvg-name="AR: PLAY CINEMA9" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA9
+http://xlion.net:8080/747645/lion123123/43609
+#EXTINF:-1 tvg-ID="" tvg-name="AR: PLAY CINEMA10" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA10
+http://xlion.net:8080/747645/lion123123/43608
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MH action 1" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH action 1
+http://xlion.net:8080/747645/lion123123/43668
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MH action 2" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH action 2
+http://xlion.net:8080/747645/lion123123/43667
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MH FALAM 1" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH FALAM 1
+http://xlion.net:8080/747645/lion123123/43658
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MH FALAM 2" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH FALAM 2
+http://xlion.net:8080/747645/lion123123/43657
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MH FALAM 3" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH FALAM 3
+http://xlion.net:8080/747645/lion123123/43656
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MH HISTORY" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH HISTORY
+http://xlion.net:8080/747645/lion123123/43661
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MH horror 1" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH horror 1
+http://xlion.net:8080/747645/lion123123/43666
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MH horror 2" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH horror 2
+http://xlion.net:8080/747645/lion123123/43665
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MH masr7yat" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH masr7yat
+http://xlion.net:8080/747645/lion123123/43651
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MH Masrah Masr" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH Masrah Masr
+http://xlion.net:8080/747645/lion123123/43652
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MH Tom Jerry" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH Tom Jerry
+http://xlion.net:8080/747645/lion123123/43649
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MH WWE" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH WWE
+http://xlion.net:8080/747645/lion123123/43650
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MH ZaMaN 1" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH ZaMaN 1
+http://xlion.net:8080/747645/lion123123/43654
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MH ZaMaN 2" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH ZaMaN 2
+http://xlion.net:8080/747645/lion123123/43653
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Majestic action1 hd" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Majestic action1 hd
+http://xlion.net:8080/747645/lion123123/43637
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Majestic arabic 2hd" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Majestic arabic 2hd
+http://xlion.net:8080/747645/lion123123/43638
+#EXTINF:-1 tvg-ID="" tvg-name="AR: HOME CINEMA1" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA1
+http://xlion.net:8080/747645/lion123123/43627
+#EXTINF:-1 tvg-ID="" tvg-name="AR: HOME CINEMA2" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA2
+http://xlion.net:8080/747645/lion123123/43626
+#EXTINF:-1 tvg-ID="" tvg-name="AR: HOME CINEMA3" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA3
+http://xlion.net:8080/747645/lion123123/43625
+#EXTINF:-1 tvg-ID="" tvg-name="AR: HOME CINEMA4" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA4
+http://xlion.net:8080/747645/lion123123/43624
+#EXTINF:-1 tvg-ID="" tvg-name="AR: HOME CINEMA5" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA5
+http://xlion.net:8080/747645/lion123123/43623
+#EXTINF:-1 tvg-ID="" tvg-name="AR: HOME CINEMA6" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA6
+http://xlion.net:8080/747645/lion123123/43622
+#EXTINF:-1 tvg-ID="" tvg-name="AR: HOME CINEMA7" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA7
+http://xlion.net:8080/747645/lion123123/43621
+#EXTINF:-1 tvg-ID="" tvg-name="AR: HOME CINEMA8" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA8
+http://xlion.net:8080/747645/lion123123/43620
+#EXTINF:-1 tvg-ID="" tvg-name="AR: HOME CINEMA9" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA9
+http://xlion.net:8080/747645/lion123123/43619
+#EXTINF:-1 tvg-ID="" tvg-name="AR: HOME CINEMA10" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA10
+http://xlion.net:8080/747645/lion123123/43618
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beoutQ AFALAM HD H265" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: beoutQ AFALAM HD H265
+http://xlion.net:8080/747645/lion123123/43694
